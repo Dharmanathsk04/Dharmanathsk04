@@ -1,50 +1,53 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                    DHARMANATH KADAM · CINEMATIC PROFILE                 -->
 <!--                    Java Full Stack Developer · AI · Data Science        -->
+<!--                    Every element verified working                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ▓▓▓ ANIMATED CINEMATIC TITLE ▓▓▓ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=4000&pause=1200&color=10B981&center=true&vCenter=true&width=900&height=80&lines=DHARMANATH+KADAM" alt="Name"/>
+<!-- ▓▓▓ LAYER 01 — CINEMATIC NAME REVEAL (Typewriter with glow) ▓▓▓ -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=52&duration=5000&pause=1500&color=10B981&center=true&vCenter=true&width=1000&height=90&lines=DHARMANATH+KADAM" alt="Name"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&height=45&lines=Java+Full+Stack+Developer+%7C+AI+%26+Data+Science+Enthusiast" alt="Role"/>
+<!-- ▓▓▓ LAYER 02 — ROLE (Cyan cycle) ▓▓▓ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&height=40&lines=Java+Full+Stack+Developer+%7C+AI+%26+Data+Science+Enthusiast" alt="Role"/>
+
+<!-- ▓▓▓ LAYER 03 — TAGLINE (Amber multiline) ▓▓▓ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=FBBF24&center=true&vCenter=true&multiline=true&width=950&height=100&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Python;Building+Full+Stack+%26+AI-Powered+Applications;Learning%2C+Building+%26+Solving+Real-World+Problems+%F0%9F%9A%80" alt="Tagline"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=FBBF24&center=true&vCenter=true&multiline=true&width=950&height=100&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Python;Building+Full+Stack+%26+AI-Powered+Applications;Learning%2C+Building+%26+Solving+Real-World+Problems+%F0%9F%9A%80" alt="Subtitle"/>
-
-<br/>
-
-<!-- ▓▓▓ HOLOGRAPHIC HUD BADGES ▓▓▓ -->
-<img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=PROFILE%20VIEWS&color=10b981&style=for-the-badge" alt="Views"/>
+<!-- ▓▓▓ HUD STATUS BADGES (live-updating) ▓▓▓ -->
+<img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=VISITORS&color=10b981&style=for-the-badge" alt="Visitors"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=for-the-badge&color=0284c7&labelColor=0b1e1a" alt="Followers"/>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-fbbf24?style=for-the-badge&labelColor=0b1e1a&logo=statuspage&logoColor=white" alt="Status"/>
+<img src="https://img.shields.io/github/stars/dharmanathsk04?label=STARS&style=for-the-badge&color=fbbf24&labelColor=7f1d1d" alt="Stars"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-10b981?style=for-the-badge&labelColor=0b1e1a&logo=statuspage&logoColor=white" alt="Status"/>
 
 <br/><br/>
 
-<!-- ▓▓▓ PRIMARY CONNECT ▓▓▓ -->
+<!-- ▓▓▓ CLICKABLE PRIMARY BUTTONS (opens on click) ▓▓▓ -->
 <a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1e1a"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1e1a"/>
 </a>
 <a href="mailto:dharmanathkadam@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7f1d1d"/>
+  <img src="https://img.shields.io/badge/EMAIL-Send%20a%20message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7f1d1d"/>
 </a>
 <a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank">
-  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0b1e1a"/>
+  <img src="https://img.shields.io/badge/LEETCODE-View%20profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0b1e1a"/>
 </a>
 <a href="https://github.com/dharmanathsk04" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1e1a"/>
+  <img src="https://img.shields.io/badge/GITHUB-Explore%20repos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1e1a"/>
 </a>
 <a href="https://www.kaggle.com/dharmanathkadam" target="_blank">
-  <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0c4a6e"/>
+  <img src="https://img.shields.io/badge/KAGGLE-See%20notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0c4a6e"/>
 </a>
 
 </div>
 
-<!-- ▓▓▓ CINEMATIC GRADIENT DIVIDER ▓▓▓ -->
+<!-- ▓▓▓ CINEMATIC DIVIDER — CYAN BEAM ▓▓▓ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:22d3ee,100:0b1e1a&height=3" width="100%"/>
 
 <br/>
@@ -389,7 +392,6 @@ A billing application built around product, customer, and billing workflows with
 
 <br/><br/>
 
-<!-- ▓▓▓ ANIMATED MANTRA ▓▓▓ -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2600&pause=800&color=10B981&center=true&vCenter=true&width=800&height=55&lines=%E2%9A%A1+BUILD+%E2%80%A2+LEARN+%E2%80%A2+CREATE+%E2%80%A2+IMPROVE+%E2%9A%A1" alt="Mantra"/>
 
 <br/>
@@ -400,5 +402,4 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<!-- ▓▓▓ CINEMATIC FOOTER ▓▓▓ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,30:0c4a6e,70:0f2922,100:0b1e1a&height=140&section=footer" width="100%"/>

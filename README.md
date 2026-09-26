@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e1a,40:0f2922,70:0c4a6e,100:22d3ee&height=180&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e1a,40:0f2922,70:0c4a6e,100:22d3ee&height=160&section=header" width="100%"/>
 
 # DHARMANATH KADAM
 
@@ -217,7 +217,7 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<!-- ROW 1 — Contribution Graph (top, as requested) -->
+<!-- ROW 1 — Contribution Graph (TOP) -->
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanathsk04&bg_color=0b1e1a&color=34d399&line=0284c7&point=fbbf24&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
@@ -226,27 +226,7 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<!-- ROW 2 — Stats + Streak -->
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dharmanathsk04&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0b1e1a&title_color=10b981&icon_color=fbbf24&text_color=e5e7eb&border_radius=12" height="195" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmanathsk04&theme=github-dark-blue&hide_border=true&background=0c4a6e&ring=34d399&fire=fbbf24&currStreakLabel=34d399&sideLabels=e5e7eb&dates=e5e7eb&border_radius=12" height="195" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<!-- ROW 3 — Top Languages -->
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmanathsk04&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0b1e1a&title_color=10b981&text_color=e5e7eb&border_radius=12" height="180" alt="Top Languages"/>
-
-</div>
-
-<br/>
-
-<!-- ROW 4 — Profile Summary -->
+<!-- ROW 2 — Profile Summary (full width card) -->
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmanathsk04&theme=github_dark" width="100%" alt="Profile Summary"/>
@@ -255,10 +235,21 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<!-- ROW 5 — Animated Developer GIFs -->
+<!-- ROW 3 — Stats cards side by side -->
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="420" alt="Developer Working"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dharmanathsk04&theme=github_dark" height="180" alt="Most Commit Language"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dharmanathsk04&theme=github_dark&utcOffset=5.5" height="180" alt="Productive Time"/>
+
+</div>
+
+<br/>
+
+<!-- ROW 4 — Animated Developer GIFs (GitHub CDN, always works) -->
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Developer Working"/>
 &nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="180" alt="Coding Animation"/>
 
@@ -266,7 +257,7 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<!-- ROW 6 — Snake (works after workflow setup) -->
+<!-- ROW 5 — Contribution Snake (works after workflow setup) -->
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/dharmanathsk04/dharmanathsk04/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>

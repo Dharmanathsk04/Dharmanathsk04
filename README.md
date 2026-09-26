@@ -1,17 +1,22 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                DHARMANATH KADAM · GITHUB PROFILE                    -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    DHARMANATH KADAM · CINEMATIC PROFILE                 -->
+<!--                    Java Full Stack Developer · AI · Data Science        -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# DHARMANATH KADAM
+<!-- ▓▓▓ ANIMATED CINEMATIC TITLE ▓▓▓ -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=4000&pause=1200&color=10B981&center=true&vCenter=true&width=900&height=80&lines=DHARMANATH+KADAM" alt="Name"/>
 
-### Java Full Stack Developer · AI & Data Science Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=10B981&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Python;Building+Full+Stack+%26+AI-Powered+Applications;Learning%2C+Building+%26+Solving+Real-World+Problems+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&height=45&lines=Java+Full+Stack+Developer+%7C+AI+%26+Data+Science+Enthusiast" alt="Role"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=FBBF24&center=true&vCenter=true&multiline=true&width=950&height=100&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Python;Building+Full+Stack+%26+AI-Powered+Applications;Learning%2C+Building+%26+Solving+Real-World+Problems+%F0%9F%9A%80" alt="Subtitle"/>
+
+<br/>
+
+<!-- ▓▓▓ HOLOGRAPHIC HUD BADGES ▓▓▓ -->
 <img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=PROFILE%20VIEWS&color=10b981&style=for-the-badge" alt="Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=for-the-badge&color=0284c7&labelColor=0b1e1a" alt="Followers"/>
@@ -20,6 +25,7 @@
 
 <br/><br/>
 
+<!-- ▓▓▓ PRIMARY CONNECT ▓▓▓ -->
 <a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1e1a"/>
 </a>
@@ -38,13 +44,20 @@
 
 </div>
 
+<!-- ▓▓▓ CINEMATIC GRADIENT DIVIDER ▓▓▓ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:22d3ee,100:0b1e1a&height=3" width="100%"/>
+
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                            ABOUT ME                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                            👨‍💻 ABOUT ME                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">👨‍💻 About Me</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20ABOUT%20ME&fontSize=30&fontColor=10B981&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
   <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
@@ -64,11 +77,19 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                          TECH STACK                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:10b981,100:0b1e1a&height=2" width="100%"/>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                          🛠️ TECH STACK                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20STACK&fontSize=30&fontColor=22D3EE&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -100,11 +121,19 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       FEATURED PROJECTS                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:0284c7,100:0b1e1a&height=2" width="100%"/>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                       🚀 FEATURED PROJECTS                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%9A%80%20FEATURED%20PROJECTS&fontSize=30&fontColor=10B981&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 <table>
 <tr>
@@ -207,45 +236,35 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB ACTIVITY                               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📊 GitHub Activity</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:10b981,100:0b1e1a&height=2" width="100%"/>
 
 <br/>
 
-<!-- Contribution Graph — TOP -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                       📊 GITHUB ACTIVITY                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%93%8A%20GITHUB%20ACTIVITY&fontSize=30&fontColor=22D3EE&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanathsk04&bg_color=0b1e1a&color=34d399&line=0284c7&point=fbbf24&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 
-</div>
-
-<br/>
-
-<!-- Profile Summary -->
-<div align="center">
+<br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmanathsk04&theme=github_dark" width="100%" alt="Profile Summary"/>
 
-</div>
-
-<br/>
-
-<!-- Commit Language + Productive Time -->
-<div align="center">
+<br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dharmanathsk04&theme=github_dark" height="180" alt="Most Commit Language"/>
 &nbsp;&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dharmanathsk04&theme=github_dark&utcOffset=5.5" height="180" alt="Productive Time"/>
 
-</div>
-
-<br/>
-
-<!-- Animated Developer GIF -->
-<div align="center">
+<br/><br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="420" alt="Developer Working"/>
 
@@ -253,11 +272,19 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         ACHIEVEMENTS                                -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:0284c7,100:0b1e1a&height=2" width="100%"/>
 
-<h2 align="center">🏆 Achievements</h2>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         🏆 ACHIEVEMENTS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%8F%86%20ACHIEVEMENTS&fontSize=30&fontColor=FBBF24&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 | Achievement | Details |
 |:---|:---|
@@ -268,11 +295,19 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         EXPERIENCE                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:10b981,100:0b1e1a&height=2" width="100%"/>
 
-<h2 align="center">💼 Experience</h2>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         💼 EXPERIENCE                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%92%BC%20EXPERIENCE&fontSize=30&fontColor=22D3EE&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 | Role | Details |
 |:---|:---|
@@ -282,11 +317,19 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      CURRENTLY LEARNING                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:0284c7,100:0b1e1a&height=2" width="100%"/>
 
-<h2 align="center">🌱 Currently Learning</h2>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                      🌱 CURRENTLY LEARNING                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%8C%B1%20CURRENTLY%20LEARNING&fontSize=30&fontColor=10B981&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 | Area | Skills |
 |:---|:---|
@@ -297,11 +340,19 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         RESUME & CONNECT                            -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:10b981,100:0b1e1a&height=2" width="100%"/>
 
-<h2 align="center">📄 Resume & 🤝 Connect</h2>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         📄 RESUME & 🤝 CONNECT                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%93%84%20RESUME%20%26%20%F0%9F%A4%9D%20CONNECT&fontSize=28&fontColor=22D3EE&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -338,16 +389,16 @@ A billing application built around product, customer, and billing workflows with
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=650&height=60&lines=Always+learning+something+new...;Always+building+something+better...;Always+moving+forward+%F0%9F%9A%80" alt="Footer Typing"/>
+<!-- ▓▓▓ ANIMATED MANTRA ▓▓▓ -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2600&pause=800&color=10B981&center=true&vCenter=true&width=800&height=55&lines=%E2%9A%A1+BUILD+%E2%80%A2+LEARN+%E2%80%A2+CREATE+%E2%80%A2+IMPROVE+%E2%9A%A1" alt="Mantra"/>
 
 <br/>
 
-**⚡ Build · Learn · Create · Improve**
-
-**Thanks for visiting my profile!** 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=60&lines=Always+learning+something+new...;Always+building+something+better...;Always+moving+forward+%F0%9F%9A%80" alt="Footer Typing"/>
 
 </div>
 
 <br/>
 
+<!-- ▓▓▓ CINEMATIC FOOTER ▓▓▓ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,30:0c4a6e,70:0f2922,100:0b1e1a&height=140&section=footer" width="100%"/>

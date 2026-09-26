@@ -1,367 +1,221 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     DHARMANATH KADAM · GITHUB PROFILE
-     Palette: Forest Green · Ocean Blue · Ember Red · Amber Gold
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0b1e1a,45:0f2922,70:0c4a6e,90:075985,100:22d3ee&height=260&section=header&text=DHARMANATH%20KADAM&fontSize=56&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science%20Enthusiast&descAlignY=60&descSize=18&descColor=fbbf24&stroke=34d399&strokeWidth=1" width="100%"/>
+<!-- ============================================================ -->
+<!-- HEADER: Clean, professional banner with a cinematic wave. -->
+<!-- ============================================================ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e1a,30:0f2922,60:0c4a6e,100:22d3ee&height=220&section=header&text=DHARMANATH%20KADAM&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=60&descSize=18&descColor=fbbf24&stroke=34d399&strokeWidth=1" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=10B981&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Python;Building+Full+Stack+%26+AI-Powered+Applications;Learning%2C+Building+%26+Solving+Real-World+Problems+%F0%9F%9A%80" alt="Typing SVG"/>
+<!-- Animated typing line for a touch of personality. -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=10B981&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Python;Building+Full+Stack+%26+AI-Powered+Applications;Learning%2C+Building+%26+Solving+Real-World+Problems+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=PROFILE%20VIEWS&color=10b981&style=for-the-badge" alt="Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=for-the-badge&color=0284c7&labelColor=0b1e1a" alt="Followers"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/dharmanathsk04?label=STARS&style=for-the-badge&color=fbbf24&labelColor=7f1d1d" alt="Stars"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-10b981?style=for-the-badge&labelColor=0b1e1a&logo=statuspage&logoColor=white" alt="Status"/>
+<!-- Status and primary links, organized cleanly. -->
+<p>
+  <a href="https://github.com/dharmanathsk04"><img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=PROFILE%20VIEWS&color=10b981&style=for-the-badge" alt="Profile Views"/></a>
+  &nbsp;
+  <a href="https://github.com/dharmanathsk04?tab=followers"><img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=for-the-badge&color=0284c7&labelColor=0b1e1a" alt="Followers"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-fbbf24?style=for-the-badge&labelColor=0b1e1a&logo=statuspage&logoColor=white" alt="Status"/>
+</p>
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1e1a"/>
-</a>
-<a href="mailto:dharmanathkadam@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7f1d1d"/>
-</a>
-<a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank">
-  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0b1e1a"/>
-</a>
-<a href="https://github.com/dharmanathsk04" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1e1a"/>
-</a>
-<a href="https://www.kaggle.com/dharmanathkadam" target="_blank">
-  <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0c4a6e"/>
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1e1a"/></a>
+  <a href="mailto:dharmanathkadam@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7f1d1d"/></a>
+  <a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0b1e1a"/></a>
+  <a href="https://github.com/dharmanathsk04" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1e1a"/></a>
+</p>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:34d399,100:0b1e1a&height=2" width="100%"/>
-
-<br/>
-
-## 👨‍💻 About Me
-
-I'm **Dharmanath Santosh Kadam** — a **B.Tech Computer Science & Engineering (Data Science)** student focused on **Java Full Stack Development**, **Artificial Intelligence**, and **Data Science**.
-
-I design backend systems, build responsive frontend applications, work with relational and non-relational databases, and turn ideas into practical software solutions.
-
-<br/>
+<!-- ============================================================ -->
+<!-- ABOUT ME: Redesigned as a clean, professional dashboard. -->
+<!-- ============================================================ -->
+<h2 align="center">🚀 About Me</h2>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**🎓 Education**
-B.Tech — Computer Science & Engineering (Data Science)
-
-**💻 Core Focus**
-Java · Spring Boot · REST APIs · React
-
-**🌐 Frontend**
-React.js · Bootstrap · Tailwind CSS
-
-</td>
-<td width="50%" valign="top">
-
-**🤖 AI / Machine Learning**
-Machine Learning · Generative AI · Gemini API
-
-**📊 Data Science**
-Python · Pandas · NumPy · Power BI
-
-**🚀 Mission**
-Build software that solves real-world problems cleanly
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🎓 Education</b>
+      <br/>B.Tech — Computer Science & Engineering (Data Science)
+      <br/><br/>
+      <b>💻 Core Focus</b>
+      <br/>Java · Spring Boot · REST APIs · React
+      <br/><br/>
+      <b>🤖 AI / Machine Learning</b>
+      <br/>Machine Learning · Generative AI · Gemini API
+    </td>
+    <td width="50%" valign="top">
+      <b>🌐 Frontend</b>
+      <br/>React.js · Bootstrap · Tailwind CSS
+      <br/><br/>
+      <b>📊 Data Science</b>
+      <br/>Python · Pandas · NumPy · Power BI
+      <br/><br/>
+      <b>🚀 Mission</b>
+      <br/>Build software that solves real-world problems cleanly.
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:0284c7,100:0b1e1a&height=2" width="100%"/>
+<!-- ============================================================ -->
+<!-- TECH STACK: Compact 2-column grid for a clean look. -->
+<!-- ============================================================ -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h4>⚡ Programming & Core</h4>
+      <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
+      <br/><br/>
+      <h4>🌐 Backend & Frameworks</h4>
+      <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,flask,maven&theme=dark" />
+      <br/><br/>
+      <h4>🎨 Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,redux,vite&theme=dark" />
+    </td>
+    <td width="50%" align="center">
+      <h4>🗄️ Database</h4>
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis&theme=dark" />
+      <br/><br/>
+      <h4>🤖 Data Science & AI</h4>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter,anaconda&theme=dark" />
+      <br/><br/>
+      <h4>🛠️ Tools & Development</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,figma,linux,vercel&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-## 🛠️ Tech Stack
+<!-- ============================================================ -->
+<!-- FEATURED PROJECTS: Clean, bordered cards for each project. -->
+<!-- ============================================================ -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 CareVision</h3>
+      <p align="center"><b>AI-Based Healthcare Platform</b></p>
+      <p>A healthcare application combining prediction models, interactive dashboards, and AI-powered features.</p>
+      <div align="center">
+        <code>Python</code> · <code>Flask</code> · <code>MySQL</code> · <code>ML</code> · <code>Gemini</code>
+        <br/><br/>
+        <a href="#"><img src="https://img.shields.io/badge/VIEW%20PROJECT-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🐾 PawStay AI</h3>
+      <p align="center"><b>AI-Powered Pet Care Platform</b></p>
+      <p>A smart pet home-stay platform connecting pet owners with trusted caregivers through intelligent recommendations.</p>
+      <div align="center">
+        <code>Flutter</code> · <code>AI</code> · <code>Full Stack</code> · <code>Recommendations</code>
+        <br/><br/>
+        <a href="#"><img src="https://img.shields.io/badge/VIEW%20PROJECT-0284c7?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 ShopMate</h3>
+      <p align="center"><b>Java Spring Boot E-Commerce</b></p>
+      <p>A full-stack e-commerce app focused on backend development, REST APIs, database integration, and modern workflows.</p>
+      <div align="center">
+        <code>Java</code> · <code>Spring Boot</code> · <code>MySQL</code> · <code>React</code>
+        <br/><br/>
+        <a href="#"><img src="https://img.shields.io/badge/VIEW%20PROJECT-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 Clever Bill</h3>
+      <p align="center"><b>Business Billing & Management</b></p>
+      <p>Contributing to the development of a production billing application focused on mobile development and software engineering.</p>
+      <div align="center">
+        <code>Mobile</code> · <code>Billing</code> · <code>Enterprise</code> · <code>In Progress</code>
+        <br/><br/>
+        <a href="https://github.com/dharmanathsk04"><img src="https://img.shields.io/badge/REPOSITORY-fbbf24?style=for-the-badge&labelColor=7f1d1d&logo=github&logoColor=white"/></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 MiniLibrary</h3>
+      <p align="center"><b>Full Stack Library Management</b></p>
+      <p>A Java-based library management application with backend APIs, database integration, and a React frontend.</p>
+      <div align="center">
+        <code>Java</code> · <code>Spring Boot</code> · <code>MySQL</code> · <code>React</code>
+        <br/><br/>
+        <a href="#"><img src="https://img.shields.io/badge/VIEW%20PROJECT-0284c7?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧾 MiniBill</h3>
+      <p align="center"><b>Full Stack Billing Management</b></p>
+      <p>A billing application built around product, customer, and billing workflows with a modern architecture.</p>
+      <div align="center">
+        <code>Spring Boot</code> · <code>React</code> · <code>REST APIs</code> · <code>Database</code>
+        <br/><br/>
+        <a href="#"><img src="https://img.shields.io/badge/VIEW%20PROJECT-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ============================================================ -->
+<!-- GITHUB ANALYTICS: Working cards with a unified color scheme. -->
+<!-- ============================================================ -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-
-<h4>⚡ Programming & Core</h4>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
-
-<h4>🌐 Backend & Frameworks</h4>
-<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,flask,maven&theme=dark" />
-
-<h4>🎨 Frontend</h4>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,redux,vite&theme=dark" />
-
-<h4>🗄️ Database</h4>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis&theme=dark" />
-
-<h4>🤖 Data Science & AI</h4>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter,anaconda&theme=dark" />
-
-<h4>🛠️ Tools & Development</h4>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,figma,linux,vercel&theme=dark" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=dharmanathsk04&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0b1e1a&title_color=10b981&icon_color=fbbf24&text_color=e5e7eb&border_radius=12" height="190"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.demolab.com?user=dharmanathsk04&theme=dark&hide_border=true&background=0c4a6e&ring=34d399&fire=fbbf24&currStreakLabel=34d399&sideLabels=e5e7eb&dates=e5e7eb&border_radius=12" height="190"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmanathsk04&layout=compact&theme=github_dark&hide_border=true&langs_count=10&bg_color=0b1e1a&title_color=10b981&text_color=e5e7eb&border_radius=12" height="180"/>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanathsk04&bg_color=0b1e1a&color=34d399&line=0284c7&point=fbbf24&area=true&hide_border=true" width="100%"/>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:34d399,100:0b1e1a&height=2" width="100%"/>
+<!-- ============================================================ -->
+<!-- ACHIEVEMENTS: Replaced the odd image with a clean table. -->
+<!-- ============================================================ -->
+<h2 align="center">🏆 Achievements</h2>
+
+| Achievement | Details |
+|:---|:---|
+| 🥇 **Academic Excellence** | **1st Rank** in 2nd Year B.Tech — **84.20%** |
+| 🎓 **Merit Scholarship** | Sou. Shantadevi D. Patil Merit Scholarship Award **2025–26** |
+| 📜 **Certification** | NPTEL Python for Data Science — **71%** |
+| 💻 **Industry Experience** | Completed multiple Full Stack Development internships & training |
 
 <br/>
 
-## 🚀 Featured Projects
+<!-- ============================================================ -->
+<!-- EXPERIENCE & LEARNING: Clean, easy-to-read sections. -->
+<!-- ============================================================ -->
+<h2 align="center">💼 Experience</h2>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 CareVision
-
-**AI-Based Healthcare Platform**
-
-A healthcare application combining prediction models, interactive dashboards, data visualization, and AI-powered features.
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/ML-34d399?style=flat-square&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0b1e1a"/>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🐾 PawStay AI
-
-**AI-Powered Pet Care Platform**
-
-A smart pet home-stay and caregiver platform connecting pet owners with trusted caregivers through intelligent recommendations.
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/AI-38bdf8?style=flat-square&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/Full%20Stack-0284c7?style=flat-square&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/Recommendations-fbbf24?style=flat-square&labelColor=7f1d1d"/>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-0284c7?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 ShopMate
-
-**Java Spring Boot E-Commerce Application**
-
-A full-stack e-commerce application focused on backend development, REST APIs, database integration, and modern frontend workflows.
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0b1e1a"/>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 Clever Bill
-
-**Business Billing & Management Application**
-
-Contributing to the development of Clever Bill, focused on mobile application development and software engineering.
-
-<img src="https://img.shields.io/badge/Mobile-38bdf8?style=flat-square&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/Billing-fbbf24?style=flat-square&labelColor=7f1d1d"/>
-<img src="https://img.shields.io/badge/In%20Progress-22c55e?style=flat-square&labelColor=0b1e1a"/>
-
-<a href="https://github.com/dharmanathsk04">
-  <img src="https://img.shields.io/badge/REPOSITORY-fbbf24?style=for-the-badge&labelColor=7f1d1d&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 MiniLibrary
-
-**Full Stack Library Management System**
-
-A Java-based library management application with backend APIs, database integration, and a React frontend.
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0b1e1a"/>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-0284c7?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧾 MiniBill
-
-**Full Stack Billing Management System**
-
-A billing application built around product, customer, and billing workflows using a modern full-stack architecture.
-
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/REST%20APIs-38bdf8?style=flat-square&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/Database-34d399?style=flat-square&labelColor=0b1e1a"/>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
+*   **DASP Private Limited** — *Java Full Stack Development Intern*
+    `Java` · `Spring Boot` · `Spring Data JPA` · `Hibernate` · `REST APIs` · `MySQL` · `React`
+*   **The Kiran Academy** — *Java Full Stack Internship & Training*
+    `Core Java` · `JDBC` · `SQL` · `Advanced Java` · `Hibernate` · `Spring Boot MVC` · `React` · `Servlet/JSP` · `Postman`
+*   **Acmegrade** — *Full Stack Development Intern*
+    Practical full-stack development work involving frontend, backend, and database technologies.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:34d399,100:0b1e1a&height=2" width="100%"/>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dharmanathsk04&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0b1e1a&title_color=34d399&icon_color=fbbf24&text_color=e5e7eb&border_radius=12" height="190"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.demolab.com?user=dharmanathsk04&theme=dark&hide_border=true&background=0c4a6e&ring=34d399&fire=fbbf24&currStreakLabel=34d399&sideLabels=e5e7eb&dates=e5e7eb&border_radius=12" height="190"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmanathsk04&layout=compact&theme=github_dark&hide_border=true&langs_count=10&bg_color=0b1e1a&title_color=34d399&text_color=e5e7eb&border_radius=12" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmanathsk04&theme=github_dark" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanathsk04&bg_color=0b1e1a&color=34d399&line=0284c7&point=fbbf24&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:0284c7,100:0b1e1a&height=2" width="100%"/>
-
-<br/>
-
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dharmanathsk04&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="60%">
-
-**🥇 Academic Excellence**
-1st Rank in 2nd Year B.Tech — 84.20%
-
-**🎓 Merit Scholarship**
-Sou. Shantadevi D. Patil Merit Scholarship Award 2025–26
-
-</td>
-<td width="40%">
-
-**📜 Certification**
-NPTEL Python for Data Science — 71%
-
-**💻 Industry Experience**
-Multiple Full Stack Development internships & training
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:34d399,100:0b1e1a&height=2" width="100%"/>
-
-<br/>
-
-## 💼 Experience
-
-<table>
-<tr>
-<td width="30%" valign="top">
-
-**DASP Private Limited**
-
-Java Full Stack Development Intern
-
-</td>
-<td width="70%" valign="top">
-
-`Java` · `Spring Boot` · `Spring Data JPA` · `Hibernate` · `REST APIs` · `MySQL` · `React`
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**The Kiran Academy**
-
-Java Full Stack Internship & Training
-
-</td>
-<td valign="top">
-
-`Core Java` · `JDBC` · `SQL` · `Advanced Java` · `Hibernate` · `Spring Boot MVC` · `React` · `Servlet/JSP` · `Postman`
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**Acmegrade**
-
-Full Stack Development Intern
-
-</td>
-<td valign="top">
-
-Practical full-stack development work involving frontend, backend, and database technologies.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:0284c7,100:0b1e1a&height=2" width="100%"/>
-
-<br/>
-
-## 🌱 Currently Learning
+<h2 align="center">🌱 Currently Learning</h2>
 
 | Area | Skills |
 |:---|:---|
@@ -372,71 +226,35 @@ Practical full-stack development work involving frontend, backend, and database 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:34d399,100:0b1e1a&height=2" width="100%"/>
-
-<br/>
-
-## 📄 Resume
+<!-- ============================================================ -->
+<!-- RESUME & CONNECT: Final, working links. -->
+<!-- ============================================================ -->
+<h2 align="center">📄 Resume & 🤝 Connect</h2>
 
 <div align="center">
-
-<a href="https://drive.google.com/file/d/1ID75LUVdrC4dDKWRzlFk5IVtnv4UoyMp/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%93%84%20VIEW%20MY%20RESUME-10b981?style=for-the-badge&labelColor=0b1e1a&logo=googledrive&logoColor=white"/>
-</a>
-
+  <p><i>Click below to view my full resume.</i></p>
+  <a href="https://drive.google.com/file/d/1ID75LUVdrC4dDKWRzlFk5IVtnv4UoyMp/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%93%84%20VIEW%20MY%20RESUME-10b981?style=for-the-badge&labelColor=0b1e1a&logo=googledrive&logoColor=white"/>
+  </a>
+  <br/><br/>
+  <p>Let's connect and build something great together.</p>
+  <a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1e1a"/></a>
+  <a href="mailto:dharmanathkadam@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7f1d1d"/></a>
+  <a href="https://github.com/dharmanathsk04" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1e1a"/></a>
+  <a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0b1e1a"/></a>
+  <a href="https://www.kaggle.com/dharmanathkadam" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0c4a6e"/></a>
+  <a href="https://www.hackerrank.com/dharmanathkadam" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0b1e1a"/></a>
+  <a href="https://codepen.io/@dharmanath04" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=7f1d1d"/></a>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:0284c7,100:0b1e1a&height=2" width="100%"/>
-
-<br/>
-
-## 🤝 Let's Connect
-
+<!-- ============================================================ -->
+<!-- FOOTER: Simple, clean, and professional. -->
+<!-- ============================================================ -->
 <div align="center">
-
-<a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1e1a"/>
-</a>
-<a href="mailto:dharmanathkadam@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7f1d1d"/>
-</a>
-<a href="https://github.com/dharmanathsk04" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1e1a"/>
-</a>
-<a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0b1e1a"/>
-</a>
-
-<br/>
-
-<a href="https://www.kaggle.com/dharmanathkadam" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0c4a6e"/>
-</a>
-<a href="https://www.hackerrank.com/dharmanathkadam" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0b1e1a"/>
-</a>
-<a href="https://codepen.io/@dharmanath04" target="_blank">
-  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=7f1d1d"/>
-</a>
-
-<br/><br/>
-
-**⚡ Build · Learn · Create · Improve**
-
-**Thanks for visiting my GitHub profile!** 🚀
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=650&height=60&lines=Always+learning+something+new...;Always+building+something+better...;Always+moving+forward+%F0%9F%9A%80" alt="Footer Typing"/>
-
+  <p><b>⚡ Build · Learn · Create · Improve</b></p>
+  <p>Thanks for visiting my profile! 🚀</p>
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:34d399,100:0b1e1a&height=2" width="100%"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,20:0ea5e9,45:0c4a6e,70:0f2922,90:0b1e1a,100:020617&height=160&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,30:0c4a6e,70:0f2922,100:0b1e1a&height=120&section=footer" width="100%"/>

@@ -1,11 +1,14 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                DHARMANATH KADAM · GITHUB PROFILE                    -->
-<!--           One consistent animation: twinkling banners                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e1a,40:0f2922,70:0c4a6e,100:22d3ee&height=220&section=header&text=DHARMANATH%20KADAM&fontSize=52&fontAlignY=36&fontColor=ffffff&animation=twinkling&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=60&descSize=18&descColor=fbbf24&stroke=34d399&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e1a,40:0f2922,70:0c4a6e,100:22d3ee&height=180&section=header" width="100%"/>
+
+# DHARMANATH KADAM
+
+### Java Full Stack Developer · AI & Data Science Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=10B981&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Python;Building+Full+Stack+%26+AI-Powered+Applications;Learning%2C+Building+%26+Solving+Real-World+Problems+%F0%9F%9A%80" alt="Typing SVG"/>
 
@@ -43,14 +46,10 @@
 <!--                            ABOUT ME                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20ABOUT%20ME&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
-</div>
-
-<br/>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
-  <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
+  <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
 </div>
 
 ### Hello, I'm **Dharmanath Santosh Kadam** 👋
@@ -71,11 +70,7 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by
 <!--                          TECH STACK                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20STACK&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
-</div>
-
-<br/>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
@@ -111,11 +106,7 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by
 <!--                       FEATURED PROJECTS                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%9A%80%20FEATURED%20PROJECTS&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
-</div>
-
-<br/>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <table>
 <tr>
@@ -220,62 +211,65 @@ A billing application built around product, customer, and billing workflows with
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                       GITHUB ACTIVITY                               -->
-<!--            Contribution chart on top · GIFs · no broken stats       -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
+<h2 align="center">📊 GitHub Activity</h2>
+
+<br/>
+
+<!-- ROW 1 — Contribution Graph (top, as requested) -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%93%8A%20GITHUB%20ACTIVITY&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanathsk04&bg_color=0b1e1a&color=34d399&line=0284c7&point=fbbf24&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+
 </div>
 
 <br/>
 
+<!-- ROW 2 — Stats + Streak -->
 <div align="center">
 
-<!-- ░░░ CONTRIBUTION CHART — TOP ░░░ -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanathsk04&bg_color=0b1e1a&color=34d399&line=0284c7&point=fbbf24&area=true&hide_border=true&custom_title=Dharmanath%27s%20Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dharmanathsk04&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0b1e1a&title_color=10b981&icon_color=fbbf24&text_color=e5e7eb&border_radius=12" height="195" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmanathsk04&theme=github-dark-blue&hide_border=true&background=0c4a6e&ring=34d399&fire=fbbf24&currStreakLabel=34d399&sideLabels=e5e7eb&dates=e5e7eb&border_radius=12" height="195" alt="GitHub Streak"/>
 
-<br/><br/>
+</div>
 
-<!-- ░░░ CONTRIBUTION SNAKE (if workflow set up) ░░░ -->
-<img src="https://raw.githubusercontent.com/dharmanathsk04/dharmanathsk04/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+<br/>
 
-<br/><br/>
+<!-- ROW 3 — Top Languages -->
+<div align="center">
 
-<!-- ░░░ ANIMATED DEVELOPER GIFs (always work) ░░░ -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmanathsk04&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0b1e1a&title_color=10b981&text_color=e5e7eb&border_radius=12" height="180" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<!-- ROW 4 — Profile Summary -->
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmanathsk04&theme=github_dark" width="100%" alt="Profile Summary"/>
+
+</div>
+
+<br/>
+
+<!-- ROW 5 — Animated Developer GIFs -->
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="420" alt="Developer Working"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="200" alt="Coding Animation"/>
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="180" alt="Coding Animation"/>
 
-<br/><br/>
+</div>
 
-<!-- ░░░ ANIMATED CODING GIF ░░░ -->
-<img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="180" alt="Code"/>
-&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4c1aeb7b1.gif" width="180" alt="Code 2"/>
-&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="180" alt="Code 3"/>
-&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="180" alt="Code 4"/>
+<br/>
 
-<br/><br/>
+<!-- ROW 6 — Snake (works after workflow setup) -->
+<div align="center">
 
-<!-- ░░░ LIVE STATS BADGES (always render) ░░░ -->
-<a href="https://github.com/dharmanathsk04?tab=repositories">
-  <img src="https://img.shields.io/badge/PUBLIC%20REPOS-View%20All-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/dharmanathsk04?tab=stars">
-  <img src="https://img.shields.io/badge/STARRED-View%20All-fbbf24?style=for-the-badge&labelColor=7f1d1d&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/dharmanathsk04?tab=followers">
-  <img src="https://img.shields.io/badge/FOLLOWERS-Join-0284c7?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<!-- ░░░ ANIMATED CONTRIBUTION ROCKET ░░░ -->
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.gif" width="480" alt="Rocket"/>
+<img src="https://raw.githubusercontent.com/dharmanathsk04/dharmanathsk04/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
@@ -285,11 +279,7 @@ A billing application built around product, customer, and billing workflows with
 <!--                         ACHIEVEMENTS                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%8F%86%20ACHIEVEMENTS&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
-</div>
-
-<br/>
+<h2 align="center">🏆 Achievements</h2>
 
 | Achievement | Details |
 |:---|:---|
@@ -304,56 +294,13 @@ A billing application built around product, customer, and billing workflows with
 <!--                         EXPERIENCE                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%92%BC%20EXPERIENCE&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
-</div>
+<h2 align="center">💼 Experience</h2>
 
-<br/>
-
-<table>
-<tr>
-<td width="35%" valign="top">
-
-**🔹 DASP Private Limited**
-
-*Java Full Stack Development Intern*
-
-</td>
-<td width="65%" valign="top">
-
-`Java` · `Spring Boot` · `Spring Data JPA` · `Hibernate` · `REST APIs` · `MySQL` · `React`
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**🔹 The Kiran Academy**
-
-*Java Full Stack Internship & Training*
-
-</td>
-<td valign="top">
-
-`Core Java` · `JDBC` · `SQL` · `Advanced Java` · `Hibernate` · `Spring Boot MVC` · `React` · `Servlet/JSP` · `Postman`
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**🔹 Acmegrade**
-
-*Full Stack Development Intern*
-
-</td>
-<td valign="top">
-
-Practical full-stack development work involving frontend, backend, and database technologies.
-
-</td>
-</tr>
-</table>
+| Role | Details |
+|:---|:---|
+| **🔹 DASP Private Limited** — *Java Full Stack Development Intern* | `Java` · `Spring Boot` · `Spring Data JPA` · `Hibernate` · `REST APIs` · `MySQL` · `React` |
+| **🔹 The Kiran Academy** — *Java Full Stack Internship & Training* | `Core Java` · `JDBC` · `SQL` · `Advanced Java` · `Hibernate` · `Spring Boot MVC` · `React` · `Servlet/JSP` · `Postman` |
+| **🔹 Acmegrade** — *Full Stack Development Intern* | Practical full-stack development work involving frontend, backend, and database technologies |
 
 <br/>
 
@@ -361,11 +308,7 @@ Practical full-stack development work involving frontend, backend, and database 
 <!--                      CURRENTLY LEARNING                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%8C%B1%20CURRENTLY%20LEARNING&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
-</div>
-
-<br/>
+<h2 align="center">🌱 Currently Learning</h2>
 
 | Area | Skills |
 |:---|:---|
@@ -380,11 +323,7 @@ Practical full-stack development work involving frontend, backend, and database 
 <!--                         RESUME & CONNECT                            -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%93%84%20RESUME%20%26%20%F0%9F%A4%9D%20CONNECT&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
-</div>
-
-<br/>
+<h2 align="center">📄 Resume & 🤝 Connect</h2>
 
 <div align="center">
 
@@ -433,4 +372,4 @@ Practical full-stack development work involving frontend, backend, and database 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,30:0c4a6e,70:0f2922,100:0b1e1a&height=140&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,30:0c4a6e,70:0f2922,100:0b1e1a&height=140&section=footer" width="100%"/>

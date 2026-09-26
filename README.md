@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e1a,40:0f2922,70:0c4a6e,100:22d3ee&height=160&section=header" width="100%"/>
-
 # DHARMANATH KADAM
 
 ### Java Full Stack Developer · AI & Data Science Enthusiast
@@ -84,19 +82,19 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by
 
 **🎨 Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,redux,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark" />
 
 **🗄️ Database**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
 
 **🤖 Data Science & AI**
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter,anaconda&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter&theme=dark" />
 
 **🛠️ Tools & Development**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,figma,linux,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,figma&theme=dark" />
 
 </div>
 
@@ -217,7 +215,7 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<!-- ROW 1 — Contribution Graph (TOP) -->
+<!-- Contribution Graph — TOP -->
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanathsk04&bg_color=0b1e1a&color=34d399&line=0284c7&point=fbbf24&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
@@ -226,7 +224,7 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<!-- ROW 2 — Profile Summary (full width card) -->
+<!-- Profile Summary -->
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmanathsk04&theme=github_dark" width="100%" alt="Profile Summary"/>
@@ -235,7 +233,7 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<!-- ROW 3 — Stats cards side by side -->
+<!-- Commit Language + Productive Time -->
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dharmanathsk04&theme=github_dark" height="180" alt="Most Commit Language"/>
@@ -246,21 +244,10 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<!-- ROW 4 — Animated Developer GIFs (GitHub CDN, always works) -->
+<!-- Animated Developer GIF -->
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Developer Working"/>
-&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="180" alt="Coding Animation"/>
-
-</div>
-
-<br/>
-
-<!-- ROW 5 — Contribution Snake (works after workflow setup) -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dharmanathsk04/dharmanathsk04/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="420" alt="Developer Working"/>
 
 </div>
 

@@ -1,10 +1,11 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                DHARMANATH KADAM · GITHUB PROFILE                    -->
+<!--           One consistent animation: twinkling banners                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e1a,40:0f2922,70:0c4a6e,100:22d3ee&height=220&section=header&text=DHARMANATH%20KADAM&fontSize=52&fontAlignY=36&fontColor=ffffff&animation=fadeIn&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=60&descSize=18&descColor=fbbf24&stroke=34d399&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e1a,40:0f2922,70:0c4a6e,100:22d3ee&height=220&section=header&text=DHARMANATH%20KADAM&fontSize=52&fontAlignY=36&fontColor=ffffff&animation=twinkling&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=60&descSize=18&descColor=fbbf24&stroke=34d399&strokeWidth=1" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=10B981&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Python;Building+Full+Stack+%26+AI-Powered+Applications;Learning%2C+Building+%26+Solving+Real-World+Problems+%F0%9F%9A%80" alt="Typing SVG"/>
 
@@ -42,10 +43,14 @@
 <!--                            ABOUT ME                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">👨‍💻 About Me</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20ABOUT%20ME&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
-  <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
+  <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
 </div>
 
 ### Hello, I'm **Dharmanath Santosh Kadam** 👋
@@ -60,17 +65,17 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by
 
 <br clear="right"/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:34d399,100:0b1e1a&height=2" width="100%"/>
-</div>
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                          TECH STACK                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20STACK&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -102,17 +107,15 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:0284c7,100:0b1e1a&height=2" width="100%"/>
-</div>
-
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                       FEATURED PROJECTS                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🚀 Featured Projects</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%9A%80%20FEATURED%20PROJECTS&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 <table>
 <tr>
@@ -215,41 +218,65 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       GITHUB ACTIVITY                               -->
+<!--            Contribution chart on top · GIFs · no broken stats       -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:34d399,100:0b1e1a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%93%8A%20GITHUB%20ACTIVITY&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB ANALYTICS (GIF)                          -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📊 GitHub Activity</h2>
-
 <div align="center">
 
-<!-- Working animated contribution graph (image-based, always renders) -->
+<!-- ░░░ CONTRIBUTION CHART — TOP ░░░ -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanathsk04&bg_color=0b1e1a&color=34d399&line=0284c7&point=fbbf24&area=true&hide_border=true&custom_title=Dharmanath%27s%20Contribution%20Graph" width="100%"/>
 
 <br/><br/>
 
-<!-- Working GIF — Developer at laptop working -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="480" alt="Developer Working"/>
+<!-- ░░░ CONTRIBUTION SNAKE (if workflow set up) ░░░ -->
+<img src="https://raw.githubusercontent.com/dharmanathsk04/dharmanathsk04/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
-<br/>
+<br/><br/>
 
-<!-- Live animated stats GIF (works reliably) -->
-<img src="https://github-readme-stats.vercel.app/api?username=dharmanathsk04&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0b1e1a&title_color=10b981&icon_color=fbbf24&text_color=e5e7eb&border_radius=12&cache_seconds=1800" height="190"/>
+<!-- ░░░ ANIMATED DEVELOPER GIFs (always work) ░░░ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="420" alt="Developer Working"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="200" alt="Coding Animation"/>
+
+<br/><br/>
+
+<!-- ░░░ ANIMATED CODING GIF ░░░ -->
+<img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="180" alt="Code"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.demolab.com?user=dharmanathsk04&theme=dark&hide_border=true&background=0c4a6e&ring=34d399&fire=fbbf24&currStreakLabel=34d399&sideLabels=e5e7eb&dates=e5e7eb&border_radius=12&cache_seconds=1800" height="190"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4c1aeb7b1.gif" width="180" alt="Code 2"/>
+&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="180" alt="Code 3"/>
+&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="180" alt="Code 4"/>
 
-</div>
+<br/><br/>
 
-<br/>
+<!-- ░░░ LIVE STATS BADGES (always render) ░░░ -->
+<a href="https://github.com/dharmanathsk04?tab=repositories">
+  <img src="https://img.shields.io/badge/PUBLIC%20REPOS-View%20All-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/dharmanathsk04?tab=stars">
+  <img src="https://img.shields.io/badge/STARRED-View%20All-fbbf24?style=for-the-badge&labelColor=7f1d1d&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/dharmanathsk04?tab=followers">
+  <img src="https://img.shields.io/badge/FOLLOWERS-Join-0284c7?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
+</a>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:0284c7,100:0b1e1a&height=2" width="100%"/>
+<br/><br/>
+
+<!-- ░░░ ANIMATED CONTRIBUTION ROCKET ░░░ -->
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.gif" width="480" alt="Rocket"/>
+
 </div>
 
 <br/>
@@ -258,7 +285,11 @@ A billing application built around product, customer, and billing workflows with
 <!--                         ACHIEVEMENTS                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🏆 Achievements</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%8F%86%20ACHIEVEMENTS&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 | Achievement | Details |
 |:---|:---|
@@ -269,17 +300,15 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:34d399,100:0b1e1a&height=2" width="100%"/>
-</div>
-
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                         EXPERIENCE                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">💼 Experience</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%92%BC%20EXPERIENCE&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 <table>
 <tr>
@@ -328,17 +357,15 @@ Practical full-stack development work involving frontend, backend, and database 
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:0284c7,100:0b1e1a&height=2" width="100%"/>
-</div>
-
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                      CURRENTLY LEARNING                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🌱 Currently Learning</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%8C%B1%20CURRENTLY%20LEARNING&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 | Area | Skills |
 |:---|:---|
@@ -349,17 +376,15 @@ Practical full-stack development work involving frontend, backend, and database 
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:34d399,100:0b1e1a&height=2" width="100%"/>
-</div>
-
-<br/>
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                         RESUME & CONNECT                            -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">📄 Resume & 🤝 Connect</h2>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%93%84%20RESUME%20%26%20%F0%9F%A4%9D%20CONNECT&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -408,4 +433,4 @@ Practical full-stack development work involving frontend, backend, and database 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,30:0c4a6e,70:0f2922,100:0b1e1a&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,30:0c4a6e,70:0f2922,100:0b1e1a&height=140&section=footer&animation=twinkling" width="100%"/>

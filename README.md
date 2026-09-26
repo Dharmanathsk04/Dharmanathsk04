@@ -1,33 +1,24 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-     ✦  D H A R M A N A T H   K A D A M  ✦
-     ✦  BRAHMASTRA CINEMATIC EDITION  •  COSMIC VFX  ✦
-     ✦  Palette: Dark Green · Blue · Dark Red · Yellow  ✦
-     ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════
+     DHARMANATH KADAM  ▓  CINEMATIC PROFILE  ▓  VFX ULTRA EDITION
+     Theme: Dark Green ▸ Blue ▸ Dark Red ▸ Yellow
+     ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ▓▓▓▓▓  LAYER 01 — COSMIC SKY (BRAHMASTRA OPENING)  ▓▓▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:022c22,40:064e3b,60:0c4a6e,78:0369a1,90:0ea5e9,100:22d3ee&height=290&section=header&text=DHARMANATH%20KADAM&fontSize=60&fontAlignY=34&fontColor=ffffff&animation=fadeIn&desc=Java%20Full%20Stack%20Developer%20%E2%9C%A6%20AI%20%26%20Data%20Science%20Enthusiast&descAlignY=58&descSize=20&descColor=facc15&stroke=22d3ee&strokeWidth=1" width="100%"/>
+<!-- ▓▓▓ CINEMATIC HERO — DEEP EMERALD → OCEAN → CYAN ▓▓▓ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:022c22,50:064e3b,70:0c4a6e,85:0369a1,100:22d3ee&height=280&section=header&text=DHARMANATH%20KADAM&fontSize=58&fontAlignY=34&fontColor=ffffff&animation=fadeIn&desc=Java%20Full%20Stack%20Developer%20%E2%80%A2%20AI%20%26%20Data%20Science%20Enthusiast&descAlignY=58&descSize=19&descColor=facc15&stroke=22d3ee&strokeWidth=1" width="100%"/>
 
-<!-- ▓▓▓▓▓  LAYER 02 — DIVINE GOLD BEAM (ASTRA GLOW)  ▓▓▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:7f1d1d,50:facc15,75:7f1d1d,100:000000&height=5" width="100%"/>
-
-<!-- ▓▓▓▓▓  LAYER 03 — CELESTIAL CYAN BEAM  ▓▓▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022c22,50:22d3ee,100:022c22&height=3" width="100%"/>
-
-<br/>
-
-<!-- ▓▓▓▓▓  NEON TITLE MARQUEE  ▓▓▓▓▓ -->
+<!-- ▓▓▓ NEON TITLE MARQUEE ▓▓▓ -->
 <a href="https://github.com/dharmanathsk04">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=3200&pause=700&color=22D3EE&center=true&vCenter=true&width=1000&height=75&lines=%E2%9C%A6+JAVA+%7C+SPRING+BOOT+%7C+REACT+%7C+PYTHON+%E2%9C%A6" alt="Neon Title"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3200&pause=700&color=22D3EE&center=true&vCenter=true&width=1000&height=70&lines=%E2%9C%A6+JAVA+%7C+SPRING+BOOT+%7C+REACT+%7C+PYTHON+%E2%9C%A6" alt="Neon Title"/>
 </a>
 
-<!-- ▓▓▓▓▓  ANIMATED SUBTITLE  ▓▓▓▓▓ -->
+<!-- ▓▓▓ ANIMATED SUBTITLE ▓▓▓ -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=10B981&center=true&vCenter=true&multiline=true&width=950&height=110&lines=Building+Full+Stack+%26+AI-Powered+Applications+%F0%9F%9A%80;Turning+Ideas+Into+Production-Grade+Software+%E2%9A%A1;Learning+%E2%80%A2+Building+%E2%80%A2+Solving+Real-World+Problems+%F0%9F%8C%8D" alt="Subtitle"/>
 
 <br/>
 
-<!-- ▓▓▓▓▓  HOLOGRAPHIC HUD  ▓▓▓▓▓ -->
+<!-- ▓▓▓ HOLOGRAPHIC HUD ▓▓▓ -->
 <img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=PROFILE%20VIEWS&color=10b981&style=for-the-badge" alt="Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=for-the-badge&color=0ea5e9&labelColor=022c22" alt="Followers"/>
@@ -38,7 +29,7 @@
 
 <br/><br/>
 
-<!-- ▓▓▓▓▓  PRIMARY CONNECT GRID  ▓▓▓▓▓ -->
+<!-- ▓▓▓ PRIMARY CONNECT GRID ▓▓▓ -->
 <a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=022c22"/>
 </a>
@@ -57,24 +48,22 @@
 
 </div>
 
-<!-- ▓▓▓▓▓  COSMIC HORIZON — TRIPLE BEAM TRANSITION  ▓▓▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:022c22,100:000000&height=6" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022c22,50:facc15,100:022c22&height=2" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:22d3ee,100:000000&height=4" width="100%"/>
+<!-- ▓▓▓ FULL-WIDTH GRADIENT DIVIDER ▓▓▓ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:022c22,50:0c4a6e,75:0ea5e9,100:22d3ee&height=3" width="100%"/>
 
-<br/><br/>
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════════════
      SECTION 01 — ABOUT ME
-     ═══════════════════════════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:022c22,50:064e3b,100:10b981&height=90&section=header&text=%E2%9C%A6%20%20A%20B%20O%20U%20T%20%20M%20E%20%20%E2%9C%A6&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:022c22,50:064e3b,100:10b981&height=85&section=header&text=%E2%9C%A6%20%20A%20B%20O%20U%20T%20%20M%20E%20%20%E2%9C%A6&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
 
-### ✦ Hello, I'm **Dharmanath Santosh Kadam**
+### 👋 Hello, I'm **Dharmanath Santosh Kadam**
 
 I'm a **B.Tech Computer Science & Engineering (Data Science)** student passionate about crafting scalable software and intelligent systems. My focus lies at the intersection of **Java Full Stack Development**, **Artificial Intelligence**, and **Data Science** — turning ideas into production-ready solutions.
 
@@ -97,19 +86,16 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student passionat
 
 <br/>
 
-<!-- ▓▓▓  LIGHT BEAM TRANSITION  ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022c22,50:facc15,100:022c22&height=2" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:22d3ee,100:000000&height=4" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022c22,50:facc15,100:022c22&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,50:0ea5e9,100:22d3ee&height=3" width="100%"/>
 
-<br/><br/>
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════════════
      SECTION 02 — TECH STACK
-     ═══════════════════════════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:022c22,50:0c4a6e,100:0ea5e9&height=90&section=header&text=%E2%9C%A6%20%20T%20E%20C%20H%20%20S%20T%20A%20C%20K%20%20%E2%9C%A6&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:022c22,50:0c4a6e,100:0ea5e9&height=85&section=header&text=%E2%9C%A6%20%20T%20E%20C%20H%20%20S%20T%20A%20C%20K%20%20%E2%9C%A6&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -138,19 +124,16 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student passionat
 
 <br/>
 
-<!-- ▓▓▓  LIGHT BEAM TRANSITION  ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c4a6e,50:facc15,100:0c4a6e&height=2" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:10b981,100:000000&height=4" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c4a6e,50:facc15,100:0c4a6e&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:0ea5e9,100:10b981&height=3" width="100%"/>
 
-<br/><br/>
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════════════
      SECTION 03 — FEATURED PROJECTS
-     ═══════════════════════════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:022c22,50:064e3b,100:10b981&height=90&section=header&text=%E2%9C%A6%20%20P%20R%20O%20J%20E%20C%20T%20S%20%20%E2%9C%A6&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:022c22,50:064e3b,100:10b981&height=85&section=header&text=%E2%9C%A6%20%20P%20R%20O%20J%20E%20C%20T%20S%20%20%E2%9C%A6&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -159,7 +142,7 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student passionat
 <div align="center">
 
 <a href="#">
-  <img src="https://img.shields.io/badge/%E2%9C%A6%2001%20%E2%80%A2%20CareVision%20%E2%9C%A6-10b981?style=for-the-badge&labelColor=022c22" alt="CareVision"/>
+  <img src="https://img.shields.io/badge/01%20%E2%80%A2%20CareVision-10b981?style=for-the-badge&labelColor=022c22" alt="CareVision"/>
 </a>
 
 ### 🏥 **AI-Based Healthcare Platform**
@@ -181,14 +164,15 @@ A healthcare application combining **prediction models**, **dashboards**, **data
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,50:facc15,100:0ea5e9&height=2" width="100%"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,100:0ea5e9&height=2" width="100%"/>
 <br/>
 
 <!-- ░░░ PROJECT 02 — PAWSTAY AI ░░░ -->
 <div align="center">
 
 <a href="#">
-  <img src="https://img.shields.io/badge/%E2%9C%A6%2002%20%E2%80%A2%20PawStay%20AI%20%E2%9C%A6-0ea5e9?style=for-the-badge&labelColor=0c4a6e" alt="PawStay AI"/>
+  <img src="https://img.shields.io/badge/02%20%E2%80%A2%20PawStay%20AI-0ea5e9?style=for-the-badge&labelColor=0c4a6e" alt="PawStay AI"/>
 </a>
 
 ### 🐾 **AI-Powered Pet Care Platform**
@@ -209,14 +193,15 @@ A smart pet home-stay and caregiver platform connecting pet owners with caregive
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:facc15,100:22d3ee&height=2" width="100%"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:22d3ee&height=2" width="100%"/>
 <br/>
 
 <!-- ░░░ PROJECT 03 — SHOPMATE ░░░ -->
 <div align="center">
 
 <a href="#">
-  <img src="https://img.shields.io/badge/%E2%9C%A6%2003%20%E2%80%A2%20ShopMate%20%E2%9C%A6-22d3ee?style=for-the-badge&labelColor=0c4a6e" alt="ShopMate"/>
+  <img src="https://img.shields.io/badge/03%20%E2%80%A2%20ShopMate-22d3ee?style=for-the-badge&labelColor=0c4a6e" alt="ShopMate"/>
 </a>
 
 ### 🛒 **Java Spring Boot E-Commerce Application**
@@ -237,14 +222,15 @@ A full-stack e-commerce application focused on **backend development**, **REST A
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:facc15,100:10b981&height=2" width="100%"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,100:10b981&height=2" width="100%"/>
 <br/>
 
 <!-- ░░░ PROJECT 04 — CLEVER BILL ░░░ -->
 <div align="center">
 
 <a href="https://github.com/dharmanathsk04">
-  <img src="https://img.shields.io/badge/%E2%9C%A6%2004%20%E2%80%A2%20Clever%20Bill%20%E2%9C%A6-facc15?style=for-the-badge&labelColor=7f1d1d" alt="Clever Bill"/>
+  <img src="https://img.shields.io/badge/04%20%E2%80%A2%20Clever%20Bill-facc15?style=for-the-badge&labelColor=7f1d1d" alt="Clever Bill"/>
 </a>
 
 ### 💼 **Business Billing & Management Application**
@@ -266,14 +252,15 @@ Contributing to the development of **Clever Bill**, focused on **mobile applicat
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:facc15,50:7f1d1d,100:10b981&height=2" width="100%"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:facc15,100:10b981&height=2" width="100%"/>
 <br/>
 
 <!-- ░░░ PROJECT 05 — MINILIBRARY ░░░ -->
 <div align="center">
 
 <a href="#">
-  <img src="https://img.shields.io/badge/%E2%9C%A6%2005%20%E2%80%A2%20MiniLibrary%20%E2%9C%A6-10b981?style=for-the-badge&labelColor=022c22" alt="MiniLibrary"/>
+  <img src="https://img.shields.io/badge/05%20%E2%80%A2%20MiniLibrary-10b981?style=for-the-badge&labelColor=022c22" alt="MiniLibrary"/>
 </a>
 
 ### 📚 **Full Stack Library Management System**
@@ -294,14 +281,15 @@ A Java-based library management application with **backend APIs**, **database in
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,50:facc15,100:0ea5e9&height=2" width="100%"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,100:0ea5e9&height=2" width="100%"/>
 <br/>
 
 <!-- ░░░ PROJECT 06 — MINIBILL ░░░ -->
 <div align="center">
 
 <a href="#">
-  <img src="https://img.shields.io/badge/%E2%9C%A6%2006%20%E2%80%A2%20MiniBill%20%E2%9C%A6-0ea5e9?style=for-the-badge&labelColor=0c4a6e" alt="MiniBill"/>
+  <img src="https://img.shields.io/badge/06%20%E2%80%A2%20MiniBill-0ea5e9?style=for-the-badge&labelColor=0c4a6e" alt="MiniBill"/>
 </a>
 
 ### 🧾 **Full Stack Billing Management System**
@@ -323,19 +311,16 @@ A billing application built around **product, customer, and billing workflows** 
 
 <br/>
 
-<!-- ▓▓▓  LIGHT BEAM TRANSITION  ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022c22,50:facc15,100:022c22&height=2" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:22d3ee,100:000000&height=4" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022c22,50:facc15,100:022c22&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:0ea5e9,100:10b981&height=3" width="100%"/>
 
-<br/><br/>
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════════════
      SECTION 04 — GITHUB OVERVIEW
-     ═══════════════════════════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:022c22,50:064e3b,100:10b981&height=90&section=header&text=%E2%9C%A6%20%20G%20I%20T%20H%20U%20B%20%20O%20V%20E%20R%20V%20I%20E%20W%20%20%E2%9C%A6&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:022c22,50:064e3b,100:10b981&height=85&section=header&text=%E2%9C%A6%20%20G%20I%20T%20H%20U%20B%20%20O%20V%20E%20R%20V%20I%20E%20W%20%20%E2%9C%A6&fontSize=32&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -354,19 +339,16 @@ A billing application built around **product, customer, and billing workflows** 
 
 <br/>
 
-<!-- ▓▓▓  LIGHT BEAM TRANSITION  ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c4a6e,50:facc15,100:0c4a6e&height=2" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:10b981,100:000000&height=4" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c4a6e,50:facc15,100:0c4a6e&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,50:0ea5e9,100:22d3ee&height=3" width="100%"/>
 
-<br/><br/>
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════════════
      SECTION 05 — GITHUB ACTIVITY
-     ═══════════════════════════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:022c22,50:0c4a6e,100:0ea5e9&height=90&section=header&text=%E2%9C%A6%20%20A%20C%20T%20I%20V%20I%20T%20Y%20%20%E2%9C%A6&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:022c22,50:0c4a6e,100:0ea5e9&height=85&section=header&text=%E2%9C%A6%20%20A%20C%20T%20I%20V%20I%20T%20Y%20%20%E2%9C%A6&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -387,19 +369,16 @@ A billing application built around **product, customer, and billing workflows** 
 
 <br/>
 
-<!-- ▓▓▓  LIGHT BEAM TRANSITION  ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022c22,50:facc15,100:022c22&height=2" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:22d3ee,100:000000&height=4" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022c22,50:facc15,100:022c22&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:0ea5e9,100:10b981&height=3" width="100%"/>
 
-<br/><br/>
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════════════
      SECTION 06 — ACHIEVEMENTS
-     ═══════════════════════════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:022c22,50:064e3b,100:facc15&height=90&section=header&text=%E2%9C%A6%20%20A%20C%20H%20I%20E%20V%20E%20M%20E%20N%20T%20S%20%20%E2%9C%A6&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:022c22,50:064e3b,100:facc15&height=85&section=header&text=%E2%9C%A6%20%20A%20C%20H%20I%20E%20V%20E%20M%20E%20N%20T%20S%20%20%E2%9C%A6&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -443,19 +422,16 @@ Completed multiple Full Stack Development internships & training programs
 
 <br/>
 
-<!-- ▓▓▓  LIGHT BEAM TRANSITION  ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:facc15,50:7f1d1d,100:facc15&height=2" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:10b981,100:000000&height=4" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:facc15,50:7f1d1d,100:facc15&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:facc15,50:10b981,100:22d3ee&height=3" width="100%"/>
 
-<br/><br/>
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════════════
      SECTION 07 — INTERNSHIP EXPERIENCE
-     ═══════════════════════════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:022c22,50:0c4a6e,100:0ea5e9&height=90&section=header&text=%E2%9C%A6%20%20E%20X%20P%20E%20R%20I%20E%20N%20C%20E%20%20%E2%9C%A6&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:022c22,50:0c4a6e,100:0ea5e9&height=85&section=header&text=%E2%9C%A6%20%20E%20X%20P%20E%20R%20I%20E%20N%20C%20E%20%20%E2%9C%A6&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -507,19 +483,16 @@ Completed multiple Full Stack Development internships & training programs
 
 <br/>
 
-<!-- ▓▓▓  LIGHT BEAM TRANSITION  ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c4a6e,50:facc15,100:0c4a6e&height=2" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:22d3ee,100:000000&height=4" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c4a6e,50:facc15,100:0c4a6e&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,50:0ea5e9,100:22d3ee&height=3" width="100%"/>
 
-<br/><br/>
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════════════
      SECTION 08 — CURRENTLY LEARNING
-     ═══════════════════════════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:022c22,50:064e3b,100:10b981&height=90&section=header&text=%E2%9C%A6%20%20L%20E%20A%20R%20N%20I%20N%20G%20%20%E2%9C%A6&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:022c22,50:064e3b,100:10b981&height=85&section=header&text=%E2%9C%A6%20%20L%20E%20A%20R%20N%20I%20N%20G%20%20%E2%9C%A6&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -533,46 +506,40 @@ Completed multiple Full Stack Development internships & training programs
 
 <br/>
 
-<!-- ▓▓▓  LIGHT BEAM TRANSITION  ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022c22,50:facc15,100:022c22&height=2" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:10b981,100:000000&height=4" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022c22,50:facc15,100:022c22&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:0ea5e9,100:10b981&height=3" width="100%"/>
 
-<br/><br/>
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════════════
      SECTION 09 — RESUME
-     ═══════════════════════════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <a href="https://drive.google.com/file/d/1ID75LUVdrC4dDKWRzlFk5IVtnv4UoyMp/view?usp=sharing" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:022c22,50:0c4a6e,75:22d3ee,100:facc15&height=130&text=%E2%9C%A6%20%20%F0%9F%93%84%20VIEW%20MY%20RESUME%20%20%E2%86%92%20%20%E2%9C%A6&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="80%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:022c22,40:064e3b,70:0c4a6e,100:22d3ee&height=120&text=%F0%9F%93%84%20%20VIEW%20MY%20RESUME%20%20%E2%86%92&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="75%"/>
 </a>
 
 <br/><br/>
 
 <a href="https://drive.google.com/file/d/1ID75LUVdrC4dDKWRzlFk5IVtnv4UoyMp/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/%E2%9C%A6%20%F0%9F%93%84%20DOWNLOAD%20RESUME-10b981?style=for-the-badge&labelColor=022c22&logo=googledrive&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%84%20DOWNLOAD%20RESUME-10b981?style=for-the-badge&labelColor=022c22&logo=googledrive&logoColor=white"/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- ▓▓▓  LIGHT BEAM TRANSITION  ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c4a6e,50:facc15,100:0c4a6e&height=2" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:22d3ee,100:000000&height=4" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c4a6e,50:facc15,100:0c4a6e&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,50:0ea5e9,100:22d3ee&height=3" width="100%"/>
 
-<br/><br/>
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════════════════
      SECTION 10 — LET'S CONNECT
-     ═══════════════════════════════════════════════════════════════════════════════ -->
+     ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:022c22,50:0c4a6e,100:0ea5e9&height=90&section=header&text=%E2%9C%A6%20%20C%20O%20N%20N%20E%20C%20T%20%20%E2%9C%A6&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:022c22,50:0c4a6e,100:0ea5e9&height=85&section=header&text=%E2%9C%A6%20%20C%20O%20N%20N%20E%20C%20T%20%20%E2%9C%A6&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -606,7 +573,7 @@ Completed multiple Full Stack Development internships & training programs
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=800&height=55&lines=%E2%9C%A6+BUILD+%E2%80%A2+LEARN+%E2%80%A2+CREATE+%E2%80%A2+IMPROVE+%E2%9C%A6" alt="Mantra"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=800&height=55&lines=%E2%9A%A1+BUILD+%E2%80%A2+LEARN+%E2%80%A2+CREATE+%E2%80%A2+IMPROVE+%E2%9A%A1" alt="Mantra"/>
 
 <br/>
 
@@ -620,8 +587,5 @@ Completed multiple Full Stack Development internships & training programs
 
 <br/>
 
-<!-- ▓▓▓▓▓  CINEMATIC FOOTER — COSMIC HORIZON (BRAHMASTRA CLOSE)  ▓▓▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:22d3ee,100:000000&height=4" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022c22,50:facc15,100:022c22&height=2" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:10b981,100:000000&height=6" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,20:0ea5e9,40:0369a1,60:0c4a6e,80:064e3b,100:022c22&height=180&section=footer" width="100%"/>
+<!-- ▓▓▓ CINEMATIC FOOTER WAVE ▓▓▓ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,25:0ea5e9,50:0c4a6e,75:064e3b,100:022c22&height=160&section=footer" width="100%"/>

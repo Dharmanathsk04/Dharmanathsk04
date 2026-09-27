@@ -1,41 +1,41 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    DHARMANATH KADAM · AURORA EDITION                    -->
+<!--                     DHARMANATH KADAM · EMBER EDITION                    -->
 <!--                 Java Full Stack · AI · Data Science · B.Tech CSE        -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=58&duration=4500&pause=1200&color=A78BFA&center=true&vCenter=true&width=1000&height=95&lines=DHARMANATH+KADAM" alt="Name"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=60&duration=4500&pause=1200&color=FF6B35&center=true&vCenter=true&width=1000&height=95&lines=DHARMANATH+KADAM" alt="Name"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=F472B6&center=true&vCenter=true&width=950&height=32&lines=Java+Full+Stack+%C2%B7+AI+%C2%B7+Data+Science" alt="Role"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=F7C59F&center=true&vCenter=true&width=950&height=32&lines=Java+Full+Stack+%C2%B7+AI+%C2%B7+Data+Science" alt="Role"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2400&pause=800&color=FBBF24&center=true&vCenter=true&width=900&height=30&lines=Spring+Boot+%C2%B7+React+%C2%B7+Python+%C2%B7+Machine+Learning" alt="Stack"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2400&pause=800&color=E63946&center=true&vCenter=true&width=900&height=30&lines=Spring+Boot+%C2%B7+React+%C2%B7+Python+%C2%B7+Machine+Learning" alt="Stack"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=A78BFA&labelColor=0a0a1a" alt="LinkedIn"/></a>
-<a href="mailto:dharmanathkadam@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1e1b4b?style=for-the-badge&logo=gmail&logoColor=F472B6&labelColor=0a0a1a" alt="Email"/></a>
-<a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-1e1b4b?style=for-the-badge&logo=leetcode&logoColor=FBBF24&labelColor=0a0a1a" alt="LeetCode"/></a>
-<a href="https://github.com/dharmanathsk04" target="_blank"><img src="https://img.shields.io/badge/GITHUB-1e1b4b?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0a0a1a" alt="GitHub"/></a>
-<a href="https://www.kaggle.com/dharmanathkadam" target="_blank"><img src="https://img.shields.io/badge/KAGGLE-1e1b4b?style=for-the-badge&logo=kaggle&logoColor=F472B6&labelColor=0a0a1a" alt="Kaggle"/></a>
+<a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-1a0f0a?style=for-the-badge&logo=linkedin&logoColor=FF6B35&labelColor=0d0705" alt="LinkedIn"/></a>
+<a href="mailto:dharmanathkadam@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1a0f0a?style=for-the-badge&logo=gmail&logoColor=F7C59F&labelColor=0d0705" alt="Email"/></a>
+<a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-1a0f0a?style=for-the-badge&logo=leetcode&logoColor=E63946&labelColor=0d0705" alt="LeetCode"/></a>
+<a href="https://github.com/dharmanathsk04" target="_blank"><img src="https://img.shields.io/badge/GITHUB-1a0f0a?style=for-the-badge&logo=github&logoColor=FF6B35&labelColor=0d0705" alt="GitHub"/></a>
+<a href="https://www.kaggle.com/dharmanathkadam" target="_blank"><img src="https://img.shields.io/badge/KAGGLE-1a0f0a?style=for-the-badge&logo=kaggle&logoColor=F7C59F&labelColor=0d0705" alt="Kaggle"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=VISITORS&color=a78bfa&style=flat-square" alt="Visitors"/>
+<img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=VISITORS&color=ff6b35&style=flat-square" alt="Visitors"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=flat-square&color=f472b6&labelColor=0a0a1a" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=flat-square&color=e63946&labelColor=0d0705" alt="Followers"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/dharmanathsk04?label=STARS&style=flat-square&color=fbbf24&labelColor=0a0a1a" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/dharmanathsk04?label=STARS&style=flat-square&color=f7c59f&labelColor=0d0705" alt="Stars"/>
 &nbsp;
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-a78bfa?style=flat-square&labelColor=0a0a1a" alt="Status"/>
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-ff6b35?style=flat-square&labelColor=0d0705" alt="Status"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a1a,50:a78bfa,100:0a0a1a&height=2" width="100%" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0705,50:ff6b35,100:0d0705&height=2" width="100%" alt="Divider"/>
 
 <div align="center">
 
-### `01` &nbsp;·&nbsp; **About**
+### `01` &nbsp;·&nbsp; **Origin**
 
 </div>
 
@@ -54,11 +54,11 @@ I build across the stack. From Spring Boot services and REST APIs to React inter
 
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a1a,50:f472b6,100:0a0a1a&height=2" width="100%" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0705,50:e63946,100:0d0705&height=2" width="100%" alt="Divider"/>
 
 <div align="center">
 
-### `02` &nbsp;·&nbsp; **Principles**
+### `02` &nbsp;·&nbsp; **Creed**
 
 </div>
 
@@ -88,19 +88,19 @@ I build across the stack. From Spring Boot services and REST APIs to React inter
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a1a,50:a78bfa,100:0a0a1a&height=2" width="100%" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0705,50:f7c59f,100:0d0705&height=2" width="100%" alt="Divider"/>
 
 <div align="center">
 
-### `03` &nbsp;·&nbsp; **Tech Arsenal**
+### `03` &nbsp;·&nbsp; **Toolkit**
 
 </div>
 
 <div align="center">
 
-<sub>`CORE`</sub>
+<sub>`LANGUAGES`</sub>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" alt="Core"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" alt="Languages"/>
 
 <sub>`BACKEND`</sub>
 
@@ -124,11 +124,11 @@ I build across the stack. From Spring Boot services and REST APIs to React inter
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a1a,50:f472b6,100:0a0a1a&height=2" width="100%" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0705,50:ff6b35,100:0d0705&height=2" width="100%" alt="Divider"/>
 
 <div align="center">
 
-### `04` &nbsp;·&nbsp; **Selected Work**
+### `04` &nbsp;·&nbsp; **Work**
 
 </div>
 
@@ -142,7 +142,7 @@ A healthcare platform combining prediction models, interactive dashboards, data 
 
 `Python` `Flask` `MySQL` `ML` `Gemini API` `Chart.js`
 
-<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Explore%20%E2%86%92-a78bfa?style=flat-square&labelColor=0a0a1a" alt="Explore"/></a>
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Explore%20%E2%86%92-ff6b35?style=flat-square&labelColor=0d0705" alt="Explore"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -153,7 +153,7 @@ A smart pet home-stay platform connecting owners with trusted caregivers through
 
 `Flutter` `AI` `Full Stack` `Recommendations`
 
-<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Explore%20%E2%86%92-f472b6?style=flat-square&labelColor=0a0a1a" alt="Explore"/></a>
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Explore%20%E2%86%92-e63946?style=flat-square&labelColor=0d0705" alt="Explore"/></a>
 
 </td>
 </tr>
@@ -166,7 +166,7 @@ Full-stack e-commerce focused on backend architecture, REST APIs, database integ
 
 `Java` `Spring Boot` `REST APIs` `MySQL` `React`
 
-<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Explore%20%E2%86%92-a78bfa?style=flat-square&labelColor=0a0a1a" alt="Explore"/></a>
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Explore%20%E2%86%92-ff6b35?style=flat-square&labelColor=0d0705" alt="Explore"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -177,7 +177,7 @@ Contributing to a production billing application — building and refining mobil
 
 `Mobile` `Billing` `Enterprise` `In Progress`
 
-<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Explore%20%E2%86%92-fbbf24?style=flat-square&labelColor=0a0a1a" alt="Explore"/></a>
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Explore%20%E2%86%92-f7c59f?style=flat-square&labelColor=0d0705" alt="Explore"/></a>
 
 </td>
 </tr>
@@ -190,7 +190,7 @@ Java-based library management with backend APIs, database integration, and a Rea
 
 `Java` `Spring Boot` `JPA` `MySQL` `React`
 
-<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Explore%20%E2%86%92-f472b6?style=flat-square&labelColor=0a0a1a" alt="Explore"/></a>
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Explore%20%E2%86%92-e63946?style=flat-square&labelColor=0d0705" alt="Explore"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -201,59 +201,31 @@ A billing application built around product, customer, and billing workflows with
 
 `Spring Boot` `React` `REST APIs` `Database`
 
-<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Explore%20%E2%86%92-a78bfa?style=flat-square&labelColor=0a0a1a" alt="Explore"/></a>
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Explore%20%E2%86%92-ff6b35?style=flat-square&labelColor=0d0705" alt="Explore"/></a>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a1a,50:a78bfa,100:0a0a1a&height=2" width="100%" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0705,50:f7c59f,100:0d0705&height=2" width="100%" alt="Divider"/>
 
 <div align="center">
 
-### `05` &nbsp;·&nbsp; **Signal**
+### `05` &nbsp;·&nbsp; **Journey**
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanathsk04&bg_color=0a0a1a&color=a78bfa&line=f472b6&point=fbbf24&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmanathsk04&theme=2077" width="100%" alt="Profile Summary"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dharmanathsk04&theme=2077" height="170" alt="Most Commit Language"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dharmanathsk04&theme=2077&utcOffset=5.5" height="170" alt="Productive Time"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dharmanathsk04&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a1a,50:f472b6,100:0a0a1a&height=2" width="100%" alt="Divider"/>
-
-<div align="center">
-
-### `06` &nbsp;·&nbsp; **Timeline**
-
-</div>
-
-| Period | Role · Organization | Stack |
+| Stage | Role · Organization | Stack |
 |:---|:---|:---|
 | **Recent** | **DASP Private Limited** — Java Full Stack Intern | `Java` `Spring Boot` `JPA` `Hibernate` `REST` `MySQL` `React` |
 | **Prior** | **The Kiran Academy** — Java Full Stack Training | `Core Java` `JDBC` `SQL` `Advanced Java` `Hibernate` `Spring MVC` `Servlet/JSP` `Postman` |
 | **Prior** | **Acmegrade** — Full Stack Development Intern | Frontend · Backend · Database |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a1a,50:a78bfa,100:0a0a1a&height=2" width="100%" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0705,50:e63946,100:0d0705&height=2" width="100%" alt="Divider"/>
 
 <div align="center">
 
-### `07` &nbsp;·&nbsp; **Recognition**
+### `06` &nbsp;·&nbsp; **Recognition**
 
 </div>
 
@@ -264,11 +236,39 @@ A billing application built around product, customer, and billing workflows with
 | `03` | **Certification** | NPTEL — Python for Data Science — **71%** |
 | `04` | **Industry Experience** | Multiple Full Stack internships & training |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a1a,50:f472b6,100:0a0a1a&height=2" width="100%" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0705,50:ff6b35,100:0d0705&height=2" width="100%" alt="Divider"/>
 
 <div align="center">
 
-### `08` &nbsp;·&nbsp; **Currently**
+### `07` &nbsp;·&nbsp; **Signal**
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanathsk04&bg_color=0d0705&color=ff6b35&line=e63946&point=f7c59f&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmanathsk04&theme=github_dark" width="100%" alt="Profile Summary"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dharmanathsk04&theme=github_dark" height="170" alt="Most Commit Language"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dharmanathsk04&theme=github_dark&utcOffset=5.5" height="170" alt="Productive Time"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dharmanathsk04&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0705,50:f7c59f,100:0d0705&height=2" width="100%" alt="Divider"/>
+
+<div align="center">
+
+### `08` &nbsp;·&nbsp; **Now**
 
 </div>
 
@@ -303,7 +303,7 @@ A billing application built around product, customer, and billing workflows with
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a1a,50:a78bfa,100:0a0a1a&height=2" width="100%" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0705,50:e63946,100:0d0705&height=2" width="100%" alt="Divider"/>
 
 <div align="center">
 
@@ -311,21 +311,21 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<a href="https://drive.google.com/file/d/1ID75LUVdrC4dDKWRzlFk5IVtnv4UoyMp/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/%E2%86%92%20%20VIEW%20RESUME-a78bfa?style=for-the-badge&labelColor=0a0a1a" alt="Resume"/></a>
+<a href="https://drive.google.com/file/d/1ID75LUVdrC4dDKWRzlFk5IVtnv4UoyMp/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/%E2%86%92%20%20VIEW%20RESUME-ff6b35?style=for-the-badge&labelColor=0d0705" alt="Resume"/></a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a1a" alt="LinkedIn"/></a>
-<a href="mailto:dharmanathkadam@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a1a" alt="Gmail"/></a>
-<a href="https://github.com/dharmanathsk04" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a1a" alt="GitHub"/></a>
-<a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a1a" alt="LeetCode"/></a>
-<a href="https://www.kaggle.com/dharmanathkadam" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0a0a1a" alt="Kaggle"/></a>
-<a href="https://www.hackerrank.com/dharmanathkadam" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a1a" alt="HackerRank"/></a>
-<a href="https://codepen.io/@dharmanath04" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=0a0a1a" alt="CodePen"/></a>
+<a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0705" alt="LinkedIn"/></a>
+<a href="mailto:dharmanathkadam@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0705" alt="Gmail"/></a>
+<a href="https://github.com/dharmanathsk04" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0705" alt="GitHub"/></a>
+<a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d0705" alt="LeetCode"/></a>
+<a href="https://www.kaggle.com/dharmanathkadam" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0d0705" alt="Kaggle"/></a>
+<a href="https://www.hackerrank.com/dharmanathkadam" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d0705" alt="HackerRank"/></a>
+<a href="https://codepen.io/@dharmanath04" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=0d0705" alt="CodePen"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&height=45&lines=BUILD+%C2%B7+LEARN+%C2%B7+CREATE+%C2%B7+IMPROVE" alt="Mantra"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=2800&pause=900&color=FF6B35&center=true&vCenter=true&width=800&height=45&lines=BUILD+%C2%B7+LEARN+%C2%B7+CREATE+%C2%B7+IMPROVE" alt="Mantra"/>
 
 <br/>
 
@@ -335,4 +335,4 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:1e1b4b,100:a78bfa&height=120&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0705,50:1a0f0a,100:ff6b35&height=120&section=footer" width="100%" alt="Footer"/>

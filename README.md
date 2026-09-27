@@ -1,29 +1,28 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    DHARMANATH KADAM · NEXT-LEVEL EDITION                -->
-<!--                    Java Full Stack Developer · AI · Data Science        -->
-<!--                    Verified · Cinematic · Multi-Layered                 -->
+<!--                    DHARMANATH KADAM · SIGNATURE EDITION                 -->
+<!--                    Java Full Stack · AI · Data Science                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- ▓▓▓ LAYER 00 — CINEMATIC HERO BANNER ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e1a,30:0f2922,60:0c4a6e,85:0284c7,100:22d3ee&height=220&section=header&animation=fadeIn" width="100%"/>
+<!-- ▓▓▓ 00 · CINEMATIC HERO BANNER ▓▓▓ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e1a,30:0f2922,60:0c4a6e,85:0284c7,100:22d3ee&height=220&section=header&animation=fadeIn" width="100%" alt="Hero Banner"/>
 
 <div align="center">
 
-<!-- ▓▓▓ LAYER 01 — CINEMATIC NAME REVEAL ▓▓▓ -->
+<!-- ▓▓▓ 01 · NAME REVEAL ▓▓▓ -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=56&duration=5000&pause=1500&color=10B981&center=true&vCenter=true&width=1000&height=100&lines=DHARMANATH+KADAM" alt="Name"/>
 
-<!-- ▓▓▓ LAYER 02 — ANIMATED ROLE CYCLE ▓▓▓ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&height=40&lines=Java+Full+Stack+Developer+%7C+AI+%26+Data+Science+Enthusiast" alt="Role"/>
+<!-- ▓▓▓ 02 · ROLE CYCLE ▓▓▓ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&height=40&lines=Java+Full+Stack+Developer;AI+%26+Data+Science+Enthusiast" alt="Role"/>
 
-<!-- ▓▓▓ LAYER 03 — ROTATING SKILLS BANNER ▓▓▓ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=800&color=FBBF24&center=true&vCenter=true&width=950&height=40&lines=%E2%9A%A1+Spring+Boot+Wizard+%7C+%F0%9F%8E%A8+React+Architect+%7C+%F0%9F%A4%96+AI+Explorer+%7C+%F0%9F%93%8A+Data+Analyst" alt="Rotating"/>
+<!-- ▓▓▓ 03 · SKILL TICKER ▓▓▓ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=800&color=FBBF24&center=true&vCenter=true&width=950&height=40&lines=%E2%9A%A1+Spring+Boot+Wizard+%7C+%F0%9F%8E%A8+React+Architect+%7C+%F0%9F%A4%96+AI+Explorer+%7C+%F0%9F%93%8A+Data+Analyst" alt="Skill Ticker"/>
 
-<!-- ▓▓▓ LAYER 04 — TAGLINE ▓▓▓ -->
+<!-- ▓▓▓ 04 · TAGLINE ▓▓▓ -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=34D399&center=true&vCenter=true&multiline=true&width=950&height=100&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Python;Building+Full+Stack+%26+AI-Powered+Applications;Learning%2C+Building+%26+Solving+Real-World+Problems+%F0%9F%9A%80" alt="Tagline"/>
 
 <br/>
 
-<!-- ▓▓▓ LAYER 05 — HOLOGRAPHIC HUD ▓▓▓ -->
+<!-- ▓▓▓ 05 · HUD STRIP ▓▓▓ -->
 <img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=VISITORS&color=10b981&style=for-the-badge" alt="Visitors"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=for-the-badge&color=0284c7&labelColor=0b1e1a" alt="Followers"/>
@@ -34,36 +33,36 @@
 
 <br/><br/>
 
-<!-- ▓▓▓ LAYER 06 — CLICKABLE CONNECT BUTTONS ▓▓▓ -->
+<!-- ▓▓▓ 06 · CONNECT BUTTONS ▓▓▓ -->
 <a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1e1a"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1e1a" alt="LinkedIn"/>
 </a>
 <a href="mailto:dharmanathkadam@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Send%20a%20message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7f1d1d"/>
+  <img src="https://img.shields.io/badge/EMAIL-Send%20a%20message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7f1d1d" alt="Email"/>
 </a>
 <a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank">
-  <img src="https://img.shields.io/badge/LEETCODE-View%20profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0b1e1a"/>
+  <img src="https://img.shields.io/badge/LEETCODE-View%20profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0b1e1a" alt="LeetCode"/>
 </a>
 <a href="https://github.com/dharmanathsk04" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-Explore%20repos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1e1a"/>
+  <img src="https://img.shields.io/badge/GITHUB-Explore%20repos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1e1a" alt="GitHub"/>
 </a>
 <a href="https://www.kaggle.com/dharmanathkadam" target="_blank">
-  <img src="https://img.shields.io/badge/KAGGLE-See%20notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0c4a6e"/>
+  <img src="https://img.shields.io/badge/KAGGLE-See%20notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0c4a6e" alt="Kaggle"/>
 </a>
 
 </div>
 
-<!-- ▓▓▓ CINEMATIC DIVIDER — CYAN BEAM ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,25:0284c7,50:22d3ee,75:0284c7,100:0b1e1a&height=3" width="100%"/>
+<!-- ▓▓▓ DIVIDER · CYAN BEAM ▓▓▓ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,25:0284c7,50:22d3ee,75:0284c7,100:0b1e1a&height=3" width="100%" alt="Divider"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                            👨‍💻 ABOUT ME                                 -->
+<!--                            07 · ABOUT ME                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20ABOUT%20ME&fontSize=30&fontColor=10B981&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20ABOUT%20ME&fontSize=30&fontColor=10B981&animation=twinkling" width="100%" alt="About Me"/>
 </div>
 
 <br/>
@@ -87,16 +86,16 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:10b981,100:0b1e1a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:10b981,100:0b1e1a&height=2" width="100%" alt="Divider"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          💎 PHILOSOPHY                                  -->
+<!--                           08 · PHILOSOPHY                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%92%8E%20PHILOSOPHY&fontSize=30&fontColor=22D3EE&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%92%8E%20PHILOSOPHY&fontSize=30&fontColor=22D3EE&animation=twinkling" width="100%" alt="Philosophy"/>
 </div>
 
 <br/>
@@ -135,16 +134,16 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:0284c7,100:0b1e1a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:0284c7,100:0b1e1a&height=2" width="100%" alt="Divider"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          🛠️ TECH STACK                                  -->
+<!--                           09 · TECH STACK                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20STACK&fontSize=30&fontColor=10B981&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20STACK&fontSize=30&fontColor=10B981&animation=twinkling" width="100%" alt="Tech Stack"/>
 </div>
 
 <br/>
@@ -153,42 +152,42 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by
 
 **⚡ Programming & Core**
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" alt="Core Languages"/>
 
 **🌐 Backend & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,flask,maven&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,flask,maven&theme=dark" alt="Backend"/>
 
 **🎨 Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark" alt="Frontend"/>
 
 **🗄️ Database**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" alt="Databases"/>
 
 **🤖 Data Science & AI**
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter&theme=dark" alt="AI and Data Science"/>
 
 **🛠️ Tools & Development**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,figma&theme=dark" alt="Tools"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:22d3ee,100:0b1e1a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:22d3ee,100:0b1e1a&height=2" width="100%" alt="Divider"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       🚀 FEATURED PROJECTS                              -->
+<!--                        10 · FEATURED PROJECTS                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%9A%80%20FEATURED%20PROJECTS&fontSize=30&fontColor=22D3EE&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%9A%80%20FEATURED%20PROJECTS&fontSize=30&fontColor=22D3EE&animation=twinkling" width="100%" alt="Featured Projects"/>
 </div>
 
 <br/>
@@ -205,8 +204,8 @@ A healthcare application combining prediction models, interactive dashboards, da
 
 `Python` · `Flask` · `MySQL` · `ML` · `Gemini API` · `Chart.js`
 
-<a href="#">
-  <img src="https://img.shields.io/badge/View%20Project-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/Explore%20Repository-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white" alt="Explore Repository"/>
 </a>
 
 </td>
@@ -220,8 +219,8 @@ A smart pet home-stay platform connecting pet owners with trusted caregivers thr
 
 `Flutter` · `AI` · `Full Stack` · `Recommendations` · `Microservices`
 
-<a href="#">
-  <img src="https://img.shields.io/badge/View%20Project-0284c7?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/Explore%20Repository-0284c7?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white" alt="Explore Repository"/>
 </a>
 
 </td>
@@ -233,12 +232,12 @@ A smart pet home-stay platform connecting pet owners with trusted caregivers thr
 
 **Java Spring Boot E-Commerce**
 
-A full-stack e-commerce app focused on backend development, REST APIs, database integration, and modern workflows.
+A full-stack e-commerce application focused on backend development, REST APIs, database integration, and modern workflows.
 
 `Java` · `Spring Boot` · `REST APIs` · `MySQL` · `React`
 
-<a href="#">
-  <img src="https://img.shields.io/badge/View%20Project-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/Explore%20Repository-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white" alt="Explore Repository"/>
 </a>
 
 </td>
@@ -252,8 +251,8 @@ Contributing to the development of Clever Bill — a production billing applicat
 
 `Mobile` · `Billing` · `Enterprise` · `In Progress`
 
-<a href="https://github.com/dharmanathsk04">
-  <img src="https://img.shields.io/badge/Repository-fbbf24?style=for-the-badge&labelColor=7f1d1d&logo=github&logoColor=white"/>
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/Explore%20Repository-fbbf24?style=for-the-badge&labelColor=7f1d1d&logo=github&logoColor=white" alt="Explore Repository"/>
 </a>
 
 </td>
@@ -269,8 +268,8 @@ A Java-based library management application with backend APIs, database integrat
 
 `Java` · `Spring Boot` · `JPA` · `MySQL` · `React`
 
-<a href="#">
-  <img src="https://img.shields.io/badge/View%20Project-0284c7?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/Explore%20Repository-0284c7?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white" alt="Explore Repository"/>
 </a>
 
 </td>
@@ -284,8 +283,8 @@ A billing application built around product, customer, and billing workflows with
 
 `Spring Boot` · `React` · `REST APIs` · `Database`
 
-<a href="#">
-  <img src="https://img.shields.io/badge/View%20Project-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/Explore%20Repository-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white" alt="Explore Repository"/>
 </a>
 
 </td>
@@ -294,16 +293,16 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:10b981,100:0b1e1a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:10b981,100:0b1e1a&height=2" width="100%" alt="Divider"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       📊 GITHUB ACTIVITY                                -->
+<!--                        11 · GITHUB ACTIVITY                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%93%8A%20GITHUB%20ACTIVITY&fontSize=30&fontColor=10B981&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%93%8A%20GITHUB%20ACTIVITY&fontSize=30&fontColor=10B981&animation=twinkling" width="100%" alt="GitHub Activity"/>
 </div>
 
 <br/>
@@ -330,16 +329,16 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:0284c7,100:0b1e1a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:0284c7,100:0b1e1a&height=2" width="100%" alt="Divider"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         🏆 ACHIEVEMENTS                                 -->
+<!--                          12 · ACHIEVEMENTS                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%8F%86%20ACHIEVEMENTS&fontSize=30&fontColor=FBBF24&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%8F%86%20ACHIEVEMENTS&fontSize=30&fontColor=FBBF24&animation=twinkling" width="100%" alt="Achievements"/>
 </div>
 
 <br/>
@@ -353,16 +352,16 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:10b981,100:0b1e1a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:10b981,100:0b1e1a&height=2" width="100%" alt="Divider"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         💼 EXPERIENCE                                   -->
+<!--                           13 · EXPERIENCE                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%92%BC%20EXPERIENCE&fontSize=30&fontColor=22D3EE&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%92%BC%20EXPERIENCE&fontSize=30&fontColor=22D3EE&animation=twinkling" width="100%" alt="Experience"/>
 </div>
 
 <br/>
@@ -375,16 +374,16 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:0284c7,100:0b1e1a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:0284c7,100:0b1e1a&height=2" width="100%" alt="Divider"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                      🌱 CURRENTLY LEARNING                              -->
+<!--                        14 · CURRENTLY LEARNING                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%8C%B1%20CURRENTLY%20LEARNING&fontSize=30&fontColor=10B981&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%8C%B1%20CURRENTLY%20LEARNING&fontSize=30&fontColor=10B981&animation=twinkling" width="100%" alt="Currently Learning"/>
 </div>
 
 <br/>
@@ -398,16 +397,16 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:10b981,100:0b1e1a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:10b981,100:0b1e1a&height=2" width="100%" alt="Divider"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    🔥 CURRENTLY WORKING ON                              -->
+<!--                      15 · CURRENTLY WORKING ON                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%94%A5%20CURRENTLY%20WORKING%20ON&fontSize=30&fontColor=FBBF24&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%94%A5%20CURRENTLY%20WORKING%20ON&fontSize=30&fontColor=FBBF24&animation=twinkling" width="100%" alt="Currently Working On"/>
 </div>
 
 <br/>
@@ -433,45 +432,45 @@ Exploring Generative AI integrations with Gemini API in real-world software.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:22d3ee,100:0b1e1a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:22d3ee,100:0b1e1a&height=2" width="100%" alt="Divider"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    💬 ASK ME ABOUT                                     -->
+<!--                          16 · ASK ME ABOUT                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%92%AC%20ASK%20ME%20ABOUT&fontSize=30&fontColor=10B981&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%92%AC%20ASK%20ME%20ABOUT&fontSize=30&fontColor=10B981&animation=twinkling" width="100%" alt="Ask Me About"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-10b981?style=for-the-badge&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/REST%20APIs-22d3ee?style=for-the-badge&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0b1e1a"/>
-<img src="https://img.shields.io/badge/Generative%20AI-fbbf24?style=for-the-badge&labelColor=7f1d1d"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0b1e1a" alt="Java"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0b1e1a" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0b1e1a" alt="React"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0b1e1a" alt="Python"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-10b981?style=for-the-badge&labelColor=0b1e1a" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/REST%20APIs-22d3ee?style=for-the-badge&labelColor=0b1e1a" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0b1e1a" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Generative%20AI-fbbf24?style=for-the-badge&labelColor=7f1d1d" alt="Generative AI"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:0284c7,100:0b1e1a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:0284c7,100:0b1e1a&height=2" width="100%" alt="Divider"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    ⚡ FUN FACTS                                        -->
+<!--                            17 · FUN FACTS                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%E2%9A%A1%20FUN%20FACTS&fontSize=30&fontColor=22D3EE&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%E2%9A%A1%20FUN%20FACTS&fontSize=30&fontColor=22D3EE&animation=twinkling" width="100%" alt="Fun Facts"/>
 </div>
 
 <br/>
@@ -484,16 +483,16 @@ Exploring Generative AI integrations with Gemini API in real-world software.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:10b981,100:0b1e1a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:10b981,100:0b1e1a&height=2" width="100%" alt="Divider"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         📄 RESUME & 🤝 CONNECT                          -->
+<!--                       18 · RESUME & CONNECT                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%93%84%20RESUME%20%26%20%F0%9F%A4%9D%20CONNECT&fontSize=28&fontColor=22D3EE&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%93%84%20RESUME%20%26%20%F0%9F%A4%9D%20CONNECT&fontSize=28&fontColor=22D3EE&animation=twinkling" width="100%" alt="Resume and Connect"/>
 </div>
 
 <br/>
@@ -501,38 +500,39 @@ Exploring Generative AI integrations with Gemini API in real-world software.
 <div align="center">
 
 <a href="https://drive.google.com/file/d/1ID75LUVdrC4dDKWRzlFk5IVtnv4UoyMp/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%93%84%20VIEW%20MY%20RESUME-10b981?style=for-the-badge&labelColor=0b1e1a&logo=googledrive&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%84%20VIEW%20MY%20RESUME-10b981?style=for-the-badge&labelColor=0b1e1a&logo=googledrive&logoColor=white" alt="View My Resume"/>
 </a>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1e1a"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1e1a" alt="LinkedIn"/>
 </a>
 <a href="mailto:dharmanathkadam@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7f1d1d"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7f1d1d" alt="Gmail"/>
 </a>
 <a href="https://github.com/dharmanathsk04" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1e1a"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1e1a" alt="GitHub"/>
 </a>
 <a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0b1e1a"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0b1e1a" alt="LeetCode"/>
 </a>
 
 <br/>
 
 <a href="https://www.kaggle.com/dharmanathkadam" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0c4a6e"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0c4a6e" alt="Kaggle"/>
 </a>
 <a href="https://www.hackerrank.com/dharmanathkadam" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerank&logoColor=white&labelColor=0b1e1a"/>
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0b1e1a" alt="HackerRank"/>
 </a>
 <a href="https://codepen.io/@dharmanath04" target="_blank">
-  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=7f1d1d"/>
+  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=7f1d1d" alt="CodePen"/>
 </a>
 
 <br/><br/>
 
+<!-- ▓▓▓ 19 · SIGNATURE TYPING ▓▓▓ -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2600&pause=800&color=10B981&center=true&vCenter=true&width=800&height=55&lines=%E2%9A%A1+BUILD+%E2%80%A2+LEARN+%E2%80%A2+CREATE+%E2%80%A2+IMPROVE+%E2%9A%A1" alt="Mantra"/>
 
 <br/>
@@ -543,4 +543,5 @@ Exploring Generative AI integrations with Gemini API in real-world software.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,30:0284c7,60:0c4a6e,85:0f2922,100:0b1e1a&height=150&section=footer" width="100%"/>
+<!-- ▓▓▓ 20 · CINEMATIC FOOTER ▓▓▓ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,30:0284c7,60:0c4a6e,85:0f2922,100:0b1e1a&height=150&section=footer" width="100%" alt="Footer Banner"/>

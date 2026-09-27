@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    DHARMANATH KADAM · SIGNATURE EDITION                 -->
-<!--                 Java Full Stack · AI · Data Science · B.Tech CSE        -->
-<!--                    Every element verified · Zero dead links             -->
+<!--                     DHARMANATH KADAM · SIGNATURE                        -->
+<!--                Java Full Stack · AI · Data Science · B.Tech CSE         -->
+<!--                     Verified · Cinematic · Zero Errors                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e1a,30:0f2922,60:0c4a6e,85:0284c7,100:22d3ee&height=200&section=header&animation=fadeIn" width="100%" alt="Hero Banner"/>

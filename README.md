@@ -1,29 +1,45 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--         DHARMANATH KADAM · VERSION 3 · GOLDEN ROYAL                 -->
-<!--         Palette: Gold · Amber · Black · Cream                        -->
-<!--         Structure: Editorial · Left-Aligned · Roman Numerals         -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--              DHARMANATH KADAM · VERSION 3 · GOLDEN ROYAL                -->
+<!--              Palette: Gold · Amber · Black · Cream                       -->
+<!--              Structure: Editorial · Roman Numerals · Cinematic           -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<!-- ▓▓▓ CINEMATIC HERO BANNER ▓▓▓ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:1a1a1a,70:92400e,90:d4af37,100:fbbf24&height=220&section=header&animation=fadeIn" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=58&duration=5000&pause=1500&color=D4AF37&center=true&vCenter=true&width=1000&height=95&lines=DHARMANATH+KADAM" alt="Name"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=62&duration=5000&pause=1500&color=D4AF37&center=true&vCenter=true&width=1000&height=100&lines=DHARMANATH+KADAM" alt="Name"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=20&duration=3200&pause=900&color=FBBF24&center=true&vCenter=true&width=950&height=45&lines=Java+Full+Stack+Developer+%7C+AI+%26+Data+Science+Enthusiast" alt="Role"/>
-</div>
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:d4af37,100:0a0a0a&height=3" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=VISITORS&color=d4af37&style=for-the-badge" alt="Visitors"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=for-the-badge&color=fbbf24&labelColor=0a0a0a" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-d4af37?style=for-the-badge&labelColor=0a0a0a&logo=statuspage&logoColor=black" alt="Status"/>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,20:92400e,50:d4af37,80:92400e,100:0a0a0a&height=3" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                                Ⅰ · WHO I AM                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:1a1a1a&height=60&section=header&text=%E2%85%A0%20%20%C2%B7%20%20W%20H%20O%20%20I%20%20A%20M&fontSize=26&fontColor=d4af37&animation=twinkling" width="100%"/>
+</h2>
 
 <br/>
 
 <table>
 <tr>
-<td width="65%" valign="top">
-
-## Ⅰ · `WHO I AM`
-
-<br/>
+<td width="62%" valign="top">
 
 > ### *"Crafting elegant code. Building dignified software."*
 
@@ -33,16 +49,18 @@ I'm **Dharmanath Santosh Kadam** — a **B.Tech Computer Science & Engineering (
 
 <br/>
 
-**`Education`** &nbsp;—&nbsp; B.Tech CSE (Data Science)  
-**`Core Craft`** &nbsp;—&nbsp; Java · Spring Boot · React  
-**`Intelligence`** &nbsp;—&nbsp; Machine Learning · Generative AI  
-**`Data`** &nbsp;—&nbsp; Python · Pandas · Power BI  
-**`Mission`** &nbsp;—&nbsp; Build software with clarity and care.
+| | |
+|:---|:---|
+| **`Education`** | B.Tech CSE — Data Science |
+| **`Core Craft`** | Java · Spring Boot · React |
+| **`Intelligence`** | Machine Learning · Generative AI |
+| **`Data`** | Python · Pandas · Power BI |
+| **`Mission`** | Build software with clarity and care |
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Coding"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="290" alt="Coding"/>
 
 <br/><br/>
 
@@ -62,60 +80,54 @@ I'm **Dharmanath Santosh Kadam** — a **B.Tech Computer Science & Engineering (
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:d4af37,100:0a0a0a&height=2" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,20:92400e,50:d4af37,80:92400e,100:0a0a0a&height=3" width="100%"/>
 
 <br/>
 
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                                Ⅱ · THE CRAFT                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=VISITORS&color=d4af37&style=for-the-badge" alt="Visitors"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=for-the-badge&color=fbbf24&labelColor=0a0a0a" alt="Followers"/>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-d4af37?style=for-the-badge&labelColor=0a0a0a&logo=statuspage&logoColor=black" alt="Status"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:d4af37,100:0a0a0a&height=3" width="100%"/>
-</div>
-
-<br/>
-
-## Ⅱ · `THE CRAFT`
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:1a1a1a&height=60&section=header&text=%E2%85%A1%20%20%C2%B7%20%20T%20H%20E%20%20C%20R%20A%20F%20T&fontSize=26&fontColor=d4af37&animation=twinkling" width="100%"/>
+</h2>
 
 <br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 **`Languages & Core`**
 
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
 
+<br/><br/>
+
 **`Backend Frameworks`**
 
 <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,flask,maven&theme=dark" />
+
+<br/><br/>
 
 **`Frontend`**
 
 <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark" />
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 **`Databases`**
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
 
+<br/><br/>
+
 **`Data Science & AI`**
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter&theme=dark" />
+
+<br/><br/>
 
 **`Tools & Workflow`**
 
@@ -127,23 +139,25 @@ I'm **Dharmanath Santosh Kadam** — a **B.Tech Computer Science & Engineering (
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:d4af37,100:0a0a0a&height=3" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,20:92400e,50:d4af37,80:92400e,100:0a0a0a&height=3" width="100%"/>
 
 <br/>
 
-## Ⅲ · `PORTFOLIO OF WORK`
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                          Ⅲ · PORTFOLIO OF WORK                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:1a1a1a&height=60&section=header&text=%E2%85%A2%20%20%C2%B7%20%20P%20O%20R%20T%20F%20O%20L%20I%20O&fontSize=26&fontColor=d4af37&animation=twinkling" width="100%"/>
+</h2>
 
 <br/>
-
-<!-- ═══════════ PROJECT 01 — Full width row ═══════════ -->
 
 <table>
 <tr>
 <td width="8%" align="center" valign="middle">
 
-# Ⅰ
+<h1 style="color:#d4af37;">Ⅰ</h1>
 
 </td>
 <td width="42%" valign="top">
@@ -171,13 +185,11 @@ A healthcare application combining prediction models, interactive dashboards, da
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:92400e,100:0a0a0a&height=1" width="100%"/>
 
-<!-- ═══════════ PROJECT 02 ═══════════ -->
-
 <table>
 <tr>
 <td width="8%" align="center" valign="middle">
 
-# Ⅱ
+<h1 style="color:#d4af37;">Ⅱ</h1>
 
 </td>
 <td width="42%" valign="top">
@@ -205,13 +217,11 @@ A smart pet home-stay platform connecting pet owners with trusted caregivers thr
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:92400e,100:0a0a0a&height=1" width="100%"/>
 
-<!-- ═══════════ PROJECT 03 ═══════════ -->
-
 <table>
 <tr>
 <td width="8%" align="center" valign="middle">
 
-# Ⅲ
+<h1 style="color:#d4af37;">Ⅲ</h1>
 
 </td>
 <td width="42%" valign="top">
@@ -239,13 +249,11 @@ A full-stack e-commerce app focused on backend development, REST APIs, database 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:92400e,100:0a0a0a&height=1" width="100%"/>
 
-<!-- ═══════════ PROJECT 04 ═══════════ -->
-
 <table>
 <tr>
 <td width="8%" align="center" valign="middle">
 
-# Ⅳ
+<h1 style="color:#d4af37;">Ⅳ</h1>
 
 </td>
 <td width="42%" valign="top">
@@ -265,7 +273,7 @@ Contributing to the development of Clever Bill — a production billing applicat
 
 <br/>
 
-<a href="https://github.com/dharmanathsk04"><img src="https://img.shields.io/badge/→%20REPOSITORY-92400e?style=for-the-badge&labelColor=fbbf24&logo=github&logoColor=black"/></a>
+<a href="https://github.com/dharmanathsk04"><img src="https://img.shields.io/badge/→%20REPOSITORY-fbbf24?style=for-the-badge&labelColor=92400e&logo=github&logoColor=black"/></a>
 
 </td>
 </tr>
@@ -273,13 +281,11 @@ Contributing to the development of Clever Bill — a production billing applicat
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:92400e,100:0a0a0a&height=1" width="100%"/>
 
-<!-- ═══════════ PROJECT 05 ═══════════ -->
-
 <table>
 <tr>
 <td width="8%" align="center" valign="middle">
 
-# Ⅴ
+<h1 style="color:#d4af37;">Ⅴ</h1>
 
 </td>
 <td width="42%" valign="top">
@@ -307,13 +313,11 @@ A Java-based library management application with backend APIs, database integrat
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:92400e,100:0a0a0a&height=1" width="100%"/>
 
-<!-- ═══════════ PROJECT 06 ═══════════ -->
-
 <table>
 <tr>
 <td width="8%" align="center" valign="middle">
 
-# Ⅵ
+<h1 style="color:#d4af37;">Ⅵ</h1>
 
 </td>
 <td width="42%" valign="top">
@@ -341,13 +345,17 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:d4af37,100:0a0a0a&height=3" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,20:92400e,50:d4af37,80:92400e,100:0a0a0a&height=3" width="100%"/>
 
 <br/>
 
-## Ⅳ · `THE RECORD`
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                              Ⅳ · THE RECORD                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:1a1a1a&height=60&section=header&text=%E2%85%A3%20%20%C2%B7%20%20T%20H%20E%20%20R%20E%20C%20O%20R%20D&fontSize=26&fontColor=d4af37&animation=twinkling" width="100%"/>
+</h2>
 
 <br/>
 
@@ -369,13 +377,17 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:d4af37,100:0a0a0a&height=3" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,20:92400e,50:d4af37,80:92400e,100:0a0a0a&height=3" width="100%"/>
 
 <br/>
 
-## Ⅴ · `HONORS & DISTINCTIONS`
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         Ⅴ · HONORS & DISTINCTIONS                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:1a1a1a&height=60&section=header&text=%E2%85%A4%20%20%C2%B7%20%20H%20O%20N%20O%20R%20S&fontSize=26&fontColor=d4af37&animation=twinkling" width="100%"/>
+</h2>
 
 <br/>
 
@@ -412,13 +424,17 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:d4af37,100:0a0a0a&height=3" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,20:92400e,50:d4af37,80:92400e,100:0a0a0a&height=3" width="100%"/>
 
 <br/>
 
-## Ⅵ · `PROFESSIONAL EXPERIENCE`
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                       Ⅵ · PROFESSIONAL EXPERIENCE                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:1a1a1a&height=60&section=header&text=%E2%85%A5%20%20%C2%B7%20%20E%20X%20P%20E%20R%20I%20E%20N%20C%20E&fontSize=26&fontColor=d4af37&animation=twinkling" width="100%"/>
+</h2>
 
 <br/>
 
@@ -440,13 +456,17 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:d4af37,100:0a0a0a&height=3" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,20:92400e,50:d4af37,80:92400e,100:0a0a0a&height=3" width="100%"/>
 
 <br/>
 
-## Ⅶ · `CONTINUOUS LEARNING`
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                       Ⅶ · CONTINUOUS LEARNING                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:1a1a1a&height=60&section=header&text=%E2%85%A6%20%20%C2%B7%20%20L%20E%20A%20R%20N%20I%20N%20G&fontSize=26&fontColor=d4af37&animation=twinkling" width="100%"/>
+</h2>
 
 <br/>
 
@@ -459,13 +479,17 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:d4af37,100:0a0a0a&height=3" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,20:92400e,50:d4af37,80:92400e,100:0a0a0a&height=3" width="100%"/>
 
 <br/>
 
-## Ⅷ · `CORRESPONDENCE`
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                        Ⅷ · CORRESPONDENCE                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:1a1a1a&height=60&section=header&text=%E2%85%A7%20%20%C2%B7%20%20C%20O%20N%20N%20E%20C%20T&fontSize=26&fontColor=d4af37&animation=twinkling" width="100%"/>
+</h2>
 
 <br/>
 
@@ -488,7 +512,7 @@ A billing application built around product, customer, and billing workflows with
 
 <br/><br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=22&duration=3000&pause=900&color=D4AF37&center=true&vCenter=true&width=900&height=60&lines=%E2%97%86++CRAFT+%E2%80%A2+REFINE+%E2%80%A2+DELIVER++%E2%97%86" alt="Mantra"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=24&duration=3000&pause=900&color=D4AF37&center=true&vCenter=true&width=900&height=60&lines=%E2%97%86++CRAFT+%E2%80%A2+REFINE+%E2%80%A2+DELIVER++%E2%97%86" alt="Mantra"/>
 
 <br/>
 
@@ -498,4 +522,4 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbbf24,50:d4af37,100:0a0a0a&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbbf24,30:d4af37,60:92400e,100:0a0a0a&height=140&section=footer" width="100%"/>

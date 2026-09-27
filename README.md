@@ -1,24 +1,24 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    DHARMANATH KADAM · CINEMATIC PROFILE                 -->
-<!--                    Java Full Stack Developer · AI · Data Science        -->
-<!--                    Every element verified working                        -->
+<!--              DHARMANATH KADAM · ENGINEERING PROFILE                     -->
+<!--              Java Full Stack · AI · Data Science                        -->
+<!--              Cinematic Edition · Production Ready                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ▓▓▓ LAYER 01 — CINEMATIC NAME REVEAL (Typewriter with glow) ▓▓▓ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=52&duration=5000&pause=1500&color=10B981&center=true&vCenter=true&width=1000&height=90&lines=DHARMANATH+KADAM" alt="Name"/>
+<!-- ▓▓ HERO · NAME REVEAL ▓▓ -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=54&duration=4800&pause=1600&color=10B981&center=true&vCenter=true&width=1000&height=95&lines=DHARMANATH+KADAM" alt="Name"/>
 
-<!-- ▓▓▓ LAYER 02 — ROLE (Cyan cycle) ▓▓▓ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&height=40&lines=Java+Full+Stack+Developer+%7C+AI+%26+Data+Science+Enthusiast" alt="Role"/>
+<!-- ▓▓ HERO · ROLE ▓▓ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=980&height=42&lines=Java+Full+Stack+Developer+%E2%80%A2+AI+%26+Data+Science+Engineer" alt="Role"/>
 
-<!-- ▓▓▓ LAYER 03 — TAGLINE (Amber multiline) ▓▓▓ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=FBBF24&center=true&vCenter=true&multiline=true&width=950&height=100&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Python;Building+Full+Stack+%26+AI-Powered+Applications;Learning%2C+Building+%26+Solving+Real-World+Problems+%F0%9F%9A%80" alt="Tagline"/>
+<!-- ▓▓ HERO · TAGLINE ▓▓ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=800&color=FBBF24&center=true&vCenter=true&multiline=true&width=980&height=105&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Python+%7C+ML;Architecting+full+stack+systems+%26+AI-powered+products;Engineering+clean+%E2%80%A2+scalable+%E2%80%A2+production-grade+software+%F0%9F%9A%80" alt="Tagline"/>
 
 <br/>
 
-<!-- ▓▓▓ HUD STATUS BADGES (live-updating) ▓▓▓ -->
-<img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=VISITORS&color=10b981&style=for-the-badge" alt="Visitors"/>
+<!-- ▓▓ LIVE STATUS HUD ▓▓ -->
+<img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=PROFILE+VIEWS&color=10b981&style=for-the-badge" alt="Visitors"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=for-the-badge&color=0284c7&labelColor=0b1e1a" alt="Followers"/>
 &nbsp;
@@ -28,53 +28,53 @@
 
 <br/><br/>
 
-<!-- ▓▓▓ CLICKABLE PRIMARY BUTTONS (opens on click) ▓▓▓ -->
+<!-- ▓▓ PRIMARY CTA BUTTONS ▓▓ -->
 <a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1e1a"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1e1a"/>
 </a>
 <a href="mailto:dharmanathkadam@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Send%20a%20message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7f1d1d"/>
+  <img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7f1d1d"/>
 </a>
 <a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank">
-  <img src="https://img.shields.io/badge/LEETCODE-View%20profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0b1e1a"/>
+  <img src="https://img.shields.io/badge/LEETCODE-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0b1e1a"/>
 </a>
 <a href="https://github.com/dharmanathsk04" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-Explore%20repos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1e1a"/>
+  <img src="https://img.shields.io/badge/GITHUB-Repos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1e1a"/>
 </a>
 <a href="https://www.kaggle.com/dharmanathkadam" target="_blank">
-  <img src="https://img.shields.io/badge/KAGGLE-See%20notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0c4a6e"/>
+  <img src="https://img.shields.io/badge/KAGGLE-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0c4a6e"/>
 </a>
 
 </div>
 
-<!-- ▓▓▓ CINEMATIC DIVIDER — CYAN BEAM ▓▓▓ -->
+<!-- ▓▓ CINEMATIC DIVIDER ▓▓ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:22d3ee,100:0b1e1a&height=3" width="100%"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                            👨‍💻 ABOUT ME                                 -->
+<!-- 01 · IDENTITY                                                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20ABOUT%20ME&fontSize=30&fontColor=10B981&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=72&section=header&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20IDENTITY&fontSize=30&fontColor=10B981&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
+  <img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
 </div>
 
-### Hello, I'm **Dharmanath Santosh Kadam** 👋
+### Hi — I'm **Dharmanath Santosh Kadam** 👋
 
-I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by a passion for building software that matters. I work at the intersection of **Java Full Stack Development**, **Artificial Intelligence**, and **Data Science** — designing backend systems, crafting responsive frontends, and turning ideas into working products.
+A **B.Tech Computer Science & Engineering (Data Science)** engineer building software that solves real problems. I operate at the intersection of **Java Full Stack Development**, **Artificial Intelligence**, and **Data Science** — designing resilient backends, crafting responsive frontends, and turning ideas into working products.
 
-- 🎓 &nbsp;**B.Tech CSE** — Data Science
-- 💻 &nbsp;**Java Full Stack Developer** — Spring Boot · React
-- 🤖 &nbsp;**AI Enthusiast** — Machine Learning · Generative AI
-- 📊 &nbsp;**Data Science** — Python · Pandas · Power BI
-- 🚀 &nbsp;**Mission** — Build clean, scalable, real-world software
+- 🎓 &nbsp;**B.Tech CSE** — Specialization: Data Science
+- 💻 &nbsp;**Java Full Stack Engineer** — Spring Boot · React · REST
+- 🤖 &nbsp;**AI Practitioner** — Machine Learning · Generative AI
+- 📊 &nbsp;**Data Scientist** — Python · Pandas · Power BI
+- 🚀 &nbsp;**Mission** — Ship clean, scalable, production-grade software
 
 <br clear="right"/>
 
@@ -85,18 +85,18 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          🛠️ TECH STACK                                  -->
+<!-- 02 · TECH ARSENAL                                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20STACK&fontSize=30&fontColor=22D3EE&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=72&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20ARSENAL&fontSize=30&fontColor=22D3EE&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-**⚡ Programming & Core**
+**⚡ Languages & Core**
 
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
 
@@ -108,15 +108,15 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by
 
 <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark" />
 
-**🗄️ Database**
+**🗄️ Databases**
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
 
-**🤖 Data Science & AI**
+**🤖 AI / Data Science**
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter&theme=dark" />
 
-**🛠️ Tools & Development**
+**🛠️ Tooling & DevOps**
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,figma&theme=dark" />
 
@@ -129,11 +129,11 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       🚀 FEATURED PROJECTS                              -->
+<!-- 03 · FEATURED PROJECTS                                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%9A%80%20FEATURED%20PROJECTS&fontSize=30&fontColor=10B981&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=72&section=header&text=%F0%9F%9A%80%20FEATURED%20PROJECTS&fontSize=30&fontColor=10B981&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -143,14 +143,13 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by
 <td width="50%" valign="top">
 
 ### 🏥 CareVision
+**AI-Powered Healthcare Platform**
 
-**AI-Based Healthcare Platform**
-
-A healthcare application combining prediction models, interactive dashboards, data visualization, and AI-powered features.
+Healthcare application combining prediction models, interactive dashboards, data visualization, and AI-driven insights.
 
 `Python` · `Flask` · `MySQL` · `ML` · `Gemini API` · `Chart.js`
 
-<a href="#">
+<a href="https://github.com/dharmanathsk04">
   <img src="https://img.shields.io/badge/View%20Project-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
 </a>
 
@@ -158,14 +157,13 @@ A healthcare application combining prediction models, interactive dashboards, da
 <td width="50%" valign="top">
 
 ### 🐾 PawStay AI
-
 **AI-Powered Pet Care Platform**
 
-A smart pet home-stay platform connecting pet owners with trusted caregivers through intelligent recommendations.
+Smart pet home-stay platform connecting pet owners with trusted caregivers via intelligent recommendation engine.
 
 `Flutter` · `AI` · `Full Stack` · `Recommendations` · `Microservices`
 
-<a href="#">
+<a href="https://github.com/dharmanathsk04">
   <img src="https://img.shields.io/badge/View%20Project-0284c7?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
 </a>
 
@@ -175,14 +173,13 @@ A smart pet home-stay platform connecting pet owners with trusted caregivers thr
 <td width="50%" valign="top">
 
 ### 🛒 ShopMate
-
 **Java Spring Boot E-Commerce**
 
-A full-stack e-commerce app focused on backend development, REST APIs, database integration, and modern workflows.
+Full-stack e-commerce platform focused on backend architecture, REST APIs, secure DB integration, and modern workflows.
 
 `Java` · `Spring Boot` · `REST APIs` · `MySQL` · `React`
 
-<a href="#">
+<a href="https://github.com/dharmanathsk04">
   <img src="https://img.shields.io/badge/View%20Project-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
 </a>
 
@@ -190,10 +187,9 @@ A full-stack e-commerce app focused on backend development, REST APIs, database 
 <td width="50%" valign="top">
 
 ### 💼 Clever Bill
-
 **Business Billing & Management**
 
-Contributing to the development of Clever Bill — a production billing application focused on mobile development.
+Production billing application — contributing to mobile development for enterprise-grade billing workflows.
 
 `Mobile` · `Billing` · `Enterprise` · `In Progress`
 
@@ -207,14 +203,13 @@ Contributing to the development of Clever Bill — a production billing applicat
 <td width="50%" valign="top">
 
 ### 📚 MiniLibrary
-
 **Full Stack Library Management**
 
-A Java-based library management application with backend APIs, database integration, and a React frontend.
+Java-based library management system with REST APIs, JPA persistence, and a React frontend.
 
 `Java` · `Spring Boot` · `JPA` · `MySQL` · `React`
 
-<a href="#">
+<a href="https://github.com/dharmanathsk04">
   <img src="https://img.shields.io/badge/View%20Project-0284c7?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
 </a>
 
@@ -222,14 +217,13 @@ A Java-based library management application with backend APIs, database integrat
 <td width="50%" valign="top">
 
 ### 🧾 MiniBill
-
 **Full Stack Billing Management**
 
-A billing application built around product, customer, and billing workflows with a modern architecture.
+Billing application architected around product, customer, and billing workflows with modern layered architecture.
 
 `Spring Boot` · `React` · `REST APIs` · `Database`
 
-<a href="#">
+<a href="https://github.com/dharmanathsk04">
   <img src="https://img.shields.io/badge/View%20Project-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
 </a>
 
@@ -244,11 +238,11 @@ A billing application built around product, customer, and billing workflows with
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       📊 GITHUB ACTIVITY                                -->
+<!-- 04 · GITHUB ANALYTICS                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%93%8A%20GITHUB%20ACTIVITY&fontSize=30&fontColor=22D3EE&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=72&section=header&text=%F0%9F%93%8A%20GITHUB%20ANALYTICS&fontSize=30&fontColor=22D3EE&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -280,11 +274,11 @@ A billing application built around product, customer, and billing workflows with
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         🏆 ACHIEVEMENTS                                 -->
+<!-- 05 · ACHIEVEMENTS                                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%8F%86%20ACHIEVEMENTS&fontSize=30&fontColor=FBBF24&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=72&section=header&text=%F0%9F%8F%86%20ACHIEVEMENTS&fontSize=30&fontColor=FBBF24&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -294,7 +288,7 @@ A billing application built around product, customer, and billing workflows with
 | 🥇 **Academic Excellence** | **1st Rank** in 2nd Year B.Tech — **84.20%** |
 | 🎓 **Merit Scholarship** | Sou. Shantadevi D. Patil Merit Scholarship Award **2025–26** |
 | 📜 **Certification** | NPTEL Python for Data Science — **71%** |
-| 💻 **Industry Experience** | Completed multiple Full Stack Development internships & training |
+| 💻 **Industry Experience** | Multiple Full Stack Development internships & training programs |
 
 <br/>
 
@@ -303,11 +297,11 @@ A billing application built around product, customer, and billing workflows with
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         💼 EXPERIENCE                                   -->
+<!-- 06 · EXPERIENCE                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%92%BC%20EXPERIENCE&fontSize=30&fontColor=22D3EE&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=72&section=header&text=%F0%9F%92%BC%20EXPERIENCE&fontSize=30&fontColor=22D3EE&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -316,7 +310,7 @@ A billing application built around product, customer, and billing workflows with
 |:---|:---|
 | **🔹 DASP Private Limited** — *Java Full Stack Development Intern* | `Java` · `Spring Boot` · `Spring Data JPA` · `Hibernate` · `REST APIs` · `MySQL` · `React` |
 | **🔹 The Kiran Academy** — *Java Full Stack Internship & Training* | `Core Java` · `JDBC` · `SQL` · `Advanced Java` · `Hibernate` · `Spring Boot MVC` · `React` · `Servlet/JSP` · `Postman` |
-| **🔹 Acmegrade** — *Full Stack Development Intern* | Practical full-stack development work involving frontend, backend, and database technologies |
+| **🔹 Acmegrade** — *Full Stack Development Intern* | Practical full-stack work across frontend, backend, and database layers |
 
 <br/>
 
@@ -325,11 +319,11 @@ A billing application built around product, customer, and billing workflows with
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                      🌱 CURRENTLY LEARNING                              -->
+<!-- 07 · CURRENTLY LEARNING                                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%8C%B1%20CURRENTLY%20LEARNING&fontSize=30&fontColor=10B981&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=72&section=header&text=%F0%9F%8C%B1%20CURRENTLY%20LEARNING&fontSize=30&fontColor=10B981&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -348,11 +342,11 @@ A billing application built around product, customer, and billing workflows with
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         📄 RESUME & 🤝 CONNECT                          -->
+<!-- 08 · RESUME & CONNECT                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=70&section=header&text=%F0%9F%93%84%20RESUME%20%26%20%F0%9F%A4%9D%20CONNECT&fontSize=28&fontColor=22D3EE&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0c4a6e&height=72&section=header&text=%F0%9F%93%84%20RESUME%20%26%20%F0%9F%A4%9D%20CONNECT&fontSize=28&fontColor=22D3EE&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -396,7 +390,7 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=60&lines=Always+learning+something+new...;Always+building+something+better...;Always+moving+forward+%F0%9F%9A%80" alt="Footer Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&height=60&lines=Always+learning+something+new...;Always+building+something+better...;Always+moving+forward+%F0%9F%9A%80" alt="Footer Typing"/>
 
 </div>
 

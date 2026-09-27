@@ -3,27 +3,34 @@
 <!--              Java Full Stack · AI · Data Science · B.Tech CSE           -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- ▓▓▓ LAYER 01 · TOP EMERALD RAIL ▓▓▓ -->
+<!-- ▓▓▓ TOP EMERALD RAIL ▓▓▓ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:051208,50:10b981,100:051208&height=3" width="100%" alt="Top Rail"/>
 
 <br/>
 
-<!-- ▓▓▓ LAYER 02 · NAME — SOLID DARK CARD, high contrast, static ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:051208,100:0a2e1e&height=200&section=header&text=DHARMANATH%20KADAM&fontSize=54&fontColor=34D399&fontAlignY=48&desc=Java%20Full%20Stack%20Developer%20%C2%B7%20AI%20%26%20Data%20Science&descSize=17&descAlignY=72&descColor=6EE7B7&animation=fadeIn" width="100%" alt="Dharmanath Kadam"/>
+<!-- ▓▓▓ NAME — REAL TEXT. Rendered by GitHub. Cannot be invisible. ▓▓▓ -->
 
-<div align="center">
+<h1 align="center">
+  🟢 &nbsp; D H A R M A N A T H &nbsp; K A D A M &nbsp; 🟢
+</h1>
+
+<p align="center">
+  <em>Java Full Stack Developer · AI &amp; Data Science · B.Tech CSE</em>
+</p>
 
 <br/>
 
-<!-- ▓▓▓ LAYER 03 · ROLE CYCLE ▓▓▓ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=6EE7B7&center=true&vCenter=true&width=950&height=38&lines=%E2%9D%AF+Java+Full+Stack+Developer;%E2%9D%AF+AI+%26+Data+Science+Enthusiast;%E2%9D%AF+Problem+Solver+%E2%80%A2+Builder" alt="Role"/>
+<div align="center">
 
-<!-- ▓▓▓ LAYER 04 · FOCUS TICKER ▓▓▓ -->
+<!-- ▓▓▓ ROLE CYCLE — emerald, symbolic ▓▓▓ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=10B981&center=true&vCenter=true&width=950&height=38&lines=%E2%9D%AF+Java+Full+Stack+Developer;%E2%9D%AF+AI+%26+Data+Science+Enthusiast;%E2%9D%AF+Problem+Solver+%E2%80%A2+Builder" alt="Role"/>
+
+<!-- ▓▓▓ FOCUS TICKER — gold accent ▓▓▓ -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2600&pause=800&color=FBBF24&center=true&vCenter=true&width=950&height=36&lines=%E2%9A%A1+Spring+Boot+%E2%96%B8+React+%E2%96%B8+Python+%E2%96%B8+Machine+Learning+%E2%9A%A1" alt="Focus"/>
 
 <br/>
 
-<!-- ▓▓▓ LAYER 05 · HUD STATUS STRIP ▓▓▓ -->
+<!-- ▓▓▓ HUD STATUS STRIP ▓▓▓ -->
 <img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=VISITORS&color=10b981&style=for-the-badge" alt="Visitors"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=for-the-badge&color=10b981&labelColor=051208" alt="Followers"/>
@@ -34,7 +41,7 @@
 
 <br/><br/>
 
-<!-- ▓▓▓ LAYER 06 · CONNECT BUTTONS ▓▓▓ -->
+<!-- ▓▓▓ CONNECT BUTTONS — symbolic + branded ▓▓▓ -->
 <a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=6EE7B7&labelColor=051208" alt="LinkedIn"/></a>
 &nbsp;
 <a href="mailto:dharmanathkadam@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20EMAIL-Send%20a%20message-EA4335?style=for-the-badge&logo=gmail&logoColor=6EE7B7&labelColor=051208" alt="Email"/></a>
@@ -47,7 +54,7 @@
 
 <br/><br/>
 
-<!-- ▓▓▓ LAYER 07 · SIGNATURE QUOTE ▓▓▓ -->
+<!-- ▓▓▓ SIGNATURE QUOTE ▓▓▓ -->
 <sub><em>❝ &nbsp;Ship fast · Ship clean · Ship often&nbsp; ❞</em></sub>
 
 </div>

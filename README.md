@@ -1,39 +1,39 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--         DHARMANATH KADAM · VERSION 1 · DEEP SPACE NEBULA            -->
-<!--         Palette: Violet · Purple · Indigo                            -->
+<!--         DHARMANATH KADAM · VERSION 2 · CYBERPUNK NEON               -->
+<!--         Palette: Magenta · Cyan · Pure Black                         -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=4500&pause=1400&color=A78BFA&center=true&vCenter=true&width=1000&height=85&lines=DHARMANATH+KADAM" alt="Name"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=52&duration=4500&pause=1400&color=FF006E&center=true&vCenter=true&width=1000&height=85&lines=DHARMANATH+KADAM" alt="Name"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=950&height=40&lines=Java+Full+Stack+Developer+%7C+AI+%26+Data+Science+Enthusiast" alt="Role"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=950&height=40&lines=Java+Full+Stack+Developer+%7C+AI+%26+Data+Science+Enthusiast" alt="Role"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&multiline=true&width=950&height=95&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Python;Building+Full+Stack+%26+AI-Powered+Applications;Exploring+the+Universe+of+Code+%F0%9F%8C%8C" alt="Tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=FF006E&center=true&vCenter=true&multiline=true&width=950&height=95&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Python;Building+Full+Stack+%26+AI-Powered+Applications;Loading+the+Future...+%F0%9F%9A%80" alt="Tagline"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=VISITORS&color=8b5cf6&style=for-the-badge" alt="Visitors"/>
+<img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=VISITORS&color=ff006e&style=for-the-badge" alt="Visitors"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=for-the-badge&color=a78bfa&labelColor=1e1b4b" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=for-the-badge&color=00f5ff&labelColor=000000" alt="Followers"/>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-c4b5fd?style=for-the-badge&labelColor=1e1b4b&logo=statuspage&logoColor=white" alt="Status"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00f5ff?style=for-the-badge&labelColor=000000&logo=statuspage&logoColor=white" alt="Status"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b"/></a>
-<a href="mailto:dharmanathkadam@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Message-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2e1065"/></a>
-<a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1e1b4b"/></a>
-<a href="https://github.com/dharmanathsk04" target="_blank"><img src="https://img.shields.io/badge/GITHUB-Explore-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b"/></a>
-<a href="https://www.kaggle.com/dharmanathkadam" target="_blank"><img src="https://img.shields.io/badge/KAGGLE-Discover-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=1e1b4b"/></a>
+<a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Connect-FF006E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/></a>
+<a href="mailto:dharmanathkadam@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Message-00F5FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000"/></a>
+<a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000"/></a>
+<a href="https://github.com/dharmanathsk04" target="_blank"><img src="https://img.shields.io/badge/GITHUB-Explore-FF006E?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a>
+<a href="https://www.kaggle.com/dharmanathkadam" target="_blank"><img src="https://img.shields.io/badge/KAGGLE-Discover-00F5FF?style=for-the-badge&logo=kaggle&logoColor=black&labelColor=000000"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:a78bfa,100:1e1b4b&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff006e,100:000000&height=3" width="100%"/>
 
 <br/>
 
-<h2 align="center">✦ About Me ✦</h2>
+<h2 align="center">⚡ About Me ⚡</h2>
 
 <div align="center">
   <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
@@ -53,11 +53,11 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:8b5cf6,100:1e1b4b&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00f5ff,100:000000&height=2" width="100%"/>
 
 <br/>
 
-<h2 align="center">✦ Tech Stack ✦</h2>
+<h2 align="center">⚡ Tech Stack ⚡</h2>
 
 <div align="center">
 
@@ -89,11 +89,11 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:a78bfa,100:1e1b4b&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff006e,100:000000&height=2" width="100%"/>
 
 <br/>
 
-<h2 align="center">✦ Featured Projects ✦</h2>
+<h2 align="center">⚡ Featured Projects ⚡</h2>
 
 <table>
 <tr>
@@ -107,7 +107,7 @@ A healthcare application combining prediction models, interactive dashboards, da
 
 `Python` · `Flask` · `MySQL` · `ML` · `Gemini API` · `Chart.js`
 
-<a href="#"><img src="https://img.shields.io/badge/View%20Project-8b5cf6?style=for-the-badge&labelColor=1e1b4b&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/View%20Project-FF006E?style=for-the-badge&labelColor=000000&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -120,7 +120,7 @@ A smart pet home-stay platform connecting pet owners with trusted caregivers thr
 
 `Flutter` · `AI` · `Full Stack` · `Recommendations` · `Microservices`
 
-<a href="#"><img src="https://img.shields.io/badge/View%20Project-a78bfa?style=for-the-badge&labelColor=1e1b4b&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/View%20Project-00F5FF?style=for-the-badge&labelColor=000000&logo=github&logoColor=black"/></a>
 
 </td>
 </tr>
@@ -135,7 +135,7 @@ A full-stack e-commerce app focused on backend development, REST APIs, database 
 
 `Java` · `Spring Boot` · `REST APIs` · `MySQL` · `React`
 
-<a href="#"><img src="https://img.shields.io/badge/View%20Project-8b5cf6?style=for-the-badge&labelColor=1e1b4b&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/View%20Project-FF006E?style=for-the-badge&labelColor=000000&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -148,7 +148,7 @@ Contributing to the development of Clever Bill — a production billing applicat
 
 `Mobile` · `Billing` · `Enterprise` · `In Progress`
 
-<a href="https://github.com/dharmanathsk04"><img src="https://img.shields.io/badge/Repository-c4b5fd?style=for-the-badge&labelColor=2e1065&logo=github&logoColor=white"/></a>
+<a href="https://github.com/dharmanathsk04"><img src="https://img.shields.io/badge/Repository-00F5FF?style=for-the-badge&labelColor=000000&logo=github&logoColor=black"/></a>
 
 </td>
 </tr>
@@ -163,7 +163,7 @@ A Java-based library management application with backend APIs, database integrat
 
 `Java` · `Spring Boot` · `JPA` · `MySQL` · `React`
 
-<a href="#"><img src="https://img.shields.io/badge/View%20Project-a78bfa?style=for-the-badge&labelColor=1e1b4b&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/View%20Project-FF006E?style=for-the-badge&labelColor=000000&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -176,7 +176,7 @@ A billing application built around product, customer, and billing workflows with
 
 `Spring Boot` · `React` · `REST APIs` · `Database`
 
-<a href="#"><img src="https://img.shields.io/badge/View%20Project-8b5cf6?style=for-the-badge&labelColor=1e1b4b&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/View%20Project-00F5FF?style=for-the-badge&labelColor=000000&logo=github&logoColor=black"/></a>
 
 </td>
 </tr>
@@ -184,15 +184,15 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:a78bfa,100:1e1b4b&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff006e,100:000000&height=2" width="100%"/>
 
 <br/>
 
-<h2 align="center">✦ GitHub Activity ✦</h2>
+<h2 align="center">⚡ GitHub Activity ⚡</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanathsk04&bg_color=1e1b4b&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanathsk04&bg_color=000000&color=00f5ff&line=ff006e&point=ff006e&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 <br/><br/>
 
@@ -208,11 +208,11 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:8b5cf6,100:1e1b4b&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00f5ff,100:000000&height=2" width="100%"/>
 
 <br/>
 
-<h2 align="center">✦ Achievements ✦</h2>
+<h2 align="center">⚡ Achievements ⚡</h2>
 
 | Achievement | Details |
 |:---|:---|
@@ -223,11 +223,11 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:a78bfa,100:1e1b4b&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff006e,100:000000&height=2" width="100%"/>
 
 <br/>
 
-<h2 align="center">✦ Experience ✦</h2>
+<h2 align="center">⚡ Experience ⚡</h2>
 
 | Role | Details |
 |:---|:---|
@@ -237,11 +237,11 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:8b5cf6,100:1e1b4b&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00f5ff,100:000000&height=2" width="100%"/>
 
 <br/>
 
-<h2 align="center">✦ Currently Learning ✦</h2>
+<h2 align="center">⚡ Currently Learning ⚡</h2>
 
 | Area | Skills |
 |:---|:---|
@@ -252,39 +252,39 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,50:a78bfa,100:1e1b4b&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff006e,100:000000&height=2" width="100%"/>
 
 <br/>
 
-<h2 align="center">✦ Resume & Connect ✦</h2>
+<h2 align="center">⚡ Resume & Connect ⚡</h2>
 
 <div align="center">
 
-<a href="https://drive.google.com/file/d/1ID75LUVdrC4dDKWRzlFk5IVtnv4UoyMp/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%84%20VIEW%20RESUME-8b5cf6?style=for-the-badge&labelColor=1e1b4b&logo=googledrive&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1ID75LUVdrC4dDKWRzlFk5IVtnv4UoyMp/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%84%20VIEW%20RESUME-FF006E?style=for-the-badge&labelColor=000000&logo=googledrive&logoColor=white"/></a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b"/></a>
-<a href="mailto:dharmanathkadam@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2e1065"/></a>
-<a href="https://github.com/dharmanathsk04" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b"/></a>
-<a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1e1b4b"/></a>
+<a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/></a>
+<a href="mailto:dharmanathkadam@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/></a>
+<a href="https://github.com/dharmanathsk04" target="_blank"><img src="https://img.shields.io/badge/GitHub-FF006E?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a>
+<a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000"/></a>
 
 <br/>
 
-<a href="https://www.kaggle.com/dharmanathkadam" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=1e1b4b"/></a>
-<a href="https://www.hackerrank.com/dharmanathkadam" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1e1b4b"/></a>
-<a href="https://codepen.io/@dharmanath04" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=2e1065"/></a>
+<a href="https://www.kaggle.com/dharmanathkadam" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=000000"/></a>
+<a href="https://www.hackerrank.com/dharmanathkadam" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00F5FF?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=000000"/></a>
+<a href="https://codepen.io/@dharmanath04" target="_blank"><img src="https://img.shields.io/badge/CodePen-FF006E?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=800&height=55&lines=%E2%9C%A6+BUILD+%E2%80%A2+LEARN+%E2%80%A2+CREATE+%E2%80%A2+IMPROVE+%E2%9C%A6" alt="Mantra"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=2600&pause=800&color=00F5FF&center=true&vCenter=true&width=800&height=55&lines=%E2%9A%A1+BUILD+%E2%80%A2+LEARN+%E2%80%A2+CREATE+%E2%80%A2+IMPROVE+%E2%9A%A1" alt="Mantra"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=60&lines=Thanks+for+visiting+my+profile+%F0%9F%9A%80;Always+learning+something+new...;Always+exploring+the+cosmos+of+code+%F0%9F%8C%8C" alt="Footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=1000&color=FF006E&center=true&vCenter=true&width=700&height=60&lines=Thanks+for+visiting+my+profile+%F0%9F%9A%80;Always+learning+something+new...;Always+loading+the+future+%F0%9F%8C%8C" alt="Footer"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:8b5cf6,100:1e1b4b&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:ff006e,100:000000&height=130&section=footer" width="100%"/>

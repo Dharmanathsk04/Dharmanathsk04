@@ -1,23 +1,23 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--              DHARMANATH KADAM · ENGINEERING PROFILE                     -->
+<!--              DHARMANATH KADAM · EMERALD NOIR · VERSION 01               -->
 <!--              Java Full Stack · AI · Data Science                        -->
-<!--              Cinematic Edition · Production Ready                       -->
+<!--              All assets verified · Static-first architecture            -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ▓▓ HERO · NAME REVEAL ▓▓ -->
+<!-- ▓ HERO · NAME ▓ -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=54&duration=4800&pause=1600&color=10B981&center=true&vCenter=true&width=1000&height=95&lines=DHARMANATH+KADAM" alt="Name"/>
 
-<!-- ▓▓ HERO · ROLE ▓▓ -->
+<!-- ▓ HERO · ROLE ▓ -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=980&height=42&lines=Java+Full+Stack+Developer+%E2%80%A2+AI+%26+Data+Science+Engineer" alt="Role"/>
 
-<!-- ▓▓ HERO · TAGLINE ▓▓ -->
+<!-- ▓ HERO · TAGLINE ▓ -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=800&color=FBBF24&center=true&vCenter=true&multiline=true&width=980&height=105&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Python+%7C+ML;Architecting+full+stack+systems+%26+AI-powered+products;Engineering+clean+%E2%80%A2+scalable+%E2%80%A2+production-grade+software+%F0%9F%9A%80" alt="Tagline"/>
 
 <br/>
 
-<!-- ▓▓ LIVE STATUS HUD ▓▓ -->
+<!-- ▓ STATUS HUD ▓ -->
 <img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=PROFILE+VIEWS&color=10b981&style=for-the-badge" alt="Visitors"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=for-the-badge&color=0284c7&labelColor=0b1e1a" alt="Followers"/>
@@ -28,7 +28,7 @@
 
 <br/><br/>
 
-<!-- ▓▓ PRIMARY CTA BUTTONS ▓▓ -->
+<!-- ▓ PRIMARY CTA ▓ -->
 <a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1e1a"/>
 </a>
@@ -47,7 +47,7 @@
 
 </div>
 
-<!-- ▓▓ CINEMATIC DIVIDER ▓▓ -->
+<!-- ▓ CINEMATIC DIVIDER ▓ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:22d3ee,100:0b1e1a&height=3" width="100%"/>
 
 <br/>
@@ -238,7 +238,7 @@ Billing application architected around product, customer, and billing workflows 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 04 · GITHUB ANALYTICS                                                   -->
+<!-- 04 · GITHUB ANALYTICS  —  STATIC-FIRST ARCHITECTURE                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -249,21 +249,27 @@ Billing application architected around product, customer, and billing workflows 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanathsk04&bg_color=0b1e1a&color=34d399&line=0284c7&point=fbbf24&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+<!-- ✅ PRIMARY: GitCard Studio — independent infra, Vercel-free -->
+<img src="https://gitcard-studio.creativecode.com.co/api/stats?username=dharmanathsk04&theme=dark&locale=en" width="49%" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://gitcard-studio.creativecode.com.co/api/languages?username=dharmanathsk04&theme=tokyonight&locale=en" width="49%" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmanathsk04&theme=github_dark" width="100%" alt="Profile Summary"/>
+<!-- ✅ CONTRIBUTION HEATMAP — commit habit matrix -->
+<img src="https://gitcard-studio.creativecode.com.co/api/commit-activity?username=dharmanathsk04&theme=neon&locale=en" width="100%" alt="Commit Activity Heatmap"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dharmanathsk04&theme=github_dark" height="180" alt="Most Commit Language"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dharmanathsk04&theme=github_dark&utcOffset=5.5" height="180" alt="Productive Time"/>
+<!-- ✅ STREAK COUNTER -->
+<img src="https://gitcard-studio.creativecode.com.co/api/streak?username=dharmanathsk04&theme=dark&locale=en" width="49%" alt="Streak"/>
+&nbsp;
+<img src="https://gitcard-studio.creativecode.com.co/api/rank?username=dharmanathsk04&theme=dark&locale=en" width="49%" alt="Rank"/>
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="420" alt="Developer Working"/>
+<!-- ✅ SECONDARY: kgnio stats card — Vercel-hosted but independent codebase -->
+<img src="https://kgnio-profile-card.vercel.app/api/card?user=dharmanathsk04&theme=cyber-city" width="100%" alt="Profile Stats Card"/>
 
 </div>
 

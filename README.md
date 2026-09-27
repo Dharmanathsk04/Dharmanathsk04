@@ -1,141 +1,137 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--              DHARMANATH KADAM · MONOCHROME EDITORIAL · VERSION 03       -->
-<!--              Java Full Stack · AI · Data Science                        -->
-<!--              Brutalist magazine layout · All assets verified live       -->
+<!--         DHARMANATH KADAM  ·  AURORA GLASS  ·  VERSION 04                -->
+<!--         Java Full Stack · AI · Data Science                             -->
+<!--         Soft pastel aurora aesthetic · All assets verified live         -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ▓▓▓ HERO · NAME ▓▓▓ -->
-<img src="https://readme-typing-svg.demolab.com?font=Anton&weight=400&size=64&duration=5000&pause=1500&color=EF4444&center=true&vCenter=true&width=1000&height=115&lines=DHARMANATH+KADAM" alt="Name"/>
+<!-- ▓ HERO · NAME · Syne, aurora violet ▓ -->
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=58&duration=4800&pause=1500&color=A78BFA&center=true&vCenter=true&width=1000&height=105&lines=DHARMANATH+KADAM" alt="Name"/>
 
-<!-- ▓▓▓ HERO · ROLE ▓▓▓ -->
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&duration=3200&pause=1000&color=F5F5F5&center=true&vCenter=true&width=950&height=42&lines=JAVA+FULL+STACK+DEVELOPER+%E2%80%94+AI+%26+DATA+SCIENCE" alt="Role"/>
+<!-- ▓ HERO · ROLE · Outfit, mint ▓ -->
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=19&duration=3000&pause=900&color=6EE7B7&center=true&vCenter=true&width=980&height=42&lines=Java+Full+Stack+Developer+%E2%9C%A6+AI+%26+Data+Science" alt="Role"/>
 
-<!-- ▓▓▓ HERO · TAGLINE ▓▓▓ -->
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=15&duration=2800&pause=900&color=737373&center=true&vCenter=true&multiline=true&width=950&height=100&lines=Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Python+%C2%B7+ML;Architecting+systems.+Shipping+products.+Iterating+daily.;NO+HYPE.+JUST+COMPILED+WORK._" alt="Tagline"/>
+<!-- ▓ HERO · TAGLINE · Space Mono, aurora pink ▓ -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=15&duration=2600&pause=800&color=F0ABFC&center=true&vCenter=true&multiline=true&width=980&height=105&lines=Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Python+%C2%B7+ML;Designing+soft+systems+with+hard+engineering;Aurora-grade+software%2C+shipped+clean_%E2%9C%A6" alt="Tagline"/>
 
 <br/>
 
-<!-- ▓▓▓ HUD STATUS BADGES ▓▓▓ -->
-<img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=READERS&color=ef4444&style=flat-square" alt="Readers"/>
+<!-- ▓ STATUS STRIP · soft pastel ▓ -->
+<img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=STARGAZERS&color=a78bfa&style=for-the-badge" alt="Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=flat-square&color=f5f5f5&labelColor=0a0a0a" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=for-the-badge&color=6ee7b7&labelColor=0b0f1f" alt="Followers"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/dharmanathsk04?label=STARS&style=flat-square&color=f5f5f5&labelColor=0a0a0a" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/dharmanathsk04?label=STARS&style=for-the-badge&color=f0abfc&labelColor=0b0f1f" alt="Stars"/>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS_%E2%80%A2_OPEN-ef4444?style=flat-square&labelColor=0a0a0a" alt="Status"/>
+<img src="https://img.shields.io/badge/%E2%9C%A6_OPEN_TO_WORK-67e8f9?style=for-the-badge&labelColor=0b0f1f&logo=statuspage&logoColor=0b0f1f" alt="Status"/>
 
 <br/><br/>
 
-<!-- ▓▓▓ PRIMARY CTA ▓▓▓ -->
+<!-- ▓ CTA ROW · soft aurora palette ▓ -->
 <a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0a0a0a?style=flat-square&labelColor=ef4444&logo=linkedin&logoColor=f5f5f5"/>
+  <img src="https://img.shields.io/badge/%E2%9C%A6_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f1f"/>
 </a>
 <a href="mailto:dharmanathkadam@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-0a0a0a?style=flat-square&labelColor=ef4444&logo=gmail&logoColor=f5f5f5"/>
-</a>
-<a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank">
-  <img src="https://img.shields.io/badge/LEETCODE-0a0a0a?style=flat-square&labelColor=ef4444&logo=leetcode&logoColor=f5f5f5"/>
+  <img src="https://img.shields.io/badge/%E2%9C%A6_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0f1f"/>
 </a>
 <a href="https://github.com/dharmanathsk04" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-0a0a0a?style=flat-square&labelColor=ef4444&logo=github&logoColor=f5f5f5"/>
+  <img src="https://img.shields.io/badge/%E2%9C%A6_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0f1f"/>
+</a>
+<a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%9C%A6_LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0b0f1f"/>
 </a>
 <a href="https://www.kaggle.com/dharmanathkadam" target="_blank">
-  <img src="https://img.shields.io/badge/KAGGLE-0a0a0a?style=flat-square&labelColor=ef4444&logo=kaggle&logoColor=f5f5f5"/>
+  <img src="https://img.shields.io/badge/%E2%9C%A6_KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0b0f1f"/>
 </a>
 
 </div>
 
-<!-- ▓▓▓ THIN EDITORIAL RULE ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:ef4444,100:0a0a0a&height=2" width="100%"/>
+<!-- ▓ AURORA DIVIDER ▓ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f1f,20:67e8f9,45:a78bfa,70:f0abfc,100:0b0f1f&height=4" width="100%"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                            § 01 — MANIFESTO                              -->
+<!--                    ✦ 01 — IDENTITY                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://img.shields.io/badge/%C2%A7_01_%E2%80%94_MANIFESTO-0a0a0a?style=flat-square&labelColor=ef4444" alt="§ 01 — MANIFESTO"/>
+<img src="https://img.shields.io/badge/%E2%9C%A6_01_%C2%B7_IDENTITY-a78bfa?style=for-the-badge&labelColor=0b0f1f" alt="Section"/>
 </div>
 
 <br/>
 
-<div align="center">
-  <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
-</div>
-
-> **"Build like the compiler is watching. Ship like the deadline is real."**
+<table>
+<tr>
+<td width="62%" valign="top">
 
 ### Hello, I'm **Dharmanath Santosh Kadam** 👋
 
-I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by a passion for building software that matters. I work at the intersection of **Java Full Stack Development**, **Artificial Intelligence**, and **Data Science** — designing backend systems, crafting responsive frontends, and turning ideas into working products.
+A **B.Tech Computer Science & Engineering (Data Science)** engineer designing soft, aurora-grade software with hard engineering discipline. I work where **Java Full Stack**, **Artificial Intelligence**, and **Data Science** overlap — building backends that hold, frontends that flow, and products that ship.
 
-- 🎓 &nbsp;**B.Tech CSE** — Data Science
-- 💻 &nbsp;**Java Full Stack Developer** — Spring Boot · React
-- 🤖 &nbsp;**AI Enthusiast** — Machine Learning · Generative AI
-- 📊 &nbsp;**Data Science** — Python · Pandas · Power BI
-- 🚀 &nbsp;**Mission** — Build clean, scalable, real-world software
+- 🌌 &nbsp;**B.Tech CSE** — Specialization: Data Science
+- 💻 &nbsp;**Java Full Stack Engineer** — Spring Boot · React · REST
+- 🤖 &nbsp;**AI Practitioner** — Machine Learning · Generative AI
+- 📊 &nbsp;**Data Scientist** — Python · Pandas · Power BI
+- ✦ &nbsp;**Principle** — *Design soft, engineer hard, ship clean*
 
-<br clear="right"/>
+</td>
+<td width="38%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:ef4444,100:0a0a0a&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f1f,50:67e8f9,100:0b0f1f&height=2" width="100%"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          § 02 — INDEX OF SKILLS                          -->
+<!--                    ✦ 02 — TOOLKIT                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://img.shields.io/badge/%C2%A7_02_%E2%80%94_INDEX_OF_SKILLS-0a0a0a?style=flat-square&labelColor=ef4444" alt="§ 02 — INDEX OF SKILLS"/>
+<img src="https://img.shields.io/badge/%E2%9C%A6_02_%C2%B7_TOOLKIT-67e8f9?style=for-the-badge&labelColor=0b0f1f" alt="Section"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-**⚡ PROGRAMMING & CORE**
-
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
-
-**🌐 BACKEND & FRAMEWORKS**
-
-<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,flask,maven&theme=dark" />
-
-**🎨 FRONTEND**
-
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark" />
-
-**🗄️ DATABASE**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
-
-**🤖 DATA SCIENCE & AI**
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter&theme=dark" />
-
-**🛠️ TOOLS & DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,figma&theme=dark" />
+<table>
+<tr>
+<td align="center" width="25%"><b>LANG</b><br/><br/><img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark"/></td>
+<td align="center" width="25%"><b>BACKEND</b><br/><br/><img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,flask,maven&theme=dark"/></td>
+<td align="center" width="25%"><b>FRONTEND</b><br/><br/><img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark"/></td>
+<td align="center" width="25%"><b>DATA</b><br/><br/><img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center" width="25%"><b>AI / ML</b><br/><br/><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter&theme=dark"/></td>
+<td align="center" width="25%"><b>DEVOPS</b><br/><br/><img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark"/></td>
+<td align="center" width="25%"><b>EDITORS</b><br/><br/><img src="https://skillicons.dev/icons?i=vscode,idea,figma&theme=dark"/></td>
+<td align="center" width="25%"><b>OTHER</b><br/><br/><img src="https://skillicons.dev/icons?i=linux,bash,regex,md&theme=dark"/></td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:ef4444,100:0a0a0a&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f1f,50:a78bfa,100:0b0f1f&height=2" width="100%"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       § 03 — SELECTED WORK                               -->
+<!--                    ✦ 03 — PORTFOLIO                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://img.shields.io/badge/%C2%A7_03_%E2%80%94_SELECTED_WORK-0a0a0a?style=flat-square&labelColor=ef4444" alt="§ 03 — SELECTED WORK"/>
+<img src="https://img.shields.io/badge/%E2%9C%A6_03_%C2%B7_PORTFOLIO-f0abfc?style=for-the-badge&labelColor=0b0f1f" alt="Section"/>
 </div>
 
 <br/>
@@ -144,31 +140,29 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by
 <tr>
 <td width="50%" valign="top">
 
-### 001 — CareVision
+### 🏥 CareVision
+**AI-Powered Healthcare Platform**
 
-**AI-Based Healthcare Platform**
+> Prediction models · interactive dashboards · AI-driven insights.
 
-A healthcare application combining prediction models, interactive dashboards, data visualization, and AI-powered features.
-
-`Python` · `Flask` · `MySQL` · `ML` · `Gemini API` · `Chart.js`
+`Python` `Flask` `MySQL` `ML` `Gemini API` `Chart.js`
 
 <a href="https://github.com/dharmanathsk04">
-  <img src="https://img.shields.io/badge/VIEW-0a0a0a?style=flat-square&labelColor=ef4444&logo=github&logoColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/%E2%9C%A6_VIEW-a78bfa?style=for-the-badge&labelColor=0b0f1f&logo=github&logoColor=white"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 002 — PawStay AI
+### 🐾 PawStay AI
+**Smart Pet Care Platform**
 
-**AI-Powered Pet Care Platform**
+> Connects owners with caregivers via intelligent recommendation engine.
 
-A smart pet home-stay platform connecting pet owners with trusted caregivers through intelligent recommendations.
-
-`Flutter` · `AI` · `Full Stack` · `Recommendations` · `Microservices`
+`Flutter` `AI` `Full Stack` `Recommendations`
 
 <a href="https://github.com/dharmanathsk04">
-  <img src="https://img.shields.io/badge/VIEW-0a0a0a?style=flat-square&labelColor=ef4444&logo=github&logoColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/%E2%9C%A6_VIEW-67e8f9?style=for-the-badge&labelColor=0b0f1f&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -176,31 +170,29 @@ A smart pet home-stay platform connecting pet owners with trusted caregivers thr
 <tr>
 <td width="50%" valign="top">
 
-### 003 — ShopMate
-
+### 🛒 ShopMate
 **Java Spring Boot E-Commerce**
 
-A full-stack e-commerce app focused on backend development, REST APIs, database integration, and modern workflows.
+> Backend architecture · REST APIs · secure DB integration.
 
-`Java` · `Spring Boot` · `REST APIs` · `MySQL` · `React`
+`Java` `Spring Boot` `REST` `MySQL` `React`
 
 <a href="https://github.com/dharmanathsk04">
-  <img src="https://img.shields.io/badge/VIEW-0a0a0a?style=flat-square&labelColor=ef4444&logo=github&logoColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/%E2%9C%A6_VIEW-6ee7b7?style=for-the-badge&labelColor=0b0f1f&logo=github&logoColor=white"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 004 — Clever Bill
+### 💼 Clever Bill
+**Enterprise Billing App**
 
-**Business Billing & Management**
+> Production billing application — mobile development contribution.
 
-Contributing to the development of Clever Bill — a production billing application focused on mobile development.
-
-`Mobile` · `Billing` · `Enterprise` · `In Progress`
+`Mobile` `Billing` `Enterprise` `WIP`
 
 <a href="https://github.com/dharmanathsk04">
-  <img src="https://img.shields.io/badge/VIEW-0a0a0a?style=flat-square&labelColor=ef4444&logo=github&logoColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/%E2%9C%A6_REPO-f0abfc?style=for-the-badge&labelColor=0b0f1f&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -208,31 +200,29 @@ Contributing to the development of Clever Bill — a production billing applicat
 <tr>
 <td width="50%" valign="top">
 
-### 005 — MiniLibrary
+### 📚 MiniLibrary
+**Full Stack Library System**
 
-**Full Stack Library Management**
+> Java APIs · JPA persistence · React frontend.
 
-A Java-based library management application with backend APIs, database integration, and a React frontend.
-
-`Java` · `Spring Boot` · `JPA` · `MySQL` · `React`
+`Java` `Spring Boot` `JPA` `MySQL` `React`
 
 <a href="https://github.com/dharmanathsk04">
-  <img src="https://img.shields.io/badge/VIEW-0a0a0a?style=flat-square&labelColor=ef4444&logo=github&logoColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/%E2%9C%A6_VIEW-67e8f9?style=for-the-badge&labelColor=0b0f1f&logo=github&logoColor=white"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 006 — MiniBill
+### 🧾 MiniBill
+**Billing Management System**
 
-**Full Stack Billing Management**
+> Modern layered architecture around product/customer/billing flows.
 
-A billing application built around product, customer, and billing workflows with a modern architecture.
-
-`Spring Boot` · `React` · `REST APIs` · `Database`
+`Spring Boot` `React` `REST` `DB`
 
 <a href="https://github.com/dharmanathsk04">
-  <img src="https://img.shields.io/badge/VIEW-0a0a0a?style=flat-square&labelColor=ef4444&logo=github&logoColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/%E2%9C%A6_VIEW-a78bfa?style=for-the-badge&labelColor=0b0f1f&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -241,124 +231,206 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:ef4444,100:0a0a0a&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f1f,50:f0abfc,100:0b0f1f&height=2" width="100%"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       § 04 — TELEMETRY                                   -->
+<!--                    ✦ 04 — TELEMETRY                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://img.shields.io/badge/%C2%A7_04_%E2%80%94_TELEMETRY-0a0a0a?style=flat-square&labelColor=ef4444" alt="§ 04 — TELEMETRY"/>
+<img src="https://img.shields.io/badge/%E2%9C%A6_04_%C2%B7_TELEMETRY-6ee7b7?style=for-the-badge&labelColor=0b0f1f" alt="Section"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dharmanathsk04&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ef4444&icon_color=f5f5f5&text_color=f5f5f5&border_radius=0&include_all_commits=true&count_private=true" height="180" alt="Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dharmanathsk04&show_icons=true&hide_border=true&bg_color=0b0f1f&title_color=a78bfa&icon_color=67e8f9&text_color=e5e7eb&border_radius=14&include_all_commits=true&count_private=true" height="180" alt="Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmanathsk04&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ef4444&text_color=f5f5f5&langs_count=8&border_radius=0" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmanathsk04&layout=compact&hide_border=true&bg_color=0b0f1f&title_color=f0abfc&text_color=e5e7eb&langs_count=8&border_radius=14" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=dharmanathsk04&hide_border=true&background=0a0a0a&stroke=ef4444&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideLabels=f5f5f5&dates=737373&currStreakNum=f5f5f5&sideNums=f5f5f5&border_radius=0" width="70%" alt="Streak"/>
+<img src="https://streak-stats.demolab.com/?user=dharmanathsk04&hide_border=true&background=0b0f1f&stroke=a78bfa&ring=67e8f9&fire=f0abfc&currStreakLabel=6ee7b7&sideLabels=e5e7eb&dates=6b7280&currStreakNum=e5e7eb&sideNums=e5e7eb&border_radius=14" width="70%" alt="Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanathsk04&bg_color=0a0a0a&color=ef4444&line=ef4444&point=f5f5f5&area=true&hide_border=true&custom_title=COMMIT%20FREQUENCY%20%E2%80%94%20LAST%2031%20DAYS" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanathsk04&bg_color=0b0f1f&color=a78bfa&line=67e8f9&point=f0abfc&area=true&hide_border=true&custom_title=%E2%9C%A6%20COMMIT%20FREQUENCY%20%E2%80%94%20LAST%2031%20DAYS" width="100%" alt="Activity Graph"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dharmanathsk04&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dharmanathsk04&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="Trophies"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmanathsk04&theme=github_dark" width="100%" alt="Profile Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmanathsk04&theme=github_dark" width="100%" alt="Profile Details"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:ef4444,100:0a0a0a&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f1f,50:6ee7b7,100:0b0f1f&height=2" width="100%"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         § 05 — AWARDS                                    -->
+<!--                    ✦ 05 — HONORS                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://img.shields.io/badge/%C2%A7_05_%E2%80%94_AWARDS-0a0a0a?style=flat-square&labelColor=ef4444" alt="§ 05 — AWARDS"/>
+<img src="https://img.shields.io/badge/%E2%9C%A6_05_%C2%B7_HONORS-a78bfa?style=for-the-badge&labelColor=0b0f1f" alt="Section"/>
 </div>
 
 <br/>
 
-| Achievement | Details |
-|:---|:---|
-| 🥇 **Academic Excellence** | **1st Rank** in 2nd Year B.Tech — **84.20%** |
-| 🎓 **Merit Scholarship** | Sou. Shantadevi D. Patil Merit Scholarship Award **2025–26** |
-| 📜 **Certification** | NPTEL Python for Data Science — **71%** |
-| 💻 **Industry Experience** | Completed multiple Full Stack Development internships & training |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🥇 Academic Excellence**
+1st Rank · 2nd Year B.Tech
+Score: **84.20%**
+
+</td>
+<td width="50%" valign="top">
+
+**🎓 Merit Scholarship**
+Sou. Shantadevi D. Patil
+Award **2025–26**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📜 NPTEL Certification**
+Python for Data Science
+Score: **71%**
+
+</td>
+<td width="50%" valign="top">
+
+**💻 Industry Training**
+Multiple Full Stack internships
+Java · Spring · React
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:ef4444,100:0a0a0a&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f1f,50:a78bfa,100:0b0f1f&height=2" width="100%"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         § 06 — RECORD                                    -->
+<!--                    ✦ 06 — RECORD                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://img.shields.io/badge/%C2%A7_06_%E2%80%94_RECORD-0a0a0a?style=flat-square&labelColor=ef4444" alt="§ 06 — RECORD"/>
+<img src="https://img.shields.io/badge/%E2%9C%A6_06_%C2%B7_RECORD-67e8f9?style=for-the-badge&labelColor=0b0f1f" alt="Section"/>
 </div>
 
 <br/>
 
-| Role | Details |
-|:---|:---|
-| **🔹 DASP Private Limited** — *Java Full Stack Development Intern* | `Java` · `Spring Boot` · `Spring Data JPA` · `Hibernate` · `REST APIs` · `MySQL` · `React` |
-| **🔹 The Kiran Academy** — *Java Full Stack Internship & Training* | `Core Java` · `JDBC` · `SQL` · `Advanced Java` · `Hibernate` · `Spring Boot MVC` · `React` · `Servlet/JSP` · `Postman` |
-| **🔹 Acmegrade** — *Full Stack Development Intern* | Practical full-stack development work involving frontend, backend, and database technologies |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**▸ DASP Pvt. Ltd.**
+*Java Full Stack Intern*
+
+`Java` · `Spring Boot`
+`Spring Data JPA` · `Hibernate`
+`REST` · `MySQL` · `React`
+
+</td>
+<td width="33%" valign="top">
+
+**▸ The Kiran Academy**
+*Java Full Stack Trainee*
+
+`Core Java` · `JDBC` · `SQL`
+`Advanced Java` · `Hibernate`
+`Spring MVC` · `React` · `Postman`
+
+</td>
+<td width="33%" valign="top">
+
+**▸ Acmegrade**
+*Full Stack Intern*
+
+Practical full-stack work
+across frontend, backend,
+and database layers
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:ef4444,100:0a0a0a&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f1f,50:67e8f9,100:0b0f1f&height=2" width="100%"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                      § 07 — IN PROGRESS                                  -->
+<!--                    ✦ 07 — IN PROGRESS                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://img.shields.io/badge/%C2%A7_07_%E2%80%94_IN_PROGRESS-0a0a0a?style=flat-square&labelColor=ef4444" alt="§ 07 — IN PROGRESS"/>
+<img src="https://img.shields.io/badge/%E2%9C%A6_07_%C2%B7_IN_PROGRESS-f0abfc?style=for-the-badge&labelColor=0b0f1f" alt="Section"/>
 </div>
 
 <br/>
 
-| Area | Skills |
-|:---|:---|
-| **⚙️ Backend** | Java · Spring Boot · Spring Data JPA · Hibernate · REST APIs · Maven · Postman |
-| **🎨 Frontend** | React.js · JavaScript · HTML5 · CSS3 · Bootstrap · Tailwind CSS |
-| **📊 Data** | MySQL · PostgreSQL · Python · Pandas · NumPy · Matplotlib · Power BI |
-| **🤖 AI / ML** | Machine Learning · Generative AI · Google Gemini API · scikit-learn · Jupyter |
+<details>
+<summary><b>▸ ⚙️ BACKEND — expand</b></summary>
+<br/>
+
+`Java 17` · `Spring Boot 3` · `Spring Data JPA` · `Hibernate` · `REST APIs` · `Maven` · `Postman` · `Spring Security`
+
+</details>
+
+<details>
+<summary><b>▸ 🎨 FRONTEND — expand</b></summary>
+<br/>
+
+`React.js` · `JavaScript ES2024` · `HTML5` · `CSS3` · `Bootstrap 5` · `Tailwind CSS` · `Vite`
+
+</details>
+
+<details>
+<summary><b>▸ 📊 DATA — expand</b></summary>
+<br/>
+
+`MySQL` · `PostgreSQL` · `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Power BI` · `Seaborn`
+
+</details>
+
+<details>
+<summary><b>▸ 🤖 AI / ML — expand</b></summary>
+<br/>
+
+`Machine Learning` · `Generative AI` · `Google Gemini API` · `scikit-learn` · `Jupyter` · `Prompt Engineering`
+
+</details>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:ef4444,100:0a0a0a&height=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f1f,50:f0abfc,100:0b0f1f&height=2" width="100%"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         § 08 — CORRESPONDENCE                            -->
+<!--                    ✦ 08 — CONSTELLATION                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://img.shields.io/badge/%C2%A7_08_%E2%80%94_CORRESPONDENCE-0a0a0a?style=flat-square&labelColor=ef4444" alt="§ 08 — CORRESPONDENCE"/>
+<img src="https://img.shields.io/badge/%E2%9C%A6_08_%C2%B7_CONSTELLATION-6ee7b7?style=for-the-badge&labelColor=0b0f1f" alt="Section"/>
 </div>
 
 <br/>
@@ -366,46 +438,32 @@ A billing application built around product, customer, and billing workflows with
 <div align="center">
 
 <a href="https://drive.google.com/file/d/1ID75LUVdrC4dDKWRzlFk5IVtnv4UoyMp/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/RESUME-0a0a0a?style=flat-square&labelColor=ef4444&logo=googledrive&logoColor=f5f5f5"/>
+  <img src="https://img.shields.io/badge/%E2%9C%A6_VIEW_MY_RESUME-a78bfa?style=for-the-badge&labelColor=0b0f1f&logo=googledrive&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0a0a0a?style=flat-square&labelColor=ef4444&logo=linkedin&logoColor=f5f5f5"/>
-</a>
-<a href="mailto:dharmanathkadam@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-0a0a0a?style=flat-square&labelColor=ef4444&logo=gmail&logoColor=f5f5f5"/>
-</a>
-<a href="https://github.com/dharmanathsk04" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-0a0a0a?style=flat-square&labelColor=ef4444&logo=github&logoColor=f5f5f5"/>
-</a>
-<a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank">
-  <img src="https://img.shields.io/badge/LEETCODE-0a0a0a?style=flat-square&labelColor=ef4444&logo=leetcode&logoColor=f5f5f5"/>
-</a>
+<a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f1f"/></a>
+<a href="mailto:dharmanathkadam@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0f1f"/></a>
+<a href="https://github.com/dharmanathsk04" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0f1f"/></a>
+<a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0b0f1f"/></a>
 
 <br/>
 
-<a href="https://www.kaggle.com/dharmanathkadam" target="_blank">
-  <img src="https://img.shields.io/badge/KAGGLE-0a0a0a?style=flat-square&labelColor=ef4444&logo=kaggle&logoColor=f5f5f5"/>
-</a>
-<a href="https://www.hackerrank.com/dharmanathkadam" target="_blank">
-  <img src="https://img.shields.io/badge/HACKERRANK-0a0a0a?style=flat-square&labelColor=ef4444&logo=hackerrank&logoColor=f5f5f5"/>
-</a>
-<a href="https://codepen.io/@dharmanath04" target="_blank">
-  <img src="https://img.shields.io/badge/CODEPEN-0a0a0a?style=flat-square&labelColor=ef4444&logo=codepen&logoColor=f5f5f5"/>
-</a>
+<a href="https://www.kaggle.com/dharmanathkadam" target="_blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0b0f1f"/></a>
+<a href="https://www.hackerrank.com/dharmanathkadam" target="_blank"><img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0b0f1f"/></a>
+<a href="https://codepen.io/@dharmanath04" target="_blank"><img src="https://img.shields.io/badge/CODEPEN-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=0b0f1f"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Anton&weight=400&size=22&duration=2600&pause=800&color=EF4444&center=true&vCenter=true&width=900&height=55&lines=BUILD+%C2%B7+SHIP+%C2%B7+MEASURE+%C2%B7+ITERATE" alt="Mantra"/>
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=22&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=900&height=55&lines=%E2%9C%A6+DESIGN+SOFT+%C2%B7+ENGINEER+HARD+%C2%B7+SHIP+CLEAN+%E2%9C%A6" alt="Mantra"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=15&duration=2500&pause=1000&color=737373&center=true&vCenter=true&width=720&height=60&lines=Always+learning+something+new...;Always+building+something+better...;Always+moving+forward._" alt="Footer Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=400&size=15&duration=2400&pause=900&color=67E8F9&center=true&vCenter=true&width=720&height=55&lines=Always+learning+something+new...;Always+building+something+better...;Always+moving+forward._" alt="Footer"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:ef4444,70:0a0a0a,100:0a0a0a&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:67e8f9,30:a78bfa,65:f0abfc,100:0b0f1f&height=140&section=footer" width="100%"/>

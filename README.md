@@ -1,44 +1,54 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    DHARMANATH KADAM · SOVEREIGN EDITION                 -->
+<!--                    DHARMANATH KADAM · EDITORIAL NOIR                    -->
 <!--                 Java Full Stack · AI · Data Science · B.Tech CSE        -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- ▓▓▓ 01 · CINEMATIC HERO — Name + Role in a single gold-lit title card ▓▓▓ -->
+<!-- ▓▓▓ THIN CRIMSON TOP RAIL ▓▓▓ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:ff3366,100:0a0a0a&height=3" width="100%" alt=""/>
+
+<br/>
+
+<!-- ▓▓▓ NAME — Editorial H1, no animation, no decoration ▓▓▓ -->
+<h1 align="center">
+  DHARMANATH&nbsp;KADAM
+</h1>
+
+<p align="center">
+  <em>Java Full Stack Developer · AI &amp; Data Science · B.Tech CSE</em>
+</p>
+
+<p align="center">
+  <sub>Building backend systems, intelligent interfaces, and data-driven products.</sub>
+</p>
+
+<br/>
+
+<!-- ▓▓▓ HUD · Live metrics, one clean row ▓▓▓ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050810,30:0F172A,60:1E40AF,90:B45309,100:D4AF37&height=240&section=header&text=DHARMANATH%20KADAM&fontSize=52&fontColor=F5F5F5&fontAlignY=42&desc=Java%20Full%20Stack%20Developer%20%C2%B7%20AI%20%26%20Data%20Science&descSize=16&descAlignY=68&descColor=D4AF37&animation=fadeIn" width="100%" alt="Dharmanath Kadam"/>
+
+<a href="https://github.com/dharmanathsk04"><img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=VISITORS&color=ff3366&style=flat-square" alt="Visitors"/></a>
+&nbsp;
+<a href="https://github.com/dharmanathsk04?tab=followers"><img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=flat-square&color=ff3366&labelColor=0a0a0a" alt="Followers"/></a>
+&nbsp;
+<a href="https://github.com/dharmanathsk04?tab=repositories"><img src="https://img.shields.io/github/stars/dharmanathsk04?label=STARS&style=flat-square&color=ffd166&labelColor=0a0a0a" alt="Stars"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-ff3366?style=flat-square&labelColor=0a0a0a" alt="Status"/>
+
 </div>
 
 <br/>
 
-<!-- ▓▓▓ 02 · HUD STATUS STRIP — live metrics ▓▓▓ -->
+<!-- ▓▓▓ CONNECT · 4 uniform, minimal buttons ▓▓▓ -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=VISITORS&color=d4af37&style=for-the-badge" alt="Visitors"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=for-the-badge&color=1e40af&labelColor=050810" alt="Followers"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/dharmanathsk04?label=STARS&style=for-the-badge&color=d4af37&labelColor=0f172a" alt="Stars"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-d4af37?style=for-the-badge&labelColor=050810" alt="Status"/>
+<a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff3366" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:dharmanathkadam@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff3366" alt="Email"/></a>&nbsp;
+<a href="https://github.com/dharmanathsk04" target="_blank"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ff3366" alt="GitHub"/></a>&nbsp;
+<a href="https://drive.google.com/file/d/1ID75LUVdrC4dDKWRzlFk5IVtnv4UoyMp/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-ffd166?style=for-the-badge&logo=googledrive&logoColor=0a0a0a" alt="Resume"/></a>
 
 </div>
 
 <br/>
 
-<!-- ▓▓▓ 03 · PRIMARY CONNECT — 4 premium links ▓▓▓ -->
-<div align="center">
-
-<a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1e40af?style=for-the-badge&logo=linkedin&logoColor=d4af37&labelColor=050810" alt="LinkedIn"/></a>
-&nbsp;
-<a href="mailto:dharmanathkadam@gmail.com"><img src="https://img.shields.io/badge/Email-1e40af?style=for-the-badge&logo=gmail&logoColor=d4af37&labelColor=050810" alt="Email"/></a>
-&nbsp;
-<a href="https://github.com/dharmanathsk04" target="_blank"><img src="https://img.shields.io/badge/GitHub-1e40af?style=for-the-badge&logo=github&logoColor=d4af37&labelColor=050810" alt="GitHub"/></a>
-&nbsp;
-<a href="https://drive.google.com/file/d/1ID75LUVdrC4dDKWRzlFk5IVtnv4UoyMp/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-d4af37?style=for-the-badge&logo=googledrive&logoColor=050810&labelColor=050810" alt="Resume"/></a>
-
-</div>
-
-<br/>
-
-<!-- ▓▓▓ GOLD HAIRLINE DIVIDER ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050810,50:D4AF37,100:050810&height=2" width="100%" alt="Divider"/>
+<!-- ▓▓▓ THIN CRIMSON BOTTOM RAIL ▓▓▓ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:ff3366,100:0a0a0a&height=3" width="100%" alt=""/>

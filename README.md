@@ -150,7 +150,7 @@ A healthcare application combining prediction models, interactive dashboards, da
 
 `Python` · `Flask` · `MySQL` · `ML` · `Gemini API` · `Chart.js`
 
-<a href="#">
+<a href="https://github.com/dharmanathsk04">
   <img src="https://img.shields.io/badge/View%20Project-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
 </a>
 
@@ -165,7 +165,7 @@ A smart pet home-stay platform connecting pet owners with trusted caregivers thr
 
 `Flutter` · `AI` · `Full Stack` · `Recommendations` · `Microservices`
 
-<a href="#">
+<a href="https://github.com/dharmanathsk04">
   <img src="https://img.shields.io/badge/View%20Project-0284c7?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
 </a>
 
@@ -182,7 +182,7 @@ A full-stack e-commerce app focused on backend development, REST APIs, database 
 
 `Java` · `Spring Boot` · `REST APIs` · `MySQL` · `React`
 
-<a href="#">
+<a href="https://github.com/dharmanathsk04">
   <img src="https://img.shields.io/badge/View%20Project-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
 </a>
 
@@ -214,7 +214,7 @@ A Java-based library management application with backend APIs, database integrat
 
 `Java` · `Spring Boot` · `JPA` · `MySQL` · `React`
 
-<a href="#">
+<a href="https://github.com/dharmanathsk04">
   <img src="https://img.shields.io/badge/View%20Project-0284c7?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
 </a>
 
@@ -229,7 +229,7 @@ A billing application built around product, customer, and billing workflows with
 
 `Spring Boot` · `React` · `REST APIs` · `Database`
 
-<a href="#">
+<a href="https://github.com/dharmanathsk04">
   <img src="https://img.shields.io/badge/View%20Project-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
 </a>
 

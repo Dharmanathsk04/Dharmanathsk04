@@ -1,23 +1,23 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                  DHARMANATH KADAM · ULTIMATE CINEMATIC                  -->
-<!--                  Java Full Stack Developer · AI · Data Science          -->
-<!--                  VFX Heavy · Animated · Colorful · Professional         -->
+<!--              DHARMANATH KADAM · CINEMATIC ULTIMATE EDITION              -->
+<!--              Java Full Stack Developer · AI · Data Science              -->
+<!--              Polished VFX · Cinematic Grading · Premium Motion          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ▓▓▓ LAYER 01 — CINEMATIC NAME (Massive Glow) ▓▓▓ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=58&duration=4000&pause=1200&color=10B981&center=true&vCenter=true&width=1000&height=95&lines=DHARMANATH+KADAM" alt="Name"/>
+<!-- ▓▓▓ LAYER 01 — NAME (Cinematic Glow Reveal) ▓▓▓ -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=4500&pause=1400&color=10B981&center=true&vCenter=true&width=1000&height=100&lines=DHARMANATH+KADAM" alt="Name"/>
 
-<!-- ▓▓▓ LAYER 02 — ROLE (Cyan Cycle) ▓▓▓ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=1000&height=45&lines=Java+Full+Stack+Developer+%7C+AI+%26+Data+Science+Enthusiast;Spring+Boot+%7C+React+%7C+Python+%7C+Machine+Learning" alt="Role"/>
+<!-- ▓▓▓ LAYER 02 — ROLE (Cyan Gradient Cycle) ▓▓▓ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=1000&height=45&lines=Java+Full+Stack+Developer+%7C+AI+%26+Data+Science+Enthusiast;Spring+Boot+%7C+React+%7C+Python+%7C+Machine+Learning" alt="Role"/>
 
-<!-- ▓▓▓ LAYER 03 — MULTILINE TAGLINE (Amber Glow) ▓▓▓ -->
+<!-- ▓▓▓ LAYER 03 — TAGLINE (Amber Multiline Glow) ▓▓▓ -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=800&color=FBBF24&center=true&vCenter=true&multiline=true&width=1000&height=110&lines=Java+%7C+Spring+Boot+%7C+Hibernate+%7C+React+%7C+MySQL;Building+Full+Stack+%26+AI-Powered+Applications;Learning+%E2%80%A2+Building+%E2%80%A2+Solving+Real-World+Problems+%F0%9F%9A%80" alt="Tagline"/>
 
 <br/>
 
-<!-- ▓▓▓ HUD STATUS BADGES (Live) ▓▓▓ -->
+<!-- ▓▓▓ HUD STATUS BADGES ▓▓▓ -->
 <img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=VISITORS&color=10b981&style=for-the-badge" alt="Visitors"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=for-the-badge&color=0284c7&labelColor=0b1e1a" alt="Followers"/>
@@ -402,5 +402,5 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<!-- ▓▓▓ GRAND FINALE FOOTER ▓▓▓ -->
+<!-- ▓▓▓ GRAND FINALE FOOTER — WAVING GRADIENT ▓▓▓ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,30:0c4a6e,70:0f2922,100:0b1e1a&height=160&section=footer" width="100%"/>

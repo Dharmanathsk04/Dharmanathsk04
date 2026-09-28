@@ -1,19 +1,18 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--              DHARMANATH KADAM · MODERN MINIMAL PROFILE                  -->
-<!--              Java Full Stack Developer · AI · Data Science              -->
-<!--              Clean · Professional · Recruiter-Friendly                  -->
+<!--                     DHARMANATH KADAM · FINAL PROFILE                    -->
+<!--                     Java Full Stack Developer · AI · Data Science       -->
+<!--                     Clean · Modern · Recruiter-Ready                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ▓▓▓ NAME — Simple Plain Text ▓▓▓ -->
+<!-- ▓▓▓ NAME — Clean Elegant Text ▓▓▓ -->
 <h1>Dharmanath Kadam</h1>
 
-<!-- ▓▓▓ SUBTITLE ▓▓▓ -->
-<h3>Java Full Stack Developer&nbsp; ·&nbsp; AI &amp; Data Science Enthusiast</h3>
+<h4>Java Full Stack Developer &nbsp;·&nbsp; AI &amp; Data Science Enthusiast</h4>
 
-<!-- ▓▓▓ SUBTLE TAGLINE (Typing) ▓▓▓ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=35&lines=Building+clean+backends+with+Spring+Boot;Crafting+modern+UIs+with+React;Exploring+AI+%26+Data+Science" alt="Tagline"/>
+<!-- ▓▓▓ TYPING TAGLINE ▓▓▓ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=35&lines=Building+clean+backends+with+Spring+Boot;Crafting+modern+UIs+with+React;Exploring+AI+%26+Data+Science" alt="Tagline"/>
 
 <br/>
 
@@ -47,11 +46,7 @@
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                            👤 ABOUT ME                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+---
 
 ## About Me
 
@@ -80,11 +75,7 @@ Python · Pandas · Power BI
 </tr>
 </table>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          🧰 TECH STACK                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+---
 
 ## Tech Stack
 
@@ -116,11 +107,7 @@ Python · Pandas · Power BI
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       🚀 FEATURED PROJECTS                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+---
 
 ## Featured Projects
 
@@ -193,11 +180,7 @@ Billing application built around product, customer & billing workflows.
 </tr>
 </table>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       📊 GITHUB ANALYTICS                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+---
 
 ## GitHub Analytics
 
@@ -217,11 +200,7 @@ Billing application built around product, customer & billing workflows.
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         🏆 ACHIEVEMENTS                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+---
 
 ## Achievements
 
@@ -232,11 +211,7 @@ Billing application built around product, customer & billing workflows.
 | 📜 | **Certification** | NPTEL Python for Data Science — **71%** |
 | 💼 | **Industry Experience** | Multiple Full Stack Development internships & training |
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         💼 EXPERIENCE                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+---
 
 ## Experience
 
@@ -249,11 +224,7 @@ Billing application built around product, customer & billing workflows.
 **🔹 Acmegrade** — *Full Stack Development Intern*
 Practical full-stack development work involving frontend, backend, and database technologies.
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                      🌱 CURRENTLY LEARNING                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+---
 
 ## Currently Learning
 
@@ -264,11 +235,7 @@ Practical full-stack development work involving frontend, backend, and database 
 | **📊 Data** | MySQL · PostgreSQL · Python · Pandas · NumPy · Power BI |
 | **🤖 AI / ML** | Machine Learning · Generative AI · Gemini API · scikit-learn |
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         📄 RESUME & 🤝 CONNECT                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+---
 
 ## Resume & Connect
 

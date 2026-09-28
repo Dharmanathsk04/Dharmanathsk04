@@ -6,8 +6,8 @@
 
 <div align="center">
 
-<!-- ▓▓▓ LAYER 01 — NAME (Simple static text) ▓▓▓ -->
-<h1>DHARMANATH KADAM</h1>
+<!-- ▓▓▓ LAYER 01 — NAME (Japanese-style Kanji Banner) ▓▓▓ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b1e1a,50:10b981,100:0b1e1a&height=180&section=header&text=%E3%83%80%E3%83%AB%E3%83%9E%E3%83%8A%E3%83%BC%E3%82%B9%20%E3%82%AB%E3%83%80%E3%83%A0&fontSize=55&fontColor=10B981&fontAlignY=50&animation=twinkling&desc=DHARMANATH%20KADAM&descAlignY=75&descSize=20&descColor=22D3EE" width="100%" alt="Name"/>
 
 <!-- ▓▓▓ LAYER 02 — ROLE (Cyan cycle) ▓▓▓ -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&height=40&lines=Java+Full+Stack+Developer+%7C+AI+%26+Data+Science+Enthusiast" alt="Role"/>

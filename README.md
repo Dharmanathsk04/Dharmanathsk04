@@ -6,10 +6,10 @@
 
 <div align="center">
 
-<!-- ▓▓▓ NAME — Japanese Ink-Brush Style (Minimal) ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:0d1117&height=150&section=header&text=DHARMANATH%20KADAM&fontSize=52&fontColor=58a6ff&fontAlignY=55&animation=twinkling" width="100%" alt="Dharmanath Kadam"/>
+<!-- ▓▓▓ NAME — Simple Plain Text ▓▓▓ -->
+<h1>Dharmanath Kadam</h1>
 
-<!-- ▓▓▓ SUBTITLE — Clean Static Line ▓▓▓ -->
+<!-- ▓▓▓ SUBTITLE ▓▓▓ -->
 <h3>Java Full Stack Developer&nbsp; ·&nbsp; AI &amp; Data Science Enthusiast</h3>
 
 <!-- ▓▓▓ SUBTLE TAGLINE (Typing) ▓▓▓ -->
@@ -53,7 +53,7 @@
 <!--                            👤 ABOUT ME                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-About%20Me-1f6feb?style=flat-square" />
+## About Me
 
 I'm a **B.Tech Computer Science (Data Science)** student passionate about building software that solves real problems. I work across the stack — designing **scalable backends with Java & Spring Boot**, crafting **responsive frontends with React**, and exploring **AI & Data Science** to build intelligent applications.
 
@@ -86,7 +86,7 @@ Python · Pandas · Power BI
 <!--                          🧰 TECH STACK                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-Tech%20Stack-1f6feb?style=flat-square" />
+## Tech Stack
 
 <div align="center">
 
@@ -122,7 +122,7 @@ Python · Pandas · Power BI
 <!--                       🚀 FEATURED PROJECTS                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-Featured%20Projects-1f6feb?style=flat-square" />
+## Featured Projects
 
 <table>
 <tr>
@@ -199,7 +199,7 @@ Billing application built around product, customer & billing workflows.
 <!--                       📊 GITHUB ANALYTICS                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-GitHub%20Analytics-1f6feb?style=flat-square" />
+## GitHub Analytics
 
 <div align="center">
 
@@ -223,7 +223,7 @@ Billing application built around product, customer & billing workflows.
 <!--                         🏆 ACHIEVEMENTS                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-Achievements-f0b429?style=flat-square" />
+## Achievements
 
 | 🏅 | Achievement | Details |
 |:---:|:---|:---|
@@ -238,7 +238,7 @@ Billing application built around product, customer & billing workflows.
 <!--                         💼 EXPERIENCE                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-Experience-1f6feb?style=flat-square" />
+## Experience
 
 **🔹 DASP Private Limited** — *Java Full Stack Development Intern*
 `Java` `Spring Boot` `Spring Data JPA` `Hibernate` `REST APIs` `MySQL` `React`
@@ -255,7 +255,7 @@ Practical full-stack development work involving frontend, backend, and database 
 <!--                      🌱 CURRENTLY LEARNING                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-Currently%20Learning-22c55e?style=flat-square" />
+## Currently Learning
 
 | Area | Skills |
 |:---|:---|
@@ -270,7 +270,7 @@ Practical full-stack development work involving frontend, backend, and database 
 <!--                         📄 RESUME & 🤝 CONNECT                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-Resume%20%26%20Connect-1f6feb?style=flat-square" />
+## Resume & Connect
 
 <div align="center">
 

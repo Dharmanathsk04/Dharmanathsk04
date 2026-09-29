@@ -6,10 +6,10 @@
 
 <div align="center">
 
-<!-- ▓▓▓ LAYER 01 — NAME (Static Blue, No Animation) ▓▓▓ -->
-<h1>
-  <span style="font-family: 'Orbitron', sans-serif; font-weight: 900; font-size: 60px; color: #3B82F6; text-shadow: 0 0 20px #3B82F6, 0 0 40px #3B82F6; letter-spacing: 4px;">
-    DHARMANATH KADAM
+<!-- ▓▓▓ LAYER 01 — NAME (Static Blue, Constant, No Animation) ▓▓▓ -->
+<h1 align="center">
+  <span style="font-family: 'Orbitron', 'Segoe UI', sans-serif; font-weight: 900; font-size: 58px; color: #3B82F6; letter-spacing: 6px; text-shadow: 0 0 12px rgba(59,130,246,0.85), 0 0 28px rgba(59,130,246,0.55);">
+    DHARMANATH&nbsp;KADAM
   </span>
 </h1>
 

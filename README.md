@@ -1,12 +1,12 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--              DHARMANATH KADAM · CINEMATIC ULTIMATE EDITION              -->
 <!--              Java Full Stack Developer · AI · Data Science              -->
-<!--              Polished VFX · Cinematic Grading · Premium Motion          -->
+<!--         Dark-Mode Optimized · Universal Contrast · Premium VFX          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ▓▓▓ LAYER 01 — NAME (Cinematic Glow Reveal) ▓▓▓ -->
+<!-- ▓▓▓ LAYER 01 — NAME (Blue Cinematic Glow Reveal) ▓▓▓ -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=4500&pause=1400&color=3B82F6&center=true&vCenter=true&width=1000&height=100&lines=DHARMANATH+KADAM" alt="Name"/>
 
 <!-- ▓▓▓ LAYER 02 — ROLE (Cyan Gradient Cycle) ▓▓▓ -->
@@ -47,7 +47,7 @@
 
 </div>
 
-<!-- ▓▓▓ CINEMATIC DIVIDER — CYAN BEAM ▓▓▓ -->
+<!-- ▓▓▓ CINEMATIC DIVIDER — BLUE BEAM ▓▓▓ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:3b82f6,100:0b1e1a&height=3" width="100%"/>
 
 <br/>
@@ -402,5 +402,5 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<!-- ▓▓▓ GRAND FINALE FOOTER — WAVING GRADIENT ▓▓▓ -->
+<!-- ▓▓▓ GRAND FINALE FOOTER — WAVING BLUE GRADIENT ▓▓▓ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,30:0c4a6e,70:0f2922,100:0b1e1a&height=160&section=footer" width="100%"/>

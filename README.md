@@ -6,11 +6,9 @@
 
 <div align="center">
 
-<!-- ▓▓▓ LAYER 01 — NAME (Static White, Constant, No Animation) ▓▓▓ -->
-<h1 align="center">
-  <span style="font-family: 'Orbitron', 'Segoe UI', sans-serif; font-weight: 900; font-size: 58px; color: #FFFFFF; letter-spacing: 6px; text-shadow: 0 0 12px rgba(255,255,255,0.85), 0 0 28px rgba(255,255,255,0.55);">
-    DHARMANATH&nbsp;KADAM
-  </span>
+<!-- ▓▓▓ LAYER 01 — NAME (Static Pure White, Constant, No Animation) ▓▓▓ -->
+<h1 align="center" style="color: #FFFFFF; font-family: 'Orbitron', 'Segoe UI', sans-serif; font-weight: 900; font-size: 58px; letter-spacing: 6px; margin: 0;">
+  DHARMANATH&nbsp;KADAM
 </h1>
 
 <!-- ▓▓▓ LAYER 02 — ROLE (Cyan Gradient Cycle) ▓▓▓ -->

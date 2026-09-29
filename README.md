@@ -6,8 +6,12 @@
 
 <div align="center">
 
-<!-- ▓▓▓ LAYER 01 — NAME (Blue Cinematic Glow Reveal) ▓▓▓ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=4500&pause=1400&color=3B82F6&center=true&vCenter=true&width=1000&height=100&lines=DHARMANATH+KADAM" alt="Name"/>
+<!-- ▓▓▓ LAYER 01 — NAME (Static Blue, No Animation) ▓▓▓ -->
+<h1>
+  <span style="font-family: 'Orbitron', sans-serif; font-weight: 900; font-size: 60px; color: #3B82F6; text-shadow: 0 0 20px #3B82F6, 0 0 40px #3B82F6; letter-spacing: 4px;">
+    DHARMANATH KADAM
+  </span>
+</h1>
 
 <!-- ▓▓▓ LAYER 02 — ROLE (Cyan Gradient Cycle) ▓▓▓ -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=1000&height=45&lines=Java+Full+Stack+Developer+%7C+AI+%26+Data+Science+Enthusiast;Spring+Boot+%7C+React+%7C+Python+%7C+Machine+Learning" alt="Role"/>

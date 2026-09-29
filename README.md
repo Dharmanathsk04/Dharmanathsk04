@@ -1,15 +1,13 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--              DHARMANATH KADAM · CINEMATIC ULTIMATE EDITION              -->
 <!--              Java Full Stack Developer · AI · Data Science              -->
-<!--         Dark-Mode Optimized · Universal Contrast · Premium VFX          -->
+<!--              Polished VFX · Cinematic Grading · Premium Motion          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ▓▓▓ LAYER 01 — NAME (Static Pure White, Constant, No Animation) ▓▓▓ -->
-<h1 align="center" style="color: #FFFFFF; font-family: 'Orbitron', 'Segoe UI', sans-serif; font-weight: 900; font-size: 58px; letter-spacing: 6px; margin: 0;">
-  DHARMANATH&nbsp;KADAM
-</h1>
+<!-- ▓▓▓ LAYER 01 — NAME (Cinematic Glow Reveal) ▓▓▓ -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=4500&pause=1400&color=3B82F6&center=true&vCenter=true&width=1000&height=100&lines=DHARMANATH+KADAM" alt="Name"/>
 
 <!-- ▓▓▓ LAYER 02 — ROLE (Cyan Gradient Cycle) ▓▓▓ -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=1000&height=45&lines=Java+Full+Stack+Developer+%7C+AI+%26+Data+Science+Enthusiast;Spring+Boot+%7C+React+%7C+Python+%7C+Machine+Learning" alt="Role"/>
@@ -49,7 +47,7 @@
 
 </div>
 
-<!-- ▓▓▓ CINEMATIC DIVIDER — BLUE BEAM ▓▓▓ -->
+<!-- ▓▓▓ CINEMATIC DIVIDER — CYAN BEAM ▓▓▓ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:3b82f6,100:0b1e1a&height=3" width="100%"/>
 
 <br/>
@@ -404,5 +402,5 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<!-- ▓▓▓ GRAND FINALE FOOTER — WAVING BLUE GRADIENT ▓▓▓ -->
+<!-- ▓▓▓ GRAND FINALE FOOTER — WAVING GRADIENT ▓▓▓ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,30:0c4a6e,70:0f2922,100:0b1e1a&height=160&section=footer" width="100%"/>

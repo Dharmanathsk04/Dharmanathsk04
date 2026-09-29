@@ -6,9 +6,9 @@
 
 <div align="center">
 
-<!-- ▓▓▓ LAYER 01 — NAME (Static Blue, Constant, No Animation) ▓▓▓ -->
+<!-- ▓▓▓ LAYER 01 — NAME (Static White, Constant, No Animation) ▓▓▓ -->
 <h1 align="center">
-  <span style="font-family: 'Orbitron', 'Segoe UI', sans-serif; font-weight: 900; font-size: 58px; color: #3B82F6; letter-spacing: 6px; text-shadow: 0 0 12px rgba(59,130,246,0.85), 0 0 28px rgba(59,130,246,0.55);">
+  <span style="font-family: 'Orbitron', 'Segoe UI', sans-serif; font-weight: 900; font-size: 58px; color: #FFFFFF; letter-spacing: 6px; text-shadow: 0 0 12px rgba(255,255,255,0.85), 0 0 28px rgba(255,255,255,0.55);">
     DHARMANATH&nbsp;KADAM
   </span>
 </h1>

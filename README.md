@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- ▓▓▓ LAYER 01 — NAME (Cinematic Glow Reveal) ▓▓▓ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=4500&pause=1400&color=10B981&center=true&vCenter=true&width=1000&height=100&lines=DHARMANATH+KADAM" alt="Name"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=4500&pause=1400&color=3B82F6&center=true&vCenter=true&width=1000&height=100&lines=DHARMANATH+KADAM" alt="Name"/>
 
 <!-- ▓▓▓ LAYER 02 — ROLE (Cyan Gradient Cycle) ▓▓▓ -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=1000&height=45&lines=Java+Full+Stack+Developer+%7C+AI+%26+Data+Science+Enthusiast;Spring+Boot+%7C+React+%7C+Python+%7C+Machine+Learning" alt="Role"/>
@@ -18,13 +18,13 @@
 <br/>
 
 <!-- ▓▓▓ HUD STATUS BADGES ▓▓▓ -->
-<img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=VISITORS&color=10b981&style=for-the-badge" alt="Visitors"/>
+<img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=VISITORS&color=3b82f6&style=for-the-badge" alt="Visitors"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=for-the-badge&color=0284c7&labelColor=0b1e1a" alt="Followers"/>
 &nbsp;
 <img src="https://img.shields.io/github/stars/dharmanathsk04?label=STARS&style=for-the-badge&color=fbbf24&labelColor=7f1d1d" alt="Stars"/>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-10b981?style=for-the-badge&labelColor=0b1e1a&logo=statuspage&logoColor=white" alt="Status"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-3b82f6?style=for-the-badge&labelColor=0b1e1a&logo=statuspage&logoColor=white" alt="Status"/>
 
 <br/><br/>
 
@@ -48,7 +48,7 @@
 </div>
 
 <!-- ▓▓▓ CINEMATIC DIVIDER — CYAN BEAM ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:22d3ee,100:0b1e1a&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:3b82f6,100:0b1e1a&height=3" width="100%"/>
 
 <br/>
 
@@ -57,7 +57,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20ABOUT%20ME&fontSize=30&fontColor=10B981&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20ABOUT%20ME&fontSize=30&fontColor=3B82F6&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -80,7 +80,7 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:10b981,100:0b1e1a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:3b82f6,100:0b1e1a&height=2" width="100%"/>
 
 <br/>
 
@@ -133,7 +133,7 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%9A%80%20FEATURED%20PROJECTS&fontSize=30&fontColor=10B981&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%9A%80%20FEATURED%20PROJECTS&fontSize=30&fontColor=3B82F6&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -151,7 +151,7 @@ A healthcare application combining prediction models, interactive dashboards, da
 `Python` · `Flask` · `MySQL` · `ML` · `Gemini API` · `Chart.js`
 
 <a href="https://github.com/dharmanathsk04">
-  <img src="https://img.shields.io/badge/View%20Project-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View%20Project-3b82f6?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -183,7 +183,7 @@ A full-stack e-commerce app focused on backend development, REST APIs, database 
 `Java` · `Spring Boot` · `REST APIs` · `MySQL` · `React`
 
 <a href="https://github.com/dharmanathsk04">
-  <img src="https://img.shields.io/badge/View%20Project-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View%20Project-3b82f6?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -230,7 +230,7 @@ A billing application built around product, customer, and billing workflows with
 `Spring Boot` · `React` · `REST APIs` · `Database`
 
 <a href="https://github.com/dharmanathsk04">
-  <img src="https://img.shields.io/badge/View%20Project-10b981?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View%20Project-3b82f6?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -239,7 +239,7 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:10b981,100:0b1e1a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:3b82f6,100:0b1e1a&height=2" width="100%"/>
 
 <br/>
 
@@ -255,7 +255,7 @@ A billing application built around product, customer, and billing workflows with
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanathsk04&bg_color=0b1e1a&color=34d399&line=0284c7&point=fbbf24&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanathsk04&bg_color=0b1e1a&color=3b82f6&line=0284c7&point=fbbf24&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 <br/><br/>
 
@@ -298,7 +298,7 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:10b981,100:0b1e1a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:3b82f6,100:0b1e1a&height=2" width="100%"/>
 
 <br/>
 
@@ -329,7 +329,7 @@ A billing application built around product, customer, and billing workflows with
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%8C%B1%20CURRENTLY%20LEARNING&fontSize=30&fontColor=10B981&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1e1a,100:0f2922&height=70&section=header&text=%F0%9F%8C%B1%20CURRENTLY%20LEARNING&fontSize=30&fontColor=3B82F6&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -343,7 +343,7 @@ A billing application built around product, customer, and billing workflows with
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:10b981,100:0b1e1a&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:3b82f6,100:0b1e1a&height=2" width="100%"/>
 
 <br/>
 
@@ -360,7 +360,7 @@ A billing application built around product, customer, and billing workflows with
 <div align="center">
 
 <a href="https://drive.google.com/file/d/1ID75LUVdrC4dDKWRzlFk5IVtnv4UoyMp/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%93%84%20VIEW%20MY%20RESUME-10b981?style=for-the-badge&labelColor=0b1e1a&logo=googledrive&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%84%20VIEW%20MY%20RESUME-3b82f6?style=for-the-badge&labelColor=0b1e1a&logo=googledrive&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -392,7 +392,7 @@ A billing application built around product, customer, and billing workflows with
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2400&pause=700&color=10B981&center=true&vCenter=true&width=900&height=60&lines=%E2%9A%A1+BUILD+%E2%80%A2+LEARN+%E2%80%A2+CREATE+%E2%80%A2+IMPROVE+%E2%9A%A1" alt="Mantra"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2400&pause=700&color=3B82F6&center=true&vCenter=true&width=900&height=60&lines=%E2%9A%A1+BUILD+%E2%80%A2+LEARN+%E2%80%A2+CREATE+%E2%80%A2+IMPROVE+%E2%9A%A1" alt="Mantra"/>
 
 <br/>
 
@@ -403,4 +403,4 @@ A billing application built around product, customer, and billing workflows with
 <br/>
 
 <!-- ▓▓▓ GRAND FINALE FOOTER — WAVING GRADIENT ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,30:0c4a6e,70:0f2922,100:0b1e1a&height=160&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,30:0c4a6e,70:0f2922,100:0b1e1a&height=160&section=footer" width="100%"/>

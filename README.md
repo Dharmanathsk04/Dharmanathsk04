@@ -1,20 +1,27 @@
-<h1 align="center">Dharmanath Santosh Kadam</h1>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--              DHARMANATH KADAM · CINEMATIC ULTIMATE EDITION              -->
+<!--              Java Full Stack Developer · AI · Data Science              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=800&height=45&lines=Java+Full+Stack+Developer+%7C+AI+%26+Data+Science;Spring+Boot+%7C+React+%7C+Python+%7C+Machine+Learning" alt="Java Full Stack Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=52&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&height=90&lines=DHARMANATH+KADAM" alt="Dharmanath Kadam"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=1000&height=45&lines=Java+Full+Stack+Developer+%7C+AI+%26+Data+Science+Enthusiast;Spring+Boot+%7C+React+%7C+Python+%7C+Machine+Learning" alt="Role"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=800&color=FBBF24&center=true&vCenter=true&width=1000&height=45&lines=Java+%7C+Spring+Boot+%7C+Hibernate+%7C+React+%7C+MySQL;Building+Full+Stack+%26+AI-Powered+Applications" alt="Tagline"/>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=VISITORS&color=3b82f6&style=for-the-badge" alt="Visitors"/>
 <img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=for-the-badge&color=0284c7&labelColor=0b1e1a" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/dharmanathsk04?label=STARS&style=for-the-badge&color=fbbf24&labelColor=0b1e1a" alt="Stars"/>
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Yes-3b82f6?style=for-the-badge&labelColor=0b1e1a" alt="Open to work"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-3b82f6?style=for-the-badge&labelColor=0b1e1a" alt="Status"/>
 
 <br/><br/>
 
 <a href="https://drive.google.com/file/d/1ID75LUVdrC4dDKWRzlFk5IVtnv4UoyMp/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/📄%20RESUME-View%20Now-3b82f6?style=for-the-badge&labelColor=0b1e1a" alt="Resume"/>
+  <img src="https://img.shields.io/badge/📄%20RESUME-View%20Now-3b82f6?style=for-the-badge&labelColor=0b1e1a&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
 <a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1e1a" alt="LinkedIn"/>
@@ -29,27 +36,30 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:3b82f6,100:0b1e1a&height=3" width="100%"/>
+
 ---
 
 ## 📑 Table of Contents
 
 | # | Section |
 |:---:|:---|
-| 1 | [👨‍💻 About Me](#-about-me) |
-| 2 | [🎯 Core Strengths](#-core-strengths) |
-| 3 | [💼 Experience](#-experience) |
-| 4 | [🚀 Featured Projects](#-featured-projects) |
-| 5 | [🏆 Achievements](#-achievements) |
-| 6 | [🛠️ Tech Stack](#️-tech-stack) |
-| 7 | [📊 GitHub Activity](#-github-activity) |
-| 8 | [🌱 Currently Learning](#-currently-learning) |
-| 9 | [🤝 Connect With Me](#-connect-with-me) |
+| 1 | [👨‍💻 About Me](#about-me) |
+| 2 | [🎯 Core Strengths](#core-strengths) |
+| 3 | [💼 Experience](#experience) |
+| 4 | [🚀 Featured Projects](#featured-projects) |
+| 5 | [🏆 Achievements](#achievements) |
+| 6 | [🛠️ Tech Stack](#tech-stack) |
+| 7 | [📊 GitHub Activity](#github-activity) |
+| 8 | [🌱 Currently Learning](#currently-learning) |
+| 9 | [🤝 Connect With Me](#connect-with-me) |
 
 ---
 
+<a id="about-me"></a>
 ## 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science & Engineering (Data Science)** student passionate about building software that solves real problems. I work at the intersection of **Java Full Stack Development**, **Artificial Intelligence**, and **Data Science** — designing backend systems, crafting responsive frontends, and shipping working products.
+I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by a passion for building software that matters. I work at the intersection of **Java Full Stack Development**, **Artificial Intelligence**, and **Data Science** — designing backend systems, crafting responsive frontends, and turning ideas into working products.
 
 | | |
 |:---|:---|
@@ -62,6 +72,7 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student passionat
 
 ---
 
+<a id="core-strengths"></a>
 ## 🎯 Core Strengths
 
 | Strength | What I Bring |
@@ -76,6 +87,7 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student passionat
 
 ---
 
+<a id="experience"></a>
 ## 💼 Experience
 
 ### 🔹 Java Full Stack Development Intern — **DASP Private Limited**
@@ -102,6 +114,7 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student passionat
 
 ---
 
+<a id="featured-projects"></a>
 ## 🚀 Featured Projects
 
 <table>
@@ -205,6 +218,7 @@ Billing application handling products, customers, invoices, and reports with mod
 
 ---
 
+<a id="achievements"></a>
 ## 🏆 Achievements
 
 | Achievement | Details |
@@ -217,6 +231,7 @@ Billing application handling products, customers, invoices, and reports with mod
 
 ---
 
+<a id="tech-stack"></a>
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -249,24 +264,30 @@ Billing application handling products, customers, invoices, and reports with mod
 
 ---
 
+<a id="github-activity"></a>
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=dharmanathsk04&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b1e1a&title_color=3b82f6&icon_color=22D3EE&text_color=ffffff&border_color=3b82f6&hide_border=true" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanathsk04&bg_color=0b1e1a&color=3b82f6&line=0284c7&point=fbbf24&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dharmanathsk04&layout=compact&langs_count=8&bg_color=0b1e1a&title_color=3b82f6&text_color=ffffff&border_color=3b82f6&hide_border=true" width="60%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dharmanathsk04&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b1e1a&title_color=3b82f6&icon_color=22D3EE&text_color=ffffff&border_color=3b82f6&hide_border=true" width="100%" alt="GitHub Stats"/>
 
 <br/><br/>
 
-<img src="https://nice-readme.vercel.app/streak-stats?user=dharmanathsk04&background=0b1e1a&border=3b82f6&stroke=22D3EE&ring=fbbf24&fire=fbbf24&currStreakLabel=3b82f6" width="70%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.demolab.com/?user=dharmanathsk04&theme=dark&background=0b1e1a&border=3b82f6&stroke=22D3EE&ring=fbbf24&fire=fbbf24&currStreakLabel=3b82f6" width="70%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmanathsk04&layout=compact&langs_count=8&bg_color=0b1e1a&title_color=3b82f6&text_color=ffffff&border_color=3b82f6&hide_border=true" width="60%" alt="Top Languages"/>
 
 </div>
 
 ---
 
+<a id="currently-learning"></a>
 ## 🌱 Currently Learning
 
 > Advanced topics I'm actively levelling up on — beyond my current stack.
@@ -281,6 +302,7 @@ Billing application handling products, customers, invoices, and reports with mod
 
 ---
 
+<a id="connect-with-me"></a>
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -296,11 +318,17 @@ Billing application handling products, customers, invoices, and reports with mod
 <a href="https://github.com/dharmanathsk04" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1e1a" alt="GitHub"/>
 </a>
+<a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0b1e1a" alt="LeetCode"/>
+</a>
+<a href="https://www.kaggle.com/dharmanathkadam" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0b1e1a" alt="Kaggle"/>
+</a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=⚡+BUILD+%E2%80%A2+LEARN+%E2%80%A2+CREATE+%E2%80%A2+IMPROVE+⚡" alt="Motto"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2400&pause=700&color=3B82F6&center=true&vCenter=true&width=900&height=55&lines=⚡+BUILD+%E2%80%A2+LEARN+%E2%80%A2+CREATE+%E2%80%A2+IMPROVE+⚡" alt="Mantra"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:0c4a6e,100:0b1e1a&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,30:0c4a6e,70:0f2922,100:0b1e1a&height=160&section=footer" width="100%"/>

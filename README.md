@@ -13,10 +13,10 @@
 
 <br/><br/>
 
-<a href="https://drive.google.com/file/d/1ID75LUVdrC4dDKWRzlFk5IVtnv4UoyMp/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1ID75LUVdrC4dDKWRzlFk5IVtnv4UoyMp/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/📄%20RESUME-View%20Now-3b82f6?style=for-the-badge&labelColor=0b1e1a" alt="Resume"/>
 </a>
-<a href="https://www.linkedin.com/in/dharmanathsk1/">
+<a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1e1a" alt="LinkedIn"/>
 </a>
 <a href="mailto:dharmanathkadam@gmail.com">
@@ -31,33 +31,40 @@
 
 ---
 
+<a id="toc"></a>
 ## 📑 Table of Contents
 
-- [👨‍💻 About Me](#-about-me)
-- [🎯 Core Strengths](#-core-strengths)
-- [💼 Experience](#-experience)
-- [🚀 Featured Projects](#-featured-projects)
-- [🏆 Achievements](#-achievements)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📊 GitHub Activity](#-github-activity)
-- [🌱 Currently Learning](#-currently-learning)
-- [🤝 Connect With Me](#-connect-with-me)
+| # | Section |
+|:---:|:---|
+| 1 | [👨‍💻 About Me](#about-me) |
+| 2 | [🎯 Core Strengths](#core-strengths) |
+| 3 | [💼 Experience](#experience) |
+| 4 | [🚀 Featured Projects](#featured-projects) |
+| 5 | [🏆 Achievements](#achievements) |
+| 6 | [🛠️ Tech Stack](#tech-stack) |
+| 7 | [📊 GitHub Activity](#github-activity) |
+| 8 | [🌱 Currently Learning](#currently-learning) |
+| 9 | [🤝 Connect With Me](#connect-with-me) |
 
 ---
 
+<a id="about-me"></a>
 ## 👨‍💻 About Me
 
 I'm a **B.Tech Computer Science & Engineering (Data Science)** student passionate about building software that solves real problems. I work at the intersection of **Java Full Stack Development**, **Artificial Intelligence**, and **Data Science** — designing backend systems, crafting responsive frontends, and shipping working products.
 
-- 🎓 &nbsp;**B.Tech CSE** — Data Science
-- 💻 &nbsp;**Java Full Stack Developer** — Spring Boot · React
-- 🤖 &nbsp;**AI Enthusiast** — Machine Learning · Generative AI
-- 📊 &nbsp;**Data Science** — Python · Pandas · Power BI
-- 🚀 &nbsp;**Mission** — Build clean, scalable, real-world software
-- 🤝 &nbsp;**Looking for** — Full Stack / Backend / AI-ML roles
+| | |
+|:---|:---|
+| 🎓 **Education** | B.Tech CSE — Data Science |
+| 💻 **Role** | Java Full Stack Developer — Spring Boot · React |
+| 🤖 **Focus** | AI · Machine Learning · Generative AI |
+| 📊 **Data** | Python · Pandas · Power BI |
+| 🚀 **Mission** | Build clean, scalable, real-world software |
+| 🤝 **Open To** | Full Stack / Backend / AI-ML roles |
 
 ---
 
+<a id="core-strengths"></a>
 ## 🎯 Core Strengths
 
 | Strength | What I Bring |
@@ -72,26 +79,25 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student passionat
 
 ---
 
+<a id="experience"></a>
 ## 💼 Experience
 
-### 🔹 Java Full Stack Development Intern — DASP Private Limited
-> **Duration:** _(add dates, e.g. Jun 2024 – Aug 2024)_ · **Location:** _(add city)_ · **Mode:** On-site
+### 🔹 Java Full Stack Development Intern — **DASP Private Limited**
+> **Duration:** _(add dates)_ · **Location:** _(add city)_ · **Mode:** On-site
 
-- Built RESTful APIs with **Spring Boot + Spring Data JPA + Hibernate** for internal modules
+- Built RESTful APIs with **Spring Boot + Spring Data JPA + Hibernate**
 - Designed and integrated **MySQL** schemas with normalized relationships
 - Developed responsive **React** dashboards consuming backend APIs
-- Tested and documented endpoints using **Postman**
 - **Stack:** `Java` · `Spring Boot` · `JPA` · `Hibernate` · `REST` · `MySQL` · `React`
 
-### 🔹 Java Full Stack Trainee — The Kiran Academy
+### 🔹 Java Full Stack Trainee — **The Kiran Academy**
 > **Duration:** _(add dates)_ · **Mode:** Training
 
 - Completed intensive training: **Core Java → Advanced Java → Spring Boot MVC → React**
 - Implemented **Servlet/JSP** apps, JDBC persistence, and layered MVC architectures
-- Delivered a capstone full-stack project
 - **Stack:** `Core Java` · `JDBC` · `SQL` · `Hibernate` · `Spring Boot MVC` · `React` · `Servlet/JSP` · `Postman`
 
-### 🔹 Full Stack Development Intern — Acmegrade
+### 🔹 Full Stack Development Intern — **Acmegrade**
 > **Duration:** _(add dates)_ · **Mode:** Remote
 
 - Worked across frontend, backend, and database layers on live tasks
@@ -100,76 +106,111 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student passionat
 
 ---
 
+<a id="featured-projects"></a>
 ## 🚀 Featured Projects
 
-### 🏥 CareVision — *AI-Based Healthcare Platform*
-> **2024** · Solo Project
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Healthcare platform combining ML prediction models, interactive dashboards, and AI-powered features to predict patient risk factors.
+### 🏥 CareVision
 
-**Stack:** `Python` · `Flask` · `MySQL` · `scikit-learn` · `Gemini API` · `Chart.js`
+**AI-Based Healthcare Platform** · `2024`
 
-<a href="https://github.com/dharmanathsk04?tab=repositories">
+Healthcare platform combining ML prediction models, interactive dashboards, and AI-powered features.
+
+`Python` · `Flask` · `MySQL` · `scikit-learn` · `Gemini API` · `Chart.js`
+
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/View%20Code-3b82f6?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white" alt="View Code"/>
 </a>
 
-### 🐾 PawStay AI — *AI-Powered Pet Care Platform*
-> **2024** · Team Project
+</td>
+<td width="50%" valign="top">
 
-Smart pet home-stay platform connecting pet owners with trusted caregivers through intelligent matching and recommendation microservices.
+### 🐾 PawStay AI
 
-**Stack:** `Flutter` · `AI` · `Full Stack` · `Microservices`
+**AI-Powered Pet Care Platform** · `2024`
 
-<a href="https://github.com/dharmanathsk04?tab=repositories">
+Smart pet home-stay platform connecting owners with trusted caregivers via intelligent matching.
+
+`Flutter` · `AI` · `Full Stack` · `Microservices`
+
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/View%20Code-0284c7?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white" alt="View Code"/>
 </a>
 
-### 🛒 ShopMate — *Java Spring Boot E-Commerce*
-> **2024** · Solo Project
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Full-stack e-commerce app with secure authentication, product catalog, cart, and order workflow. Focused on clean REST API design and database integration.
+### 🛒 ShopMate
 
-**Stack:** `Java` · `Spring Boot` · `REST APIs` · `MySQL` · `React`
+**Java Spring Boot E-Commerce** · `2024`
 
-<a href="https://github.com/dharmanathsk04?tab=repositories">
+Full-stack e-commerce app with secure authentication, product catalog, cart, and order workflow.
+
+`Java` · `Spring Boot` · `REST APIs` · `MySQL` · `React`
+
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/View%20Code-3b82f6?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white" alt="View Code"/>
 </a>
 
-### 📚 MiniLibrary — *Full Stack Library Management*
-> **2024** · Solo Project
+</td>
+<td width="50%" valign="top">
 
-Library management system with book issuance, returns, member tracking, and a React admin dashboard backed by Spring Boot APIs.
+### 💼 Clever Bill
 
-**Stack:** `Java` · `Spring Boot` · `JPA` · `MySQL` · `React`
+**Production Billing App** · `2025` *(In Progress)*
 
-<a href="https://github.com/dharmanathsk04?tab=repositories">
+Contributing to mobile development of a production-grade enterprise billing application.
+
+`Mobile` · `Billing` · `Enterprise`
+
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/In%20Progress-fbbf24?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white" alt="In Progress"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 MiniLibrary
+
+**Full Stack Library Management** · `2024`
+
+Library system with book issuance, returns, member tracking, and React admin dashboard.
+
+`Java` · `Spring Boot` · `JPA` · `MySQL` · `React`
+
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/View%20Code-0284c7?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white" alt="View Code"/>
 </a>
 
-### 🧾 MiniBill — *Full Stack Billing Management*
-> **2024** · Solo Project
+</td>
+<td width="50%" valign="top">
 
-Billing application handling products, customers, invoices, and reports with a modern decoupled architecture.
+### 🧾 MiniBill
 
-**Stack:** `Spring Boot` · `React` · `REST APIs` · `MySQL`
+**Full Stack Billing Management** · `2024`
 
-<a href="https://github.com/dharmanathsk04?tab=repositories">
+Billing application handling products, customers, invoices, and reports with modern architecture.
+
+`Spring Boot` · `React` · `REST APIs` · `MySQL`
+
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/View%20Code-3b82f6?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white" alt="View Code"/>
 </a>
 
-### 💼 Clever Bill — *Production Billing App* (In Progress)
-> **2025** · Industry Collaboration
-
-Contributing to mobile development of Clever Bill — a production-grade enterprise billing application.
-
-**Stack:** `Mobile` · `Billing` · `Enterprise`
-
-<a href="https://github.com/dharmanathsk04?tab=repositories">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-fbbf24?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white" alt="In Progress"/>
-</a>
+</td>
+</tr>
+</table>
 
 ---
 
+<a id="achievements"></a>
 ## 🏆 Achievements
 
 | Achievement | Details |
@@ -182,6 +223,7 @@ Contributing to mobile development of Clever Bill — a production-grade enterpr
 
 ---
 
+<a id="tech-stack"></a>
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -214,34 +256,26 @@ Contributing to mobile development of Clever Bill — a production-grade enterpr
 
 ---
 
+<a id="github-activity"></a>
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanathsk04&bg_color=0b1e1a&color=3b82f6&line=0284c7&point=fbbf24&area=true&hide_border=true" width="100%" alt="Contribution graph"/>
+<img src="https://github-readme-stats.shion.dev/api?username=dharmanathsk04&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b1e1a&title_color=3b82f6&icon_color=22D3EE&text_color=ffffff&border_color=3b82f6&hide_border=true" width="100%" alt="GitHub Stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=dharmanathsk04&theme=dark&background=0b1e1a&border=3b82f6&stroke=22D3EE&ring=fbbf24&fire=fbbf24&currStreakLabel=3b82f6" width="70%" alt="GitHub streak"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dharmanathsk04&layout=compact&langs_count=8&bg_color=0b1e1a&title_color=3b82f6&text_color=ffffff&border_color=3b82f6&hide_border=true" width="60%" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmanathsk04&theme=github_dark" width="100%" alt="Profile summary"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dharmanathsk04&theme=github_dark" height="180" alt="Repos per language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dharmanathsk04&theme=github_dark" height="180" alt="Most commit language"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dharmanathsk04&theme=github_dark&utcOffset=5.5" height="180" alt="Productive time"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dharmanathsk04&theme=github_dark" height="180" alt="Stats"/>
+<img src="https://nice-readme.vercel.app/streak-stats?user=dharmanathsk04&background=0b1e1a&border=3b82f6&stroke=22D3EE&ring=fbbf24&fire=fbbf24&currStreakLabel=3b82f6" width="70%" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
+<a id="currently-learning"></a>
 ## 🌱 Currently Learning
 
 > Advanced topics I'm actively levelling up on — beyond my current stack.
@@ -256,29 +290,21 @@ Contributing to mobile development of Clever Bill — a production-grade enterpr
 
 ---
 
+<a id="connect-with-me"></a>
 ## 🤝 Connect With Me
 
 <div align="center">
 
 **💬 Open to opportunities, collaborations, and tech conversations.**
 
-<a href="https://www.linkedin.com/in/dharmanathsk1/">
+<a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1e1a" alt="LinkedIn"/>
 </a>
 <a href="mailto:dharmanathkadam@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1e1a" alt="Gmail"/>
 </a>
-<a href="https://github.com/dharmanathsk04">
+<a href="https://github.com/dharmanathsk04" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1e1a" alt="GitHub"/>
-</a>
-<a href="https://leetcode.com/u/rwTX1Jh5qx/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0b1e1a" alt="LeetCode"/>
-</a>
-<a href="https://www.kaggle.com/dharmanathkadam">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0b1e1a" alt="Kaggle"/>
-</a>
-<a href="https://www.hackerrank.com/dharmanathkadam">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0b1e1a" alt="HackerRank"/>
 </a>
 
 <br/><br/>

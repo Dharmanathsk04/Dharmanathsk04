@@ -31,24 +31,22 @@
 
 ---
 
-<a id="toc"></a>
 ## 📑 Table of Contents
 
 | # | Section |
 |:---:|:---|
-| 1 | [👨‍💻 About Me](#about-me) |
-| 2 | [🎯 Core Strengths](#core-strengths) |
-| 3 | [💼 Experience](#experience) |
-| 4 | [🚀 Featured Projects](#featured-projects) |
-| 5 | [🏆 Achievements](#achievements) |
-| 6 | [🛠️ Tech Stack](#tech-stack) |
-| 7 | [📊 GitHub Activity](#github-activity) |
-| 8 | [🌱 Currently Learning](#currently-learning) |
-| 9 | [🤝 Connect With Me](#connect-with-me) |
+| 1 | [👨‍💻 About Me](#-about-me) |
+| 2 | [🎯 Core Strengths](#-core-strengths) |
+| 3 | [💼 Experience](#-experience) |
+| 4 | [🚀 Featured Projects](#-featured-projects) |
+| 5 | [🏆 Achievements](#-achievements) |
+| 6 | [🛠️ Tech Stack](#️-tech-stack) |
+| 7 | [📊 GitHub Activity](#-github-activity) |
+| 8 | [🌱 Currently Learning](#-currently-learning) |
+| 9 | [🤝 Connect With Me](#-connect-with-me) |
 
 ---
 
-<a id="about-me"></a>
 ## 👨‍💻 About Me
 
 I'm a **B.Tech Computer Science & Engineering (Data Science)** student passionate about building software that solves real problems. I work at the intersection of **Java Full Stack Development**, **Artificial Intelligence**, and **Data Science** — designing backend systems, crafting responsive frontends, and shipping working products.
@@ -64,7 +62,6 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student passionat
 
 ---
 
-<a id="core-strengths"></a>
 ## 🎯 Core Strengths
 
 | Strength | What I Bring |
@@ -79,7 +76,6 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student passionat
 
 ---
 
-<a id="experience"></a>
 ## 💼 Experience
 
 ### 🔹 Java Full Stack Development Intern — **DASP Private Limited**
@@ -106,7 +102,6 @@ I'm a **B.Tech Computer Science & Engineering (Data Science)** student passionat
 
 ---
 
-<a id="featured-projects"></a>
 ## 🚀 Featured Projects
 
 <table>
@@ -210,7 +205,6 @@ Billing application handling products, customers, invoices, and reports with mod
 
 ---
 
-<a id="achievements"></a>
 ## 🏆 Achievements
 
 | Achievement | Details |
@@ -223,7 +217,6 @@ Billing application handling products, customers, invoices, and reports with mod
 
 ---
 
-<a id="tech-stack"></a>
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -256,7 +249,6 @@ Billing application handling products, customers, invoices, and reports with mod
 
 ---
 
-<a id="github-activity"></a>
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -275,7 +267,6 @@ Billing application handling products, customers, invoices, and reports with mod
 
 ---
 
-<a id="currently-learning"></a>
 ## 🌱 Currently Learning
 
 > Advanced topics I'm actively levelling up on — beyond my current stack.
@@ -290,7 +281,6 @@ Billing application handling products, customers, invoices, and reports with mod
 
 ---
 
-<a id="connect-with-me"></a>
 ## 🤝 Connect With Me
 
 <div align="center">

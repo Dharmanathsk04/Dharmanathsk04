@@ -32,16 +32,6 @@
 
 ---
 
-## 🎴 Developer ID Card
-
-<div align="center">
-
-<img src="developer-id.svg" width="100%" alt="Dharmanath Kadam — Developer ID Card"/>
-
-</div>
-
----
-
 ## 📑 Table of Contents
 
 | # | Section |
@@ -55,6 +45,7 @@
 | 7 | [📊 GitHub Activity](#github-activity) |
 | 8 | [🌱 Currently Learning](#currently-learning) |
 | 9 | [🤝 Connect With Me](#connect-with-me) |
+| 10 | [🎴 Developer ID Card](#developer-id-card) |
 
 ---
 
@@ -340,6 +331,17 @@ Billing application handling products, customers, invoices, and reports with mod
 <a href="https://www.kaggle.com/dharmanathkadam" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0b1e1a" alt="Kaggle"/>
 </a>
+
+</div>
+
+---
+
+<a id="developer-id-card"></a>
+## 🎴 Developer ID Card
+
+<div align="center">
+
+<img src="developer-id.svg" width="100%" alt="Dharmanath Kadam — Developer ID Card"/>
 
 </div>
 

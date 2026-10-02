@@ -374,64 +374,24 @@ Billing application handling products, customers, invoices, and reports with mod
 <a id="tech-stack"></a>
 ## 🛠️ Tech Stack
 
+<!-- 
+  IMPORTANT: Save the SVG code you provided into a file named "techstack.svg" 
+  in your repository. Then this image tag will render it perfectly on GitHub!
+-->
 <div align="center">
-  <br/>
-  <h3 style="color: #22D3EE; font-family: monospace; letter-spacing: 2px;">// TECH STACK</h3>
-  <h1>Tools I build with</h1>
-  <br/>
+  <img src="techstack.svg" width="100%" alt="Tech Stack Visual"/>
+</div>
 
-  <!-- FRONTEND -->
-  <div align="left" style="font-family: monospace; color: #22D3EE; font-size: 12px; letter-spacing: 1px; margin-bottom: 5px;">— FRONTEND</div>
-  <div align="left" style="margin-bottom: 15px;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0b1e1a" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0b1e1a" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0b1e1a" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0b1e1a" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0b1e1a" alt="React"/>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0b1e1a" alt="Bootstrap"/>
-  </div>
-
-  <!-- BACKEND & FRAMEWORKS -->
-  <div align="left" style="font-family: monospace; color: #d946ef; font-size: 12px; letter-spacing: 1px; margin-bottom: 5px;">— BACKEND & FRAMEWORKS</div>
-  <div align="left" style="margin-bottom: 15px;">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0b1e1a" alt="Java"/>
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=0b1e1a" alt="Spring Boot"/>
-    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=0b1e1a" alt="Hibernate"/>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0b1e1a" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=0b1e1a" alt="Express.js"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0b1e1a" alt="Flask"/>
-  </div>
-
-  <!-- DATA & ENTERPRISE -->
-  <div align="left" style="font-family: monospace; color: #fbbf24; font-size: 12px; letter-spacing: 1px; margin-bottom: 5px;">— DATA & ENTERPRISE</div>
-  <div align="left" style="margin-bottom: 15px;">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0b1e1a" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0b1e1a" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0b1e1a" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0b1e1a" alt="SQL"/>
-  </div>
-
-  <!-- AI & DATA SCIENCE -->
-  <div align="left" style="font-family: monospace; color: #3b82f6; font-size: 12px; letter-spacing: 1px; margin-bottom: 5px;">— AI & DATA SCIENCE</div>
-  <div align="left" style="margin-bottom: 15px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0b1e1a" alt="Python"/>
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0b1e1a" alt="scikit-learn"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0b1e1a" alt="Pandas"/>
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0b1e1a" alt="Jupyter"/>
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0b1e1a" alt="Power BI"/>
-  </div>
-
-  <!-- TOOLS & WORKFLOW -->
-  <div align="left" style="font-family: monospace; color: #4ade80; font-size: 12px; letter-spacing: 1px; margin-bottom: 5px;">— TOOLS & WORKFLOW</div>
-  <div align="left" style="margin-bottom: 15px;">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0b1e1a" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1e1a" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0b1e1a" alt="Postman"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0b1e1a" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0b1e1a" alt="Figma"/>
-    <img src="https://img.shields.io/badge/AI_Prompting-8B5CF6?style=for-the-badge&logo=openai&logoColor=white&labelColor=0b1e1a" alt="AI Prompting"/>
-  </div>
-  <br/>
+<!-- Fallback badges in case SVG doesn't load -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0b1e1a" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0b1e1a" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0b1e1a" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0b1e1a" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0b1e1a" alt="React"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0b1e1a" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=0b1e1a" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0b1e1a" alt="Python"/>
 </div>
 
 ---

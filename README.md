@@ -282,16 +282,6 @@ Billing application handling products, customers, invoices, and reports with mod
 
 </div>
 
-<br/>
-
-<div align="center">
-
-**⚡ Quick View**
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,python,js,html,css,mysql,mongodb,docker,git" alt="Core Stack"/>
-
-</div>
-
 ---
 
 <a id="github-activity"></a>

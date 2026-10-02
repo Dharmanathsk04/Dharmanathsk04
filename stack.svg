@@ -1,0 +1,225 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 480" width="1280" height="480" role="img" aria-label="Dharmanath Kadam — Tech Stack">
+<title>Dharmanath Kadam — Tech Stack</title>
+<desc>Tech icons orbiting a React-style atom core with grouped chips: languages, backend, frontend, databases, AI &amp; data science, and tools.</desc>
+<defs>
+  <style>
+    .sg{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-weight:700}
+    .sgm{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-weight:500}
+    .jb{font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace}
+    .jbb{font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace;font-weight:700}
+    @keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes breathe{0%,100%{transform:scale(1)}50%{transform:scale(1.05)}}
+    .fu{animation:fadeUp .7s cubic-bezier(.2,.8,.2,1) both}
+    .chip{animation:fadeUp .6s cubic-bezier(.2,.8,.2,1) both}
+    .core{transform-box:fill-box;transform-origin:center;animation:breathe 4s ease-in-out infinite}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}
+  </style>
+  <radialGradient id="coreG" cx=".35" cy=".3" r=".8">
+    <stop offset="0" stop-color="#f472b6"/><stop offset=".55" stop-color="#a78bfa"/><stop offset="1" stop-color="#4c1d95"/>
+  </radialGradient>
+  <radialGradient id="halo">
+    <stop offset="0" stop-color="#a78bfa" stop-opacity=".35"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="cardbg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#171a2c"/><stop offset="1" stop-color="#121423"/>
+  </linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22d3ee" stop-opacity=".5"/><stop offset=".5" stop-color="#262a42"/><stop offset="1" stop-color="#f472b6" stop-opacity=".5"/>
+  </linearGradient>
+  <pattern id="dots3" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="11" cy="11" r=".8" fill="#ffffff" fill-opacity=".05"/>
+  </pattern>
+</defs>
+
+<!-- Background -->
+<rect width="1280" height="480" rx="24" fill="url(#cardbg)"/>
+<rect width="1280" height="480" rx="24" fill="url(#dots3)"/>
+<rect x=".75" y=".75" width="1278.5" height="478.5" rx="23.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+
+<!-- Header -->
+<g class="fu" style="animation-delay:.1s">
+  <text class="jbb" x="40" y="54" font-size="12.5" fill="#22d3ee" letter-spacing="2.2">// TECH STACK</text>
+  <text class="sg" x="40" y="94" font-size="29" fill="#eceef6" letter-spacing="-.5">Tools I build with</text>
+  <text class="sgm" x="40" y="118" font-size="13" fill="#8d93ab">Dharmanath Kadam · Java Full Stack · AI &amp; Data Science</text>
+</g>
+
+<!-- Divider between left visual and right chips -->
+<line x1="520" y1="150" x2="520" y2="440" stroke="#262a42" stroke-width="1"/>
+
+<!-- ═══ LEFT: React-style atom ═══ -->
+<circle cx="262" cy="290" r="130" fill="url(#halo)"/>
+<circle cx="262" cy="290" r="46" fill="none" stroke="#f472b6" stroke-width="1.5">
+  <animate attributeName="r" values="46;82" dur="2.8s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".7;0" dur="2.8s" repeatCount="indefinite"/>
+</circle>
+<g opacity=".35" stroke="#61dafb" fill="none" stroke-width="1.5">
+  <ellipse cx="262" cy="290" rx="145" ry="48"/>
+  <ellipse cx="262" cy="290" rx="145" ry="48" transform="rotate(60 262 290)"/>
+  <ellipse cx="262" cy="290" rx="145" ry="48" transform="rotate(120 262 290)"/>
+</g>
+<circle cx="117" cy="290" r="7" fill="#61dafb"/>
+<circle cx="407" cy="290" r="7" fill="#0AE448"/>
+<circle cx="334" cy="414" r="7" fill="#F7DF1E"/>
+<g class="core">
+  <circle cx="262" cy="290" r="46" fill="url(#coreG)"/>
+  <text class="sg" x="262" y="301" font-size="28" fill="#ffffff" text-anchor="middle">&lt;/&gt;</text>
+</g>
+
+<!-- ═══ RIGHT: Chip grid ═══ -->
+
+<!-- ROW 1: LANGUAGES (y=175) -->
+<g class="chip" style="animation-delay:.30s">
+  <rect x="552" y="155" width="14" height="3" rx="1.5" fill="#22d3ee"/>
+  <text class="jbb" x="574" y="160" font-size="11" fill="#8d93ab" letter-spacing="2">LANGUAGES</text>
+</g>
+<g class="chip" style="animation-delay:.36s">
+  <rect x="552" y="175" width="80" height="34" rx="10" fill="#f89820" fill-opacity=".1"/>
+  <rect x="552.5" y="175.5" width="79" height="33" rx="9.5" fill="none" stroke="#f89820" stroke-opacity=".5"/>
+  <circle cx="568" cy="192" r="4" fill="#f89820"/>
+  <text class="jb" x="580" y="196" font-size="13" fill="#eceef6">Java</text>
+</g>
+<g class="chip" style="animation-delay:.42s">
+  <rect x="642" y="175" width="96" height="34" rx="10" fill="#3776AB" fill-opacity=".1"/>
+  <rect x="642.5" y="175.5" width="95" height="33" rx="9.5" fill="none" stroke="#3776AB" stroke-opacity=".5"/>
+  <circle cx="658" cy="192" r="4" fill="#3776AB"/>
+  <text class="jb" x="670" y="196" font-size="13" fill="#eceef6">Python</text>
+</g>
+<g class="chip" style="animation-delay:.48s">
+  <rect x="748" y="175" width="122" height="34" rx="10" fill="#F7DF1E" fill-opacity=".1"/>
+  <rect x="748.5" y="175.5" width="121" height="33" rx="9.5" fill="none" stroke="#F7DF1E" stroke-opacity=".5"/>
+  <circle cx="764" cy="192" r="4" fill="#F7DF1E"/>
+  <text class="jb" x="776" y="196" font-size="13" fill="#eceef6">JavaScript</text>
+</g>
+<g class="chip" style="animation-delay:.54s">
+  <rect x="880" y="175" width="92" height="34" rx="10" fill="#E34F26" fill-opacity=".1"/>
+  <rect x="880.5" y="175.5" width="91" height="33" rx="9.5" fill="none" stroke="#E34F26" stroke-opacity=".5"/>
+  <circle cx="896" cy="192" r="4" fill="#E34F26"/>
+  <text class="jb" x="908" y="196" font-size="13" fill="#eceef6">HTML5</text>
+</g>
+<g class="chip" style="animation-delay:.60s">
+  <rect x="982" y="175" width="74" height="34" rx="10" fill="#1572B6" fill-opacity=".1"/>
+  <rect x="982.5" y="175.5" width="73" height="33" rx="9.5" fill="none" stroke="#1572B6" stroke-opacity=".5"/>
+  <circle cx="998" cy="192" r="4" fill="#1572B6"/>
+  <text class="jb" x="1010" y="196" font-size="13" fill="#eceef6">CSS</text>
+</g>
+<g class="chip" style="animation-delay:.66s">
+  <rect x="1066" y="175" width="74" height="34" rx="10" fill="#60A5FA" fill-opacity=".1"/>
+  <rect x="1066.5" y="175.5" width="73" height="33" rx="9.5" fill="none" stroke="#60A5FA" stroke-opacity=".5"/>
+  <circle cx="1082" cy="192" r="4" fill="#60A5FA"/>
+  <text class="jb" x="1094" y="196" font-size="13" fill="#eceef6">SQL</text>
+</g>
+
+<!-- ROW 2: BACKEND & FRAMEWORKS (y=245) -->
+<g class="chip" style="animation-delay:.72s">
+  <rect x="552" y="225" width="14" height="3" rx="1.5" fill="#a78bfa"/>
+  <text class="jbb" x="574" y="230" font-size="11" fill="#8d93ab" letter-spacing="2">BACKEND &amp; FRAMEWORKS</text>
+</g>
+<g class="chip" style="animation-delay:.78s">
+  <rect x="552" y="245" width="128" height="34" rx="10" fill="#6DB33F" fill-opacity=".1"/>
+  <rect x="552.5" y="245.5" width="127" height="33" rx="9.5" fill="none" stroke="#6DB33F" stroke-opacity=".5"/>
+  <circle cx="568" cy="262" r="4" fill="#6DB33F"/>
+  <text class="jb" x="580" y="266" font-size="13" fill="#eceef6">Spring Boot</text>
+</g>
+<g class="chip" style="animation-delay:.84s">
+  <rect x="690" y="245" width="116" height="34" rx="10" fill="#BCAE79" fill-opacity=".1"/>
+  <rect x="690.5" y="245.5" width="115" height="33" rx="9.5" fill="none" stroke="#BCAE79" stroke-opacity=".5"/>
+  <circle cx="706" cy="262" r="4" fill="#BCAE79"/>
+  <text class="jb" x="718" y="266" font-size="13" fill="#eceef6">Hibernate</text>
+</g>
+<g class="chip" style="animation-delay:.90s">
+  <rect x="816" y="245" width="104" height="34" rx="10" fill="#339933" fill-opacity=".1"/>
+  <rect x="816.5" y="245.5" width="103" height="33" rx="9.5" fill="none" stroke="#339933" stroke-opacity=".5"/>
+  <circle cx="832" cy="262" r="4" fill="#339933"/>
+  <text class="jb" x="844" y="266" font-size="13" fill="#eceef6">Node.js</text>
+</g>
+<g class="chip" style="animation-delay:.96s">
+  <rect x="930" y="245" width="92" height="34" rx="10" fill="#eceef6" fill-opacity=".1"/>
+  <rect x="930.5" y="245.5" width="91" height="33" rx="9.5" fill="none" stroke="#eceef6" stroke-opacity=".4"/>
+  <circle cx="946" cy="262" r="4" fill="#eceef6"/>
+  <text class="jb" x="958" y="266" font-size="13" fill="#eceef6">Express</text>
+</g>
+<g class="chip" style="animation-delay:1.02s">
+  <rect x="1032" y="245" width="88" height="34" rx="10" fill="#eceef6" fill-opacity=".1"/>
+  <rect x="1032.5" y="245.5" width="87" height="33" rx="9.5" fill="none" stroke="#eceef6" stroke-opacity=".4"/>
+  <circle cx="1048" cy="262" r="4" fill="#eceef6"/>
+  <text class="jb" x="1060" y="266" font-size="13" fill="#eceef6">Flask</text>
+</g>
+
+<!-- ROW 3: FRONTEND & DATABASES (y=315) -->
+<g class="chip" style="animation-delay:1.08s">
+  <rect x="552" y="295" width="14" height="3" rx="1.5" fill="#fbbf24"/>
+  <text class="jbb" x="574" y="300" font-size="11" fill="#8d93ab" letter-spacing="2">FRONTEND &amp; DATABASES</text>
+</g>
+<g class="chip" style="animation-delay:1.14s">
+  <rect x="552" y="315" width="88" height="34" rx="10" fill="#61DAFB" fill-opacity=".1"/>
+  <rect x="552.5" y="315.5" width="87" height="33" rx="9.5" fill="none" stroke="#61DAFB" stroke-opacity=".5"/>
+  <circle cx="568" cy="332" r="4" fill="#61DAFB"/>
+  <text class="jb" x="580" y="336" font-size="13" fill="#eceef6">React</text>
+</g>
+<g class="chip" style="animation-delay:1.20s">
+  <rect x="650" y="315" width="110" height="34" rx="10" fill="#7952B3" fill-opacity=".1"/>
+  <rect x="650.5" y="315.5" width="109" height="33" rx="9.5" fill="none" stroke="#7952B3" stroke-opacity=".5"/>
+  <circle cx="666" cy="332" r="4" fill="#7952B3"/>
+  <text class="jb" x="678" y="336" font-size="13" fill="#eceef6">Bootstrap</text>
+</g>
+<g class="chip" style="animation-delay:1.26s">
+  <rect x="770" y="315" width="94" height="34" rx="10" fill="#06B6D4" fill-opacity=".1"/>
+  <rect x="770.5" y="315.5" width="93" height="33" rx="9.5" fill="none" stroke="#06B6D4" stroke-opacity=".5"/>
+  <circle cx="786" cy="332" r="4" fill="#06B6D4"/>
+  <text class="jb" x="798" y="336" font-size="13" fill="#eceef6">Tailwind</text>
+</g>
+<g class="chip" style="animation-delay:1.32s">
+  <rect x="874" y="315" width="94" height="34" rx="10" fill="#4479A1" fill-opacity=".1"/>
+  <rect x="874.5" y="315.5" width="93" height="33" rx="9.5" fill="none" stroke="#4479A1" stroke-opacity=".5"/>
+  <circle cx="890" cy="332" r="4" fill="#4479A1"/>
+  <text class="jb" x="902" y="336" font-size="13" fill="#eceef6">MySQL</text>
+</g>
+<g class="chip" style="animation-delay:1.38s">
+  <rect x="978" y="315" width="122" height="34" rx="10" fill="#4169E1" fill-opacity=".1"/>
+  <rect x="978.5" y="315.5" width="121" height="33" rx="9.5" fill="none" stroke="#4169E1" stroke-opacity=".5"/>
+  <circle cx="994" cy="332" r="4" fill="#4169E1"/>
+  <text class="jb" x="1006" y="336" font-size="13" fill="#eceef6">PostgreSQL</text>
+</g>
+<g class="chip" style="animation-delay:1.44s">
+  <rect x="1110" y="315" width="104" height="34" rx="10" fill="#47A248" fill-opacity=".1"/>
+  <rect x="1110.5" y="315.5" width="103" height="33" rx="9.5" fill="none" stroke="#47A248" stroke-opacity=".5"/>
+  <circle cx="1126" cy="332" r="4" fill="#47A248"/>
+  <text class="jb" x="1138" y="336" font-size="13" fill="#eceef6">MongoDB</text>
+</g>
+
+<!-- ROW 4: AI & DATA SCIENCE (y=385) -->
+<g class="chip" style="animation-delay:1.50s">
+  <rect x="552" y="365" width="14" height="3" rx="1.5" fill="#f472b6"/>
+  <text class="jbb" x="574" y="370" font-size="11" fill="#8d93ab" letter-spacing="2">AI &amp; DATA SCIENCE</text>
+</g>
+<g class="chip" style="animation-delay:1.56s">
+  <rect x="552" y="385" width="122" height="34" rx="10" fill="#FF6F00" fill-opacity=".1"/>
+  <rect x="552.5" y="385.5" width="121" height="33" rx="9.5" fill="none" stroke="#FF6F00" stroke-opacity=".5"/>
+  <circle cx="568" cy="402" r="4" fill="#FF6F00"/>
+  <text class="jb" x="580" y="406" font-size="13" fill="#eceef6">TensorFlow</text>
+</g>
+<g class="chip" style="animation-delay:1.62s">
+  <rect x="684" y="385" width="102" height="34" rx="10" fill="#EE4C2C" fill-opacity=".1"/>
+  <rect x="684.5" y="385.5" width="101" height="33" rx="9.5" fill="none" stroke="#EE4C2C" stroke-opacity=".5"/>
+  <circle cx="700" cy="402" r="4" fill="#EE4C2C"/>
+  <text class="jb" x="712" y="406" font-size="13" fill="#eceef6">PyTorch</text>
+</g>
+<g class="chip" style="animation-delay:1.68s">
+  <rect x="796" y="385" width="100" height="34" rx="10" fill="#F37626" fill-opacity=".1"/>
+  <rect x="796.5" y="385.5" width="99" height="33" rx="9.5" fill="none" stroke="#F37626" stroke-opacity=".5"/>
+  <circle cx="812" cy="402" r="4" fill="#F37626"/>
+  <text class="jb" x="824" y="406" font-size="13" fill="#eceef6">Jupyter</text>
+</g>
+<g class="chip" style="animation-delay:1.74s">
+  <rect x="906" y="385" width="94" height="34" rx="10" fill="#150458" fill-opacity=".1"/>
+  <rect x="906.5" y="385.5" width="93" height="33" rx="9.5" fill="none" stroke="#E70488" stroke-opacity=".6"/>
+  <circle cx="922" cy="402" r="4" fill="#E70488"/>
+  <text class="jb" x="934" y="406" font-size="13" fill="#eceef6">Pandas</text>
+</g>
+<g class="chip" style="animation-delay:1.80s">
+  <rect x="1010" y="385" width="94" height="34" rx="10" fill="#150458" fill-opacity=".1"/>
+  <rect x="1010.5" y="385.5" width="93" height="33" rx="9.5" fill="none" stroke="#150458" stroke-opacity=".8"/>
+  <circle cx="1026" cy="402" r="4" fill="#150458"/>
+  <text class="jb" x="1038" y="406" font-size="13" fill="#eceef6">NumPy</text>
+</g>
+</svg>

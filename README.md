@@ -57,11 +57,7 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dharmanathsk04&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b1e1a&title_color=3b82f6&icon_color=22D3EE&text_color=ffffff&border_color=3b82f6&hide_border=true&hide=issues,prs" width="100%" alt="GitHub Stats"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=dharmanathsk04&theme=dark&background=0b1e1a&border=3b82f6&stroke=22D3EE&ring=fbbf24&fire=fbbf24&currStreakLabel=3b82f6&hide_border=true" width="100%" alt="GitHub Streak"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Developer coding GIF"/>
 
 </td>
 </tr>
@@ -322,7 +318,7 @@ Billing application handling products, customers, invoices, and reports with mod
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dharmanathsk04&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b1e1a&title_color=3b82f6&icon_color=22D3EE&text_color=ffffff&border_color=3b82f6&hide_border=true" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dharmanathsk04&show_icons=true&bg_color=0b1e1a&title_color=3b82f6&icon_color=22D3EE&text_color=ffffff&border_color=3b82f6&hide_border=true" width="60%" alt="GitHub Stats"/>
 
 <br/><br/>
 

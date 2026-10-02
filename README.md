@@ -38,146 +38,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:3b82f6,100:0b1e1a&height=3" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                           DEVELOPER DASHBOARD                           -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <br/>
-  <h3 style="color: #22D3EE; font-family: monospace; letter-spacing: 2px;">// DEVELOPER DASHBOARD</h3>
-  <h1>Profile at a glance</h1>
-  
-  <table width="100%" border="0">
-    <tr>
-      <td align="center" width="25%" style="background-color: #0b1e1a; border-radius: 10px; padding: 15px; border: 1px solid #1e293b;">
-        <span style="color: #3b82f6; font-size: 20px;">📁</span><br/>
-        <b style="font-size: 24px; color: white;">8+</b><br/>
-        <span style="color: #94a3b8; font-size: 12px;">PUBLIC REPOS</span>
-      </td>
-      <td width="2%"></td>
-      <td align="center" width="25%" style="background-color: #0b1e1a; border-radius: 10px; padding: 15px; border: 1px solid #1e293b;">
-        <span style="color: #fbbf24; font-size: 20px;">⭐</span><br/>
-        <b style="font-size: 24px; color: white;">54</b><br/>
-        <span style="color: #94a3b8; font-size: 12px;">TOTAL STARS</span>
-      </td>
-      <td width="2%"></td>
-      <td align="center" width="25%" style="background-color: #0b1e1a; border-radius: 10px; padding: 15px; border: 1px solid #1e293b;">
-        <span style="color: #d946ef; font-size: 20px;">🍴</span><br/>
-        <b style="font-size: 24px; color: white;">23</b><br/>
-        <span style="color: #94a3b8; font-size: 12px;">FORKS</span>
-      </td>
-      <td width="2%"></td>
-      <td align="center" width="25%" style="background-color: #0b1e1a; border-radius: 10px; padding: 15px; border: 1px solid #1e293b;">
-        <span style="color: #22D3EE; font-size: 20px;">👥</span><br/>
-        <b style="font-size: 24px; color: white;">25</b><br/>
-        <span style="color: #94a3b8; font-size: 12px;">FOLLOWERS</span>
-      </td>
-    </tr>
-  </table>
-  
-  <br/><br/>
-
-  <!-- ID CARD & STAR PROJECTS ROW -->
-  <table width="100%" border="0">
-    <tr>
-      <!-- LEFT: ID CARD -->
-      <td width="40%" valign="top" style="background-color: #0b1e1a; border-radius: 15px; padding: 20px; border: 1px solid #3b82f6; box-shadow: 0 0 15px rgba(59, 130, 246, 0.3);">
-        <div align="left" style="font-family: monospace; color: #22D3EE; font-size: 12px; letter-spacing: 1px;">// DEVELOPER ID</div>
-        <div align="right" style="font-family: monospace; color: #94a3b8; font-size: 10px;">v2.0</div>
-        <br/>
-        <div align="center">
-          <!-- Replace the image below with your actual photo URL -->
-          <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Dharmanath" width="120" height="120" style="border-radius: 50%; border: 3px solid #3b82f6;" alt="Avatar"/>
-        </div>
-        <br/>
-        <div align="center">
-          <h2 style="margin: 0; color: white; font-family: 'Fira Code', monospace;">Dharmanath Kadam</h2>
-          <p style="color: #3b82f6; font-size: 14px; font-weight: bold; margin: 5px 0;">JAVA FULL STACK DEVELOPER</p>
-        </div>
-        <br/>
-        <table width="100%" style="font-family: monospace; font-size: 12px; color: #94a3b8;">
-          <tr>
-            <td>📍 BASE</td>
-            <td align="right">India</td>
-          </tr>
-          <tr>
-            <td>💼 STATUS</td>
-            <td align="right" style="color: #4ade80;">OPEN TO COLLAB</td>
-          </tr>
-          <tr>
-            <td>🎓 EDU</td>
-            <td align="right">B.Tech CSE (DS)</td>
-          </tr>
-        </table>
-        <br/>
-        <div align="center">
-          <!-- Barcode simulation -->
-          <img src="https://barcode.tec-it.com/barcode.ashx?data=DHARMANATH-KADAM&code=Code128&translate-esc=on" alt="Barcode" height="30"/>
-        </div>
-      </td>
-      
-      <td width="5%"></td>
-
-      <!-- RIGHT: STAR PROJECTS & COMMUNITY -->
-      <td width="55%" valign="top">
-        <!-- MOST STARRED PROJECTS -->
-        <div align="left" style="background-color: #0b1e1a; border-radius: 10px; padding: 15px; border: 1px solid #1e293b; margin-bottom: 10px;">
-          <div style="font-family: monospace; color: #22D3EE; font-size: 12px; letter-spacing: 1px; margin-bottom: 10px;">MOST-STARRED PROJECTS</div>
-          
-          <table width="100%" style="font-family: monospace; font-size: 13px; color: #cbd5e1;">
-            <tr>
-              <td width="30%">CareVision</td>
-              <td width="55%"><div style="background-color: #1e293b; border-radius: 10px; height: 8px; width: 100%;"><div style="background: linear-gradient(90deg, #3b82f6, #22D3EE); width: 85%; height: 8px; border-radius: 10px;"></div></div></td>
-              <td width="15%" align="right" style="color: #fbbf24;">25 ⭐</td>
-            </tr>
-            <tr><td colspan="3" height="10"></td></tr>
-            <tr>
-              <td width="30%">PawStay AI</td>
-              <td width="55%"><div style="background-color: #1e293b; border-radius: 10px; height: 8px; width: 100%;"><div style="background: linear-gradient(90deg, #d946ef, #ec4899); width: 60%; height: 8px; border-radius: 10px;"></div></div></td>
-              <td width="15%" align="right" style="color: #fbbf24;">18 ⭐</td>
-            </tr>
-            <tr><td colspan="3" height="10"></td></tr>
-            <tr>
-              <td width="30%">ShopMate</td>
-              <td width="55%"><div style="background-color: #1e293b; border-radius: 10px; height: 8px; width: 100%;"><div style="background: linear-gradient(90deg, #3b82f6, #8b5cf6); width: 40%; height: 8px; border-radius: 10px;"></div></div></td>
-              <td width="15%" align="right" style="color: #fbbf24;">9 ⭐</td>
-            </tr>
-            <tr><td colspan="3" height="10"></td></tr>
-            <tr>
-              <td width="30%">MiniLibrary</td>
-              <td width="55%"><div style="background-color: #1e293b; border-radius: 10px; height: 8px; width: 100%;"><div style="background: linear-gradient(90deg, #22D3EE, #4ade80); width: 25%; height: 8px; border-radius: 10px;"></div></div></td>
-              <td width="15%" align="right" style="color: #fbbf24;">5 ⭐</td>
-            </tr>
-          </table>
-        </div>
-
-        <!-- COMMUNITY & BUILDING -->
-        <table width="100%" border="0">
-          <tr>
-            <td width="48%" valign="top" style="background-color: #0b1e1a; border-radius: 10px; padding: 15px; border: 1px solid #1e293b;">
-              <div style="font-family: monospace; color: #d946ef; font-size: 12px; letter-spacing: 1px; margin-bottom: 5px;">COMMUNITY</div>
-              <b style="font-size: 20px; color: white;">4.7K</b> <span style="color: #94a3b8; font-size: 12px;">Views / 30 Days</span>
-            </td>
-            <td width="4%"></td>
-            <td width="48%" valign="top" style="background-color: #0b1e1a; border-radius: 10px; padding: 15px; border: 1px solid #1e293b;">
-              <div style="font-family: monospace; color: #fbbf24; font-size: 12px; letter-spacing: 1px; margin-bottom: 5px;">BUILDING</div>
-              <ul style="color: #cbd5e1; font-size: 12px; margin: 0; padding-left: 15px;">
-                <li>Cinematic Web Experiences</li>
-                <li>AI Pair-Programming</li>
-                <li>Java Microservices</li>
-              </ul>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:3b82f6,100:0b1e1a&height=3" width="100%"/>
-
 ---
 
 ## 📑 Table of Contents
@@ -201,14 +61,50 @@
 
 I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by a passion for building software that matters. I work at the intersection of **Java Full Stack Development**, **Artificial Intelligence**, and **Data Science** — designing backend systems, crafting responsive frontends, and turning ideas into working products.
 
-| | |
-|:---|:---|
-| 🎓 **Education** | B.Tech CSE — Data Science |
-| 💻 **Role** | Java Full Stack Developer — Spring Boot · React |
-| 🤖 **Focus** | AI · Machine Learning · Generative AI |
-| 📊 **Data** | Python · Pandas · Power BI |
-| 🚀 **Mission** | Build clean, scalable, real-world software |
-| 🤝 **Open To** | Full Stack / Backend / AI-ML roles |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Education**
+B.Tech CSE — Data Science
+
+</td>
+<td width="50%" valign="top">
+
+**💻 Role**
+Java Full Stack Developer — Spring Boot · React
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 Focus**
+AI · Machine Learning · Generative AI
+
+</td>
+<td width="50%" valign="top">
+
+**📊 Data**
+Python · Pandas · Power BI
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🚀 Mission**
+Build clean, scalable, real-world software
+
+</td>
+<td width="50%" valign="top">
+
+**🤝 Open To**
+Full Stack / Backend / AI-ML roles
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -374,24 +270,32 @@ Billing application handling products, customers, invoices, and reports with mod
 <a id="tech-stack"></a>
 ## 🛠️ Tech Stack
 
-<!-- 
-  IMPORTANT: Save the SVG code you provided into a file named "techstack.svg" 
-  in your repository. Then this image tag will render it perfectly on GitHub!
--->
 <div align="center">
-  <img src="techstack.svg" width="100%" alt="Tech Stack Visual"/>
-</div>
 
-<!-- Fallback badges in case SVG doesn't load -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0b1e1a" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0b1e1a" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0b1e1a" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0b1e1a" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0b1e1a" alt="React"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0b1e1a" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=0b1e1a" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0b1e1a" alt="Python"/>
+**⚡ Languages**
+
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Languages"/>
+
+**🌐 Backend & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,flask,maven" alt="Backend"/>
+
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" alt="Frontend"/>
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Databases"/>
+
+**🤖 AI & Data Science**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,jupyter" alt="AI/DS"/>
+
+**🛠️ Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,figma" alt="Tools"/>
+
 </div>
 
 ---

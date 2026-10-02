@@ -15,8 +15,8 @@
     @keyframes draw{from{stroke-dashoffset:60}to{stroke-dashoffset:0}}
     @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
     @keyframes scan{0%{transform:translateY(-100%)}100%{transform:translateY(420px)}}
-    @keyframes typewriter{from{width:0}to{width:100%}}
-    @keyframes eyeBlink{0%,85%,100%{transform:scaleY(1)}90%{transform:scaleY(0.1)}}
+    @keyframes eyeBlink{0%,85%,100%{transform:scaleY(1)}90%{transform:scaleY(0.08)}}
+    @keyframes steam{0%{opacity:.6;transform:translateY(0)}100%{opacity:0;transform:translateY(-14px)}}
     .fu{animation:fadeUp .7s cubic-bezier(.2,.8,.2,1) both}
     .fi{animation:fadeIn .7s ease both}
     .role{animation:role 12s cubic-bezier(.2,.8,.2,1) infinite}
@@ -43,13 +43,16 @@
     <stop offset="0" stop-color="#22d3ee" stop-opacity=".5"/><stop offset=".5" stop-color="#262a42"/><stop offset="1" stop-color="#f472b6" stop-opacity=".5"/>
   </linearGradient>
   <linearGradient id="skinG" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#f4c9a0"/><stop offset="1" stop-color="#d9a273"/>
+    <stop offset="0" stop-color="#f6cfa6"/><stop offset="1" stop-color="#e0ab7c"/>
   </linearGradient>
   <linearGradient id="hairG" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#2b1a0f"/><stop offset="1" stop-color="#1a0f08"/>
+    <stop offset="0" stop-color="#3a2416"/><stop offset=".5" stop-color="#2a1810"/><stop offset="1" stop-color="#1a0e07"/>
   </linearGradient>
-  <linearGradient id="shirtG" x1="0" y1="0" x2="0" y2="1">
+  <linearGradient id="hoodieG" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#1e40af"/>
+  </linearGradient>
+  <linearGradient id="hoodieG2" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#2563eb"/><stop offset="1" stop-color="#1e3a8a"/>
   </linearGradient>
   <linearGradient id="screenG" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0" stop-color="#0b1e1a"/><stop offset="1" stop-color="#06100e"/>
@@ -83,26 +86,146 @@
     <circle class="blob" cx="1150" cy="80" r="130" fill="#f472b6" fill-opacity=".14"/>
   </g>
 
-  <!-- ═══ RIGHT: BOY DEV SCENE (contained, balanced) ═══ -->
+  <!-- ═══ RIGHT: BOY DEV SCENE ═══ -->
   <g class="fu" style="animation-delay:.4s">
 
     <!-- Glow behind scene -->
     <ellipse cx="1020" cy="380" rx="280" ry="160" fill="url(#glowG)"/>
     <ellipse cx="1060" cy="180" rx="160" ry="120" fill="url(#glowP)"/>
 
+    <!-- Wall clock -->
+    <g transform="translate(1220, 110)" opacity=".7">
+      <circle r="16" fill="#0f1420" stroke="#262a42" stroke-width="1.8"/>
+      <circle r="13" fill="none" stroke="#22d3ee" stroke-opacity=".3" stroke-width=".7"/>
+      <circle r="1.8" fill="#22d3ee"/>
+      <line x1="0" y1="0" x2="0" y2="-9" stroke="#eceef6" stroke-width="1.4" stroke-linecap="round"/>
+      <line x1="0" y1="0" x2="6" y2="3" stroke="#eceef6" stroke-width="1.4" stroke-linecap="round"/>
+    </g>
+
     <!-- Chair back -->
-    <rect x="930" y="240" width="180" height="180" rx="30" fill="#1a1f2e" stroke="#262a42" stroke-width="1.5"/>
+    <path d="M865 460 Q850 260 935 230 Q1020 260 1005 460 Z" fill="#151a26" stroke="#262a42" stroke-width="1.5"/>
 
-    <!-- Desk -->
-    <rect x="780" y="420" width="460" height="80" fill="#1a1f2e"/>
-    <rect x="780" y="420" width="460" height="3" fill="#22d3ee" opacity=".4"/>
+    <!-- ═══ BOY CHARACTER (redesigned) ═══ -->
+    <g transform="translate(935, 430)">
 
-    <!-- Monitor (behind boy, right side of scene) -->
+      <!-- Legs (under desk) -->
+      <rect x="-42" y="20" width="26" height="60" rx="6" fill="#1e293b"/>
+      <rect x="16" y="20" width="26" height="60" rx="6" fill="#1e293b"/>
+      <!-- Shoes -->
+      <ellipse cx="-29" cy="85" rx="18" ry="6" fill="#0f172a"/>
+      <ellipse cx="29" cy="85" rx="18" ry="6" fill="#0f172a"/>
+
+      <!-- Body / Hoodie (natural torso shape) -->
+      <path d="M-85 40 
+               Q-88 -30 -60 -85 
+               Q-35 -120 0 -122 
+               Q35 -120 60 -85 
+               Q88 -30 85 40 
+               Q80 65 0 65 
+               Q-80 65 -85 40 Z" 
+            fill="url(#hoodieG)"/>
+      <!-- Hoodie shoulder shading -->
+      <path d="M-85 40 Q-88 -30 -60 -85 Q-35 -110 0 -110 L0 65 Q-80 65 -85 40 Z" fill="url(#hoodieG2)" opacity=".35"/>
+      <!-- Hoodie pocket -->
+      <path d="M-50 5 Q-55 40 -40 55 L40 55 Q55 40 50 5 Z" fill="#1e40af" opacity=".5"/>
+      <!-- Hoodie collar / V-neck -->
+      <path d="M-48 -78 Q-25 -100 0 -102 Q25 -100 48 -78 Q25 -88 0 -90 Q-25 -88 -48 -78 Z" fill="#1e3a8a" opacity=".8"/>
+      <!-- Hood strings -->
+      <circle cx="-20" cy="-78" r="3" fill="#f0f4ff"/>
+      <line x1="-20" y1="-75" x2="-22" y2="-45" stroke="#f0f4ff" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="20" cy="-78" r="3" fill="#f0f4ff"/>
+      <line x1="20" y1="-75" x2="22" y2="-45" stroke="#f0f4ff" stroke-width="2" stroke-linecap="round"/>
+
+      <!-- Neck -->
+      <rect x="-16" y="-130" width="32" height="28" rx="8" fill="#d9a273"/>
+
+      <!-- Head -->
+      <g transform="translate(0, -185)">
+        <!-- Hair back -->
+        <path d="M-46 -8 Q-48 -60 -22 -80 Q0 -90 22 -80 Q48 -60 46 -8 Q42 -20 34 -22 L34 6 Q22 -2 0 -4 Q-22 -2 -34 6 L-34 -22 Q-42 -20 -46 -8 Z" fill="url(#hairG)"/>
+        <!-- Face -->
+        <ellipse cx="0" cy="0" rx="42" ry="48" fill="url(#skinG)"/>
+        <!-- Hair front (styled) -->
+        <path d="M-48 -24 Q-44 -62 -22 -78 Q0 -88 22 -78 Q44 -62 48 -24 Q34 -40 18 -42 Q4 -44 -10 -42 Q-32 -40 -48 -24 Z" fill="url(#hairG)"/>
+        <!-- Hair fringe swoop -->
+        <path d="M-30 -68 Q-8 -80 20 -72 Q12 -55 0 -48 Q-15 -55 -30 -68 Z" fill="url(#hairG)"/>
+
+        <!-- Ears -->
+        <ellipse cx="-42" cy="0" rx="6.5" ry="10" fill="#e0ab7c"/>
+        <ellipse cx="42" cy="0" rx="6.5" ry="10" fill="#e0ab7c"/>
+
+        <!-- Eyebrows -->
+        <path d="M-28 -16 Q-20 -19 -12 -16" stroke="#2a1810" stroke-width="2.8" stroke-linecap="round" fill="none"/>
+        <path d="M12 -16 Q20 -19 28 -16" stroke="#2a1810" stroke-width="2.8" stroke-linecap="round" fill="none"/>
+
+        <!-- Eyes with blink -->
+        <g class="eye">
+          <!-- Left eye -->
+          <ellipse cx="-19" cy="-3" rx="6" ry="5.5" fill="#0a0603"/>
+          <ellipse cx="-19" cy="-3" rx="6" ry="5.5" fill="#1a3b8c" opacity=".3"/>
+          <circle cx="-17" cy="-4.5" r="1.8" fill="#ffffff" opacity=".95"/>
+          <circle cx="-21" cy="-1.5" r=".8" fill="#ffffff" opacity=".5"/>
+          <!-- Right eye -->
+          <ellipse cx="19" cy="-3" rx="6" ry="5.5" fill="#0a0603"/>
+          <ellipse cx="19" cy="-3" rx="6" ry="5.5" fill="#1a3b8c" opacity=".3"/>
+          <circle cx="21" cy="-4.5" r="1.8" fill="#ffffff" opacity=".95"/>
+          <circle cx="17" cy="-1.5" r=".8" fill="#ffffff" opacity=".5"/>
+        </g>
+
+        <!-- Nose -->
+        <path d="M-3 10 Q0 15 3 10" stroke="#b8845a" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+
+        <!-- Friendly smile -->
+        <path d="M-13 24 Q0 33 13 24" stroke="#8b5a3a" stroke-width="2.4" stroke-linecap="round" fill="none"/>
+
+        <!-- Blush -->
+        <ellipse cx="-28" cy="15" rx="7" ry="4" fill="#f472b6" opacity=".25"/>
+        <ellipse cx="28" cy="15" rx="7" ry="4" fill="#f472b6" opacity=".25"/>
+      </g>
+
+      <!-- ═══ LEFT ARM (bent, resting on desk) ═══ -->
+      <g>
+        <!-- Upper arm -->
+        <path d="M-70 -50 Q-105 -20 -100 30 L-95 55" 
+              stroke="url(#hoodieG)" stroke-width="30" stroke-linecap="round" fill="none"/>
+        <!-- Forearm / hand -->
+        <ellipse cx="-88" cy="62" rx="16" ry="11" fill="#e0ab7c"/>
+        <!-- Fingers hint -->
+        <path d="M-100 62 Q-100 68 -95 68" stroke="#b8845a" stroke-width="1.2" fill="none" opacity=".6"/>
+        <path d="M-94 64 Q-94 70 -88 70" stroke="#b8845a" stroke-width="1.2" fill="none" opacity=".6"/>
+      </g>
+
+      <!-- ═══ RIGHT ARM (bent, resting on desk) ═══ -->
+      <g>
+        <!-- Upper arm -->
+        <path d="M70 -50 Q105 -20 100 30 L95 55" 
+              stroke="url(#hoodieG)" stroke-width="30" stroke-linecap="round" fill="none"/>
+        <!-- Forearm / hand -->
+        <ellipse cx="88" cy="62" rx="16" ry="11" fill="#e0ab7c"/>
+        <path d="M100 62 Q100 68 95 68" stroke="#b8845a" stroke-width="1.2" fill="none" opacity=".6"/>
+        <path d="M94 64 Q94 70 88 70" stroke="#b8845a" stroke-width="1.2" fill="none" opacity=".6"/>
+      </g>
+
+      <!-- Laptop on desk -->
+      <g transform="translate(0, 62)">
+        <path d="M-95 30 L-85 -55 L85 -55 L95 30 Z" fill="#1a1f2e" stroke="#262a42" stroke-width="1.5"/>
+        <rect x="-77" y="-47" width="154" height="62" rx="4" fill="#0a0e14"/>
+        <text x="-65" y="-30" font-family="ui-monospace,Menlo,monospace" font-size="10" fill="#22d3ee">&lt;code/&gt;</text>
+        <text x="-65" y="-14" font-family="ui-monospace,Menlo,monospace" font-size="10" fill="#a78bfa">build()</text>
+        <text x="-65" y="2" font-family="ui-monospace,Menlo,monospace" font-size="10" fill="#fbbf24">deploy()</text>
+        <rect x="-85" y="28" width="170" height="6" rx="3" fill="#2a3142"/>
+      </g>
+    </g>
+
+    <!-- ═══ DESK (in front of legs) ═══ -->
+    <rect x="780" y="445" width="460" height="95" fill="#1a1f2e"/>
+    <rect x="780" y="445" width="460" height="3" fill="#22d3ee" opacity=".5"/>
+
+    <!-- Monitor (behind boy) -->
     <g transform="translate(1060, 130)">
       <rect x="-100" y="0" width="200" height="150" rx="12" fill="#0a0e14" stroke="#262a42" stroke-width="2"/>
       <rect x="-90" y="10" width="180" height="130" rx="6" fill="url(#screenG)"/>
 
-      <!-- Code on screen -->
       <g clip-path="url(#screenClip)" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="9">
         <text x="830" y="30" fill="#22d3ee">public class Dev {</text>
         <text x="840" y="48" fill="#fbbf24">void build() {</text>
@@ -113,91 +236,40 @@
         <rect x="850" y="128" width="6" height="10" fill="#22d3ee" class="cursor"/>
       </g>
 
-      <!-- Scanline -->
       <g clip-path="url(#screenClip)">
         <rect class="scanline" x="820" y="150" width="280" height="25" fill="#22d3ee" opacity=".1"/>
       </g>
 
-      <!-- Monitor stand -->
       <rect x="1090" y="280" width="40" height="20" fill="#1a1f2e"/>
       <rect x="1060" y="298" width="100" height="6" rx="3" fill="#1a1f2e"/>
     </g>
 
-    <!-- Boy character (properly sized, seated at desk) -->
-    <g transform="translate(920, 380)">
-
-      <!-- Body / hoodie -->
-      <path d="M-70 60 L-65 -20 Q-60 -60 -35 -75 L35 -75 Q60 -60 65 -20 L70 60 Z" fill="url(#shirtG)"/>
-      <!-- Hoodie pocket -->
-      <path d="M-35 0 L35 0 L30 45 L-30 45 Z" fill="#1e40af" opacity=".5"/>
-      <!-- Hoodie collar -->
-      <path d="M-45 -60 Q-20 -80 0 -80 Q20 -80 45 -60 Q25 -70 0 -72 Q-25 -70 -45 -60 Z" fill="#1e40af" opacity=".7"/>
-
-      <!-- Neck -->
-      <rect x="-15" y="-95" width="30" height="25" rx="8" fill="#d9a273"/>
-
-      <!-- Head -->
-      <g transform="translate(0, -150)">
-        <!-- Hair back -->
-        <path d="M-42 -8 Q-44 -55 -22 -72 Q0 -82 22 -72 Q44 -55 42 -8 Q38 -18 30 -20 L30 4 Q20 -4 0 -6 Q-20 -4 -30 4 L-30 -20 Q-38 -18 -42 -8 Z" fill="url(#hairG)"/>
-        <!-- Face -->
-        <ellipse cx="0" cy="0" rx="38" ry="45" fill="url(#skinG)"/>
-        <!-- Hair front -->
-        <path d="M-44 -22 Q-40 -55 -22 -70 Q0 -80 22 -70 Q40 -55 44 -22 Q30 -35 15 -33 Q0 -31 -15 -33 Q-30 -35 -44 -22 Z" fill="url(#hairG)"/>
-        <!-- Fringe -->
-        <path d="M-22 -55 Q-8 -65 15 -58 Q6 -45 0 -40 Q-12 -45 -22 -55 Z" fill="url(#hairG)"/>
-
-        <!-- Ears -->
-        <ellipse cx="-38" cy="0" rx="6" ry="9" fill="#d9a273"/>
-        <ellipse cx="38" cy="0" rx="6" ry="9" fill="#d9a273"/>
-
-        <!-- Eyebrows -->
-        <path d="M-25 -14 Q-17 -17 -10 -14" stroke="#1a0f08" stroke-width="2.5" stroke-linecap="round" fill="none"/>
-        <path d="M10 -14 Q17 -17 25 -14" stroke="#1a0f08" stroke-width="2.5" stroke-linecap="round" fill="none"/>
-
-        <!-- Eyes with blink -->
-        <g class="eye">
-          <ellipse cx="-17" cy="-3" rx="5" ry="4" fill="#1a0f08"/>
-          <ellipse cx="17" cy="-3" rx="5" ry="4" fill="#1a0f08"/>
-          <circle cx="-15.5" cy="-4.5" r="1.4" fill="#ffffff" opacity=".9"/>
-          <circle cx="18.5" cy="-4.5" r="1.4" fill="#ffffff" opacity=".9"/>
-        </g>
-
-        <!-- Nose -->
-        <path d="M-2 8 Q0 12 2 8" stroke="#b8845a" stroke-width="1.6" stroke-linecap="round" fill="none"/>
-
-        <!-- Smile -->
-        <path d="M-11 20 Q0 28 11 20" stroke="#8b5a3a" stroke-width="2" stroke-linecap="round" fill="none"/>
-
-        <!-- Blush -->
-        <ellipse cx="-25" cy="12" rx="6" ry="3.5" fill="#f472b6" opacity=".28"/>
-        <ellipse cx="25" cy="12" rx="6" ry="3.5" fill="#f472b6" opacity=".28"/>
-      </g>
-
-      <!-- Arms resting at desk -->
-      <path d="M-65 -40 Q-100 -10 -95 40 Q-92 60 -75 62" fill="none" stroke="url(#shirtG)" stroke-width="24" stroke-linecap="round"/>
-      <ellipse cx="-72" cy="64" rx="13" ry="9" fill="#f4c9a0"/>
-      <path d="M65 -40 Q100 -10 95 40 Q92 60 75 62" fill="none" stroke="url(#shirtG)" stroke-width="24" stroke-linecap="round"/>
-      <ellipse cx="72" cy="64" rx="13" ry="9" fill="#f4c9a0"/>
-
-      <!-- Laptop on desk -->
-      <g transform="translate(0, 70)">
-        <path d="M-85 25 L-75 -50 L75 -50 L85 25 Z" fill="#1a1f2e" stroke="#262a42" stroke-width="1.5"/>
-        <rect x="-68" y="-42" width="136" height="55" rx="4" fill="#0a0e14"/>
-        <text x="-56" y="-25" font-family="ui-monospace,Menlo,monospace" font-size="9" fill="#22d3ee">&lt;code/&gt;</text>
-        <text x="-56" y="-11" font-family="ui-monospace,Menlo,monospace" font-size="9" fill="#a78bfa">build()</text>
-        <text x="-56" y="3" font-family="ui-monospace,Menlo,monospace" font-size="9" fill="#fbbf24">deploy()</text>
-        <rect x="-75" y="23" width="150" height="5" rx="2.5" fill="#2a3142"/>
-      </g>
-
-      <!-- Legs under desk -->
-      <rect x="-45" y="60" width="20" height="50" fill="#1e293b"/>
-      <rect x="25" y="60" width="20" height="50" fill="#1e293b"/>
-      <ellipse cx="-35" cy="112" rx="18" ry="6" fill="#0f172a"/>
-      <ellipse cx="35" cy="112" rx="18" ry="6" fill="#0f172a"/>
+    <!-- Coffee mug with steam -->
+    <g transform="translate(800, 425)">
+      <ellipse cx="0" cy="18" rx="12" ry="3" fill="#000" opacity=".4"/>
+      <rect x="-11" y="0" width="22" height="18" rx="3" fill="#2a3142"/>
+      <ellipse cx="0" cy="0" rx="11" ry="3" fill="#3a4152"/>
+      <ellipse cx="0" cy="0" rx="7" ry="2" fill="#5a2f1e"/>
+      <path d="M11 5 Q18 9 11 13" fill="none" stroke="#2a3142" stroke-width="2.4"/>
+      <path d="M-3 -8 Q-5 -15 -2 -20" stroke="#8d93ab" stroke-width="1.2" fill="none" opacity=".5">
+        <animate attributeName="opacity" values=".1;.6;.1" dur="3s" repeatCount="indefinite"/>
+      </path>
+      <path d="M3 -8 Q5 -16 2 -22" stroke="#8d93ab" stroke-width="1.2" fill="none" opacity=".5">
+        <animate attributeName="opacity" values=".5;.1;.5" dur="3.5s" repeatCount="indefinite"/>
+      </path>
     </g>
 
-    <!-- Floating tech chips (positioned in empty spaces) -->
+    <!-- Plant -->
+    <g transform="translate(1210, 400)">
+      <path d="M-11 30 L11 30 L8 48 L-8 48 Z" fill="#4a2e1e"/>
+      <path d="M-11 30 L11 30 L10 33 L-10 33 Z" fill="#5a3a2a"/>
+      <path d="M0 30 Q-12 12 -7 -2 Q2 8 0 22" fill="#22c55e" opacity=".9"/>
+      <path d="M0 30 Q12 10 5 -4 Q-2 10 0 22" fill="#34d399" opacity=".9"/>
+      <path d="M0 30 Q-18 18 -14 4 Q-4 14 -2 24" fill="#22c55e" opacity=".75"/>
+      <path d="M0 30 Q18 16 12 2 Q2 12 0 24" fill="#34d399" opacity=".75"/>
+    </g>
+
+    <!-- Floating tech chips -->
     <g class="float" style="animation-delay:0s">
       <rect x="770" y="90" width="90" height="30" rx="10" fill="#f89820" fill-opacity=".14" stroke="#f89820" stroke-opacity=".55"/>
       <circle cx="786" cy="105" r="4" fill="#f89820"/>
@@ -220,7 +292,7 @@
     </g>
   </g>
 
-  <!-- Viewfinder HUD (corners) -->
+  <!-- Viewfinder HUD -->
   <path class="corner" d="M760 74V40H794" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.3s"/>
   <path class="corner" d="M1236 74V40H1202" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.38s"/>
   <path class="corner" d="M760 466V500H794" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.46s"/>
@@ -256,18 +328,15 @@
     <animate attributeName="width" values="0;0;120" keyTimes="0;.68;1" dur="2.5s" begin="0s" fill="freeze"/>
   </rect>
 
-  <!-- Cycling roles -->
   <text class="jbb fi" x="64" y="384" font-size="20" fill="#22d3ee" style="animation-delay:1.8s">&gt;</text>
   <text class="role jb" x="90" y="384" font-size="20" fill="#eceef6" opacity="1" style="animation-delay:1.9s">Java Full Stack Developer</text>
   <text class="role jb" x="90" y="384" font-size="20" fill="#eceef6" opacity="0" style="animation-delay:4.9s">Spring Boot &amp; React Builder</text>
   <text class="role jb" x="90" y="384" font-size="20" fill="#eceef6" opacity="0" style="animation-delay:7.9s">AI &amp; Data Science Enthusiast</text>
   <text class="role jb" x="90" y="384" font-size="20" fill="#eceef6" opacity="0" style="animation-delay:10.9s">Problem Solver · 150+ DSA</text>
 
-  <!-- Bio -->
   <text class="sgm fu" x="64" y="428" font-size="16" fill="#8d93ab" style="animation-delay:2.5s">Building clean, scalable full-stack apps with Java, Spring Boot &amp; React —</text>
   <text class="sgm fu" x="64" y="450" font-size="16" fill="#8d93ab" style="animation-delay:2.62s">and AI-powered tools that solve real-world problems.</text>
 
-  <!-- Info pills -->
   <g class="fu" style="animation-delay:3.0s">
     <g transform="translate(72,488)">
       <path d="M0-8a6 6 0 0 1 6 6c0 4.5-6 10-6 10s-6-5.5-6-10a6 6 0 0 1 6-6z" fill="none" stroke="#22d3ee" stroke-width="1.8"/>

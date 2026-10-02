@@ -1,28 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 600" width="1280" height="600" role="img" aria-label="Dharmanath Kadam — Developer ID and dashboard">
-<title>Dharmanath Kadam — Developer ID and Dashboard</title>
-<desc>Swinging holographic ID badge beside a dashboard showing role, base, focus, status, tech stack, current builds and quick facts.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Dharmanath Kadam — Developer ID Card">
+<title>Dharmanath Kadam — Developer ID Card</title>
 <defs>
   <style>
     .sg{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-weight:700}
     .sgm{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-weight:500}
     .jb{font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace}
     .jbb{font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace;font-weight:700}
-    @keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
-    @keyframes sway{0%,100%{transform:rotate(-1.9deg)}50%{transform:rotate(1.9deg)}}
-    @keyframes drop{0%{transform:translateY(-640px) rotate(0deg)}22%{transform:translateY(0) rotate(0deg)}42%{transform:rotate(3.4deg)}62%{transform:rotate(-2.2deg)}80%{transform:rotate(1.2deg)}100%{transform:rotate(0deg)}}
-    @keyframes foil{0%{transform:translateX(-320px)}55%,100%{transform:translateX(360px)}}
-    .swing{transform-box:view-box;transform-origin:212px -30px;animation:drop 2.6s cubic-bezier(.3,1,.5,1) forwards, sway 6s ease-in-out 2.6s infinite}
+    @keyframes sway{0%,100%{transform:rotate(-1.5deg)}50%{transform:rotate(1.5deg)}}
+    @keyframes drop{0%{transform:translateY(-900px) rotate(0deg)}22%{transform:translateY(0) rotate(0deg)}42%{transform:rotate(3deg)}62%{transform:rotate(-2deg)}80%{transform:rotate(1deg)}100%{transform:rotate(0deg)}}
+    @keyframes foil{0%{transform:translateX(-500px)}55%,100%{transform:translateX(500px)}}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+    @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+    .swing{transform-box:view-box;transform-origin:400px -60px;animation:drop 2.6s cubic-bezier(.3,1,.5,1) forwards, sway 6s ease-in-out 2.6s infinite}
     .foil{animation:foil 6s ease-in-out infinite}
-    .fu{animation:fadeUp .7s cubic-bezier(.2,.8,.2,1) both}
+    .cursor{animation:blink 1s steps(1) infinite}
     @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}
   </style>
   <linearGradient id="cardbg" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0" stop-color="#171a2c"/><stop offset="1" stop-color="#121423"/>
-  </linearGradient>
-  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#a78bfa" stop-opacity=".5"/>
-    <stop offset=".5" stop-color="#262a42"/>
-    <stop offset="1" stop-color="#22d3ee" stop-opacity=".5"/>
   </linearGradient>
   <linearGradient id="strapG" x1="0" y1="0" x2="1" y2="0">
     <stop offset="0" stop-color="#7c3aed"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#7c3aed"/>
@@ -32,9 +27,9 @@
   </linearGradient>
   <linearGradient id="foilG" x1="0" y1="0" x2="1" y2="0">
     <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
-    <stop offset=".35" stop-color="#22d3ee" stop-opacity=".16"/>
-    <stop offset=".5" stop-color="#ffffff" stop-opacity=".2"/>
-    <stop offset=".65" stop-color="#f472b6" stop-opacity=".16"/>
+    <stop offset=".35" stop-color="#22d3ee" stop-opacity=".18"/>
+    <stop offset=".5" stop-color="#ffffff" stop-opacity=".22"/>
+    <stop offset=".65" stop-color="#f472b6" stop-opacity=".18"/>
     <stop offset="1" stop-color="#f472b6" stop-opacity="0"/>
   </linearGradient>
   <linearGradient id="ringG" x1="0" y1="0" x2="1" y2="1">
@@ -50,200 +45,144 @@
   <linearGradient id="avatarG" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#3b82f6"/><stop offset=".55" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/>
   </linearGradient>
-  <linearGradient id="barG" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#a78bfa" stop-opacity=".6"/><stop offset=".5" stop-color="#262a42"/><stop offset="1" stop-color="#22d3ee" stop-opacity=".6"/>
   </linearGradient>
-  <pattern id="dots4" width="22" height="22" patternUnits="userSpaceOnUse">
-    <circle cx="11" cy="11" r=".8" fill="#ffffff" fill-opacity=".05"/>
+  <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+    <circle cx="13" cy="13" r=".9" fill="#ffffff" fill-opacity=".06"/>
   </pattern>
   <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
-    <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#000" flood-opacity=".55"/>
+    <feDropShadow dx="0" dy="20" stdDeviation="22" flood-color="#000" flood-opacity=".6"/>
   </filter>
+  <clipPath id="cardClip"><rect x="100" y="150" width="600" height="800" rx="40"/></clipPath>
 </defs>
 
 <!-- Background -->
-<rect width="1280" height="600" rx="24" fill="url(#cardbg)"/>
-<rect width="1280" height="600" rx="24" fill="url(#dots4)"/>
-<rect x=".75" y=".75" width="1278.5" height="598.5" rx="23.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+<rect width="800" height="1000" rx="28" fill="url(#cardbg)"/>
+<rect width="800" height="1000" rx="28" fill="url(#dots)"/>
+<rect x=".75" y=".75" width="798.5" height="998.5" rx="27.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
 
-<!-- Right side: header -->
-<g class="fu" style="animation-delay:.15s">
-  <text class="jbb" x="420" y="54" font-size="12.5" fill="#a78bfa" letter-spacing="2.2">// DEVELOPER PROFILE</text>
-  <text class="sg" x="420" y="94" font-size="29" fill="#eceef6" letter-spacing="-.5">Dharmanath Kadam</text>
-  <text class="sgm" x="420" y="118" font-size="14" fill="#8d93ab">Java Full Stack Developer · AI &amp; Data Science</text>
-</g>
-
-<!-- Top row: 4 stat tiles -->
-<g class="fu" style="animation-delay:.3s">
-  <rect x="420" y="150" width="194" height="96" rx="16" fill="#ffffff" fill-opacity=".03" stroke="#262a42"/>
-  <text class="jbb" x="438" y="180" font-size="10" fill="#22d3ee" letter-spacing="1.6">ROLE</text>
-  <text class="sg"  x="438" y="214" font-size="20" fill="#eceef6">Full Stack</text>
-  <text class="jb"  x="438" y="234" font-size="10.5" fill="#8d93ab" letter-spacing="1.2">DEV · 3+ YRS</text>
-</g>
-<g class="fu" style="animation-delay:.4s">
-  <rect x="628.5" y="150" width="194" height="96" rx="16" fill="#ffffff" fill-opacity=".03" stroke="#262a42"/>
-  <text class="jbb" x="646.5" y="180" font-size="10" fill="#fbbf24" letter-spacing="1.6">BASE</text>
-  <text class="sg"  x="646.5" y="214" font-size="20" fill="#eceef6">Pune, India</text>
-  <text class="jb"  x="646.5" y="234" font-size="10.5" fill="#8d93ab" letter-spacing="1.2">IST · UTC+5:30</text>
-</g>
-<g class="fu" style="animation-delay:.5s">
-  <rect x="837" y="150" width="194" height="96" rx="16" fill="#ffffff" fill-opacity=".03" stroke="#262a42"/>
-  <text class="jbb" x="855" y="180" font-size="10" fill="#a78bfa" letter-spacing="1.6">FOCUS</text>
-  <text class="sg"  x="855" y="214" font-size="20" fill="#eceef6">AI · ML</text>
-  <text class="jb"  x="855" y="234" font-size="10.5" fill="#8d93ab" letter-spacing="1.2">GENAI · DATA</text>
-</g>
-<g class="fu" style="animation-delay:.6s">
-  <rect x="1045.5" y="150" width="194" height="96" rx="16" fill="#ffffff" fill-opacity=".03" stroke="#262a42"/>
-  <text class="jbb" x="1063.5" y="180" font-size="10" fill="#f472b6" letter-spacing="1.6">STATUS</text>
-  <text class="sg"  x="1063.5" y="214" font-size="20" fill="#eceef6">Open</text>
-  <text class="jb"  x="1063.5" y="234" font-size="10.5" fill="#8d93ab" letter-spacing="1.2">TO WORK</text>
-</g>
-
-<!-- Tech stack card -->
-<g class="fu" style="animation-delay:.75s">
-  <rect x="420" y="270" width="462" height="288" rx="16" fill="#ffffff" fill-opacity=".03" stroke="#262a42"/>
-  <text class="jbb" x="442" y="302" font-size="11" fill="#8d93ab" letter-spacing="1.6">CORE TECH STACK</text>
-
-  <text class="jb" x="442" y="341" font-size="12" fill="#8d93ab">Java + Spring Boot</text>
-  <rect x="592" y="330" width="210" height="14" rx="7" fill="#ffffff" fill-opacity=".04"/>
-  <rect x="592" y="330" width="210" height="14" rx="7" fill="url(#barG)"/>
-  <text class="jbb" x="812" y="341" font-size="12" fill="#eceef6">95</text>
-
-  <text class="jb" x="442" y="375" font-size="12" fill="#8d93ab">React + JavaScript</text>
-  <rect x="592" y="364" width="210" height="14" rx="7" fill="#ffffff" fill-opacity=".04"/>
-  <rect x="592" y="364" width="189" height="14" rx="7" fill="url(#barG)"/>
-  <text class="jbb" x="791" y="375" font-size="12" fill="#eceef6">90</text>
-
-  <text class="jb" x="442" y="409" font-size="12" fill="#8d93ab">MySQL + Hibernate</text>
-  <rect x="592" y="398" width="210" height="14" rx="7" fill="#ffffff" fill-opacity=".04"/>
-  <rect x="592" y="398" width="178" height="14" rx="7" fill="url(#barG)"/>
-  <text class="jbb" x="780" y="409" font-size="12" fill="#eceef6">85</text>
-
-  <text class="jb" x="442" y="443" font-size="12" fill="#8d93ab">Python + Machine Learning</text>
-  <rect x="592" y="432" width="210" height="14" rx="7" fill="#ffffff" fill-opacity=".04"/>
-  <rect x="592" y="432" width="168" height="14" rx="7" fill="url(#barG)"/>
-  <text class="jbb" x="770" y="443" font-size="12" fill="#eceef6">80</text>
-
-  <text class="jb" x="442" y="477" font-size="12" fill="#8d93ab">Docker + Git</text>
-  <rect x="592" y="466" width="210" height="14" rx="7" fill="#ffffff" fill-opacity=".04"/>
-  <rect x="592" y="466" width="147" height="14" rx="7" fill="url(#barG)"/>
-  <text class="jbb" x="749" y="477" font-size="12" fill="#eceef6">70</text>
-
-  <text class="jb" x="442" y="526" font-size="10" fill="#8d93ab" opacity=".75">self-rated proficiency · based on project work</text>
-</g>
-
-<!-- Now building card -->
-<g class="fu" style="animation-delay:.9s">
-  <rect x="914" y="270" width="304" height="140" rx="16" fill="#ffffff" fill-opacity=".03" stroke="#262a42"/>
-  <text class="jbb" x="936" y="302" font-size="11" fill="#22d3ee" letter-spacing="1.6">NOW BUILDING</text>
-  <circle cx="940" cy="330" r="3.5" fill="#22d3ee"><animate attributeName="opacity" values="1;.3;1" dur="2.4s" repeatCount="indefinite"/></circle>
-  <text class="sgm" x="954" y="334" font-size="13" fill="#eceef6">Full Stack Web Apps</text>
-  <circle cx="940" cy="358" r="3.5" fill="#a78bfa"><animate attributeName="opacity" values="1;.3;1" dur="2.8s" repeatCount="indefinite"/></circle>
-  <text class="sgm" x="954" y="362" font-size="13" fill="#eceef6">AI-Powered Tools</text>
-  <circle cx="940" cy="386" r="3.5" fill="#f472b6"><animate attributeName="opacity" values="1;.3;1" dur="3.2s" repeatCount="indefinite"/></circle>
-  <text class="sgm" x="954" y="390" font-size="13" fill="#eceef6">Data Science Projects</text>
-</g>
-
-<!-- Quick facts card -->
-<g class="fu" style="animation-delay:1.05s">
-  <rect x="914" y="424" width="304" height="134" rx="16" fill="#ffffff" fill-opacity=".03" stroke="#262a42"/>
-  <text class="jbb" x="936" y="456" font-size="11" fill="#fbbf24" letter-spacing="1.6">QUICK FACTS</text>
-  <text class="jb" x="936" y="484" font-size="11" fill="#8d93ab" letter-spacing="1.4">DSA</text>
-  <text class="sg" x="1000" y="484" font-size="13" fill="#eceef6">150+ problems</text>
-  <text class="jb" x="936" y="508" font-size="11" fill="#8d93ab" letter-spacing="1.4">RANK</text>
-  <text class="sg" x="1000" y="508" font-size="13" fill="#eceef6">1st · B.Tech 2nd Yr</text>
-  <text class="jb" x="936" y="532" font-size="11" fill="#8d93ab" letter-spacing="1.4">SCORE</text>
-  <text class="sg" x="1000" y="532" font-size="13" fill="#eceef6">84.20%</text>
-</g>
-
-<!-- ═══ SWINGING ID CARD ═══ -->
+<!-- ═══ SWINGING BIG ID CARD ═══ -->
 <g class="swing">
 
   <!-- Lanyard strap -->
-  <path d="M192 -40 L232 -40 L229 104 L195 104 Z" fill="url(#strapG)"/>
-  <text class="jbb" font-size="9" fill="#ffffff" fill-opacity=".85" letter-spacing="2.4" transform="translate(216,-30) rotate(90)">DK · JAVA DEV · DK</text>
+  <path d="M370 -60 L430 -60 L420 130 L380 130 Z" fill="url(#strapG)"/>
+  <text class="jbb" font-size="14" fill="#ffffff" fill-opacity=".9" letter-spacing="3" transform="translate(405,-50) rotate(90)">DK · JAVA DEV · DK · JAVA DEV · DK</text>
 
   <!-- Metal clip -->
-  <rect x="186" y="102" width="52" height="24" rx="6" fill="url(#metal)"/>
-  <rect x="200" y="108" width="24" height="7" rx="3.5" fill="#394050" fill-opacity=".12"/>
-  <circle cx="212" cy="140" r="13" fill="none" stroke="url(#metal)" stroke-width="5"/>
+  <rect x="360" y="128" width="80" height="34" rx="8" fill="url(#metal)"/>
+  <rect x="382" y="136" width="36" height="10" rx="5" fill="#394050" fill-opacity=".15"/>
+  <circle cx="400" cy="180" r="18" fill="none" stroke="url(#metal)" stroke-width="7"/>
 
   <!-- Card body -->
   <g filter="url(#shadow)">
-    <rect x="56" y="150" width="312" height="424" rx="22" fill="url(#idbg)" stroke="url(#ringG)" stroke-opacity=".55" stroke-width="1.5"/>
+    <rect x="100" y="200" width="600" height="740" rx="40" fill="url(#idbg)" stroke="url(#ringG)" stroke-opacity=".6" stroke-width="2.5"/>
   </g>
 
   <!-- Card header -->
-  <text class="jbb" x="76" y="174" font-size="10.5" fill="#22d3ee" letter-spacing="2">DEVELOPER ID</text>
-  <text class="jb"  x="348" y="174" font-size="10.5" fill="#8d93ab" text-anchor="end" letter-spacing="1.4">v2.0</text>
+  <g clip-path="url(#cardClip)">
+    <text class="jbb" x="140" y="250" font-size="20" fill="#22d3ee" letter-spacing="4">DEVELOPER ID</text>
+    <text class="jb"  x="660" y="250" font-size="18" fill="#8d93ab" text-anchor="end" letter-spacing="2">v2.0</text>
 
-  <!-- Avatar frame with DK initials -->
-  <rect x="140" y="200" width="144" height="176" rx="20" fill="none" stroke="url(#ringG)" stroke-opacity=".75" stroke-width="2"/>
-  <rect x="146" y="206" width="132" height="164" rx="16" fill="url(#avatarG)"/>
-  <text class="sg" x="212" y="310" font-size="66" fill="#ffffff" text-anchor="middle" letter-spacing="2">DK</text>
+    <!-- Avatar frame -->
+    <rect x="300" y="300" width="200" height="240" rx="28" fill="none" stroke="url(#ringG)" stroke-opacity=".8" stroke-width="3"/>
+    <rect x="308" y="308" width="184" height="224" rx="22" fill="url(#avatarG)"/>
+    <text class="sg" x="400" y="465" font-size="110" fill="#ffffff" text-anchor="middle" letter-spacing="4">DK</text>
 
-  <!-- Chip -->
-  <rect x="80" y="212" width="34" height="26" rx="5" fill="url(#chipG)"/>
-  <path d="M80 221h34M97 212v26" stroke="#8a6a1e" stroke-width="1" stroke-opacity=".6"/>
+    <!-- Gold chip on left -->
+    <rect x="140" y="320" width="52" height="40" rx="8" fill="url(#chipG)"/>
+    <path d="M140 333h52M166 320v40" stroke="#8a6a1e" stroke-width="1.4" stroke-opacity=".7"/>
 
-  <!-- Signal waves -->
-  <g stroke="#34d399" stroke-width="1.6" fill="none" opacity=".9" transform="translate(310,226)">
-    <path d="M0-8a11 11 0 0 1 0 16"/>
-    <path d="M-5-5a6.5 6.5 0 0 1 0 10"/>
-    <circle cx="-9" cy="0" r="1.6" fill="#34d399" stroke="none"/>
+    <!-- Signal waves right -->
+    <g stroke="#34d399" stroke-width="2.6" fill="none" opacity=".95" transform="translate(660,340)">
+      <path d="M0-14a20 20 0 0 1 0 28"/>
+      <path d="M-9-9a13 13 0 0 1 0 18"/>
+      <circle cx="-16" cy="0" r="3" fill="#34d399" stroke="none"/>
+    </g>
+
+    <!-- Name -->
+    <text class="sg" x="400" y="620" font-size="44" fill="#eceef6" text-anchor="middle" letter-spacing="1">DHARMANATH</text>
+    <text class="sg" x="400" y="672" font-size="44" fill="#eceef6" text-anchor="middle" letter-spacing="1">KADAM</text>
+
+    <!-- Role pill -->
+    <rect x="240" y="700" width="320" height="48" rx="24" fill="#a78bfa" fill-opacity=".14" stroke="#a78bfa" stroke-opacity=".6" stroke-width="1.5"/>
+    <text class="jb" x="400" y="731" font-size="19" fill="#a78bfa" text-anchor="middle" letter-spacing="3">JAVA FULL STACK DEV</text>
+
+    <!-- Divider -->
+    <line x1="140" y1="785" x2="660" y2="785" stroke="#262a42" stroke-width="1.5"/>
+
+    <!-- Info grid -->
+    <text class="jb"  x="150" y="825" font-size="14" fill="#8d93ab" letter-spacing="2.5">BASE</text>
+    <text class="sgm" x="150" y="855" font-size="22" fill="#eceef6">Pune, India</text>
+
+    <text class="jb"  x="440" y="825" font-size="14" fill="#8d93ab" letter-spacing="2.5">MODE</text>
+    <text class="sgm" x="440" y="855" font-size="22" fill="#eceef6">Hybrid / Remote</text>
+
+    <text class="jb"  x="150" y="905" font-size="14" fill="#8d93ab" letter-spacing="2.5">ID</text>
+    <text class="sgm" x="150" y="935" font-size="22" fill="#eceef6">DK-2025-JFS</text>
+
+    <text class="jb"  x="440" y="905" font-size="14" fill="#8d93ab" letter-spacing="2.5">STACK</text>
+    <text class="sgm" x="440" y="935" font-size="22" fill="#eceef6">Java · Spring · React</text>
+
+    <!-- Barcode -->
+    <g fill="#eceef6" fill-opacity=".85">
+      <rect x="150" y="1055" width="4" height="24"/>
+      <rect x="158" y="1055" width="2.4" height="24"/>
+      <rect x="164" y="1055" width="2.4" height="24"/>
+      <rect x="170" y="1055" width="2.4" height="24"/>
+      <rect x="176" y="1055" width="6" height="24"/>
+      <rect x="186" y="1055" width="2.4" height="24"/>
+      <rect x="192" y="1055" width="6" height="24"/>
+      <rect x="202" y="1055" width="2.4" height="24"/>
+      <rect x="208" y="1055" width="6" height="24"/>
+      <rect x="218" y="1055" width="2.4" height="24"/>
+      <rect x="224" y="1055" width="4" height="24"/>
+      <rect x="232" y="1055" width="2.4" height="24"/>
+      <rect x="238" y="1055" width="2.4" height="24"/>
+      <rect x="244" y="1055" width="4" height="24"/>
+      <rect x="252" y="1055" width="4" height="24"/>
+      <rect x="260" y="1055" width="2.4" height="24"/>
+      <rect x="266" y="1055" width="2.4" height="24"/>
+      <rect x="272" y="1055" width="2.4" height="24"/>
+      <rect x="278" y="1055" width="2.4" height="24"/>
+      <rect x="284" y="1055" width="4" height="24"/>
+      <rect x="292" y="1055" width="2.4" height="24"/>
+      <rect x="298" y="1055" width="6" height="24"/>
+      <rect x="308" y="1055" width="2.4" height="24"/>
+      <rect x="314" y="1055" width="6" height="24"/>
+      <rect x="324" y="1055" width="6" height="24"/>
+      <rect x="334" y="1055" width="2.4" height="24"/>
+      <rect x="340" y="1055" width="6" height="24"/>
+      <rect x="350" y="1055" width="2.4" height="24"/>
+      <rect x="356" y="1055" width="2.4" height="24"/>
+      <rect x="362" y="1055" width="2.4" height="24"/>
+      <rect x="368" y="1055" width="2.4" height="24"/>
+      <rect x="374" y="1055" width="2.4" height="24"/>
+      <rect x="380" y="1055" width="2.4" height="24"/>
+      <rect x="386" y="1055" width="2.4" height="24"/>
+      <rect x="392" y="1055" width="4" height="24"/>
+      <rect x="400" y="1055" width="2.4" height="24"/>
+      <rect x="406" y="1055" width="2.4" height="24"/>
+      <rect x="412" y="1055" width="6" height="24"/>
+      <rect x="422" y="1055" width="2.4" height="24"/>
+      <rect x="428" y="1055" width="2.4" height="24"/>
+      <rect x="434" y="1055" width="6" height="24"/>
+      <rect x="444" y="1055" width="4" height="24"/>
+      <rect x="452" y="1055" width="2.4" height="24"/>
+      <rect x="458" y="1055" width="6" height="24"/>
+    </g>
+
+    <!-- Handle -->
+    <text class="jb" x="660" y="1070" font-size="16" fill="#8d93ab" text-anchor="end">@dharmanathsk04</text>
+
+    <!-- Holographic foil sweep -->
+    <g class="foil"><rect x="-120" y="200" width="180" height="740" fill="url(#foilG)" transform="skewX(-14)"/></g>
   </g>
 
-  <!-- Name -->
-  <text class="sg" x="212" y="410" font-size="23" fill="#eceef6" text-anchor="middle" letter-spacing=".5">DHARMANATH</text>
-  <text class="sg" x="212" y="438" font-size="23" fill="#eceef6" text-anchor="middle" letter-spacing=".5">KADAM</text>
-
-  <!-- Role pill -->
-  <text class="jb" x="212" y="460" font-size="12" fill="#a78bfa" text-anchor="middle" letter-spacing="1.6">JAVA FULL STACK DEV</text>
-
-  <!-- Divider -->
-  <line x1="82" y1="476" x2="342" y2="476" stroke="#262a42"/>
-
-  <!-- Info grid -->
-  <text class="jb"  x="82"  y="494" font-size="9.5" fill="#8d93ab" letter-spacing="1.6">BASE</text>
-  <text class="sgm" x="82"  y="510" font-size="13" fill="#eceef6">Pune, IN</text>
-  <text class="jb"  x="222" y="494" font-size="9.5" fill="#8d93ab" letter-spacing="1.6">MODE</text>
-  <text class="sgm" x="222" y="510" font-size="13" fill="#eceef6">Remote / On-site</text>
-
-  <text class="jb"  x="82"  y="530" font-size="9.5" fill="#8d93ab" letter-spacing="1.6">ID</text>
-  <text class="sgm" x="82"  y="546" font-size="13" fill="#eceef6">DK-2025-JFS</text>
-  <text class="jb"  x="222" y="530" font-size="9.5" fill="#8d93ab" letter-spacing="1.6">STACK</text>
-  <text class="sgm" x="222" y="546" font-size="13" fill="#eceef6">Java · Spring · React</text>
-
-  <!-- Barcode -->
-  <g fill="#eceef6" fill-opacity=".8">
-    <rect x="82.0" y="556" width="2.4" height="14"/><rect x="86.8" y="556" width="1.4" height="14"/>
-    <rect x="90.6" y="556" width="1.4" height="14"/><rect x="93.6" y="556" width="1.4" height="14"/>
-    <rect x="97.4" y="556" width="3.6" height="14"/><rect x="102.6" y="556" width="1.4" height="14"/>
-    <rect x="107.0" y="556" width="3.6" height="14"/><rect x="112.2" y="556" width="1.4" height="14"/>
-    <rect x="115.2" y="556" width="3.6" height="14"/><rect x="121.2" y="556" width="1.4" height="14"/>
-    <rect x="125.6" y="556" width="2.4" height="14"/><rect x="130.4" y="556" width="1.4" height="14"/>
-    <rect x="134.2" y="556" width="1.4" height="14"/><rect x="138.0" y="556" width="2.4" height="14"/>
-    <rect x="142.8" y="556" width="2.4" height="14"/><rect x="146.8" y="556" width="1.4" height="14"/>
-    <rect x="151.2" y="556" width="1.4" height="14"/><rect x="155.6" y="556" width="1.4" height="14"/>
-    <rect x="160.0" y="556" width="1.4" height="14"/><rect x="163.0" y="556" width="2.4" height="14"/>
-    <rect x="167.8" y="556" width="1.4" height="14"/><rect x="172.2" y="556" width="3.6" height="14"/>
-    <rect x="178.2" y="556" width="1.4" height="14"/><rect x="181.2" y="556" width="3.6" height="14"/>
-    <rect x="187.8" y="556" width="3.6" height="14"/><rect x="194.4" y="556" width="1.4" height="14"/>
-    <rect x="197.4" y="556" width="3.6" height="14"/><rect x="204.0" y="556" width="1.4" height="14"/>
-    <rect x="208.4" y="556" width="1.4" height="14"/><rect x="211.4" y="556" width="1.4" height="14"/>
-    <rect x="215.2" y="556" width="1.4" height="14"/><rect x="218.2" y="556" width="1.4" height="14"/>
-    <rect x="222.0" y="556" width="1.4" height="14"/><rect x="226.4" y="556" width="1.4" height="14"/>
-    <rect x="230.2" y="556" width="2.4" height="14"/><rect x="235.0" y="556" width="1.4" height="14"/>
-    <rect x="239.4" y="556" width="1.4" height="14"/><rect x="242.4" y="556" width="3.6" height="14"/>
-    <rect x="247.6" y="556" width="1.4" height="14"/><rect x="251.4" y="556" width="1.4" height="14"/>
-    <rect x="255.8" y="556" width="3.6" height="14"/><rect x="261.0" y="556" width="2.4" height="14"/>
-    <rect x="266.4" y="556" width="1.4" height="14"/><rect x="270.2" y="556" width="3.6" height="14"/>
+  <!-- Live dot -->
+  <g transform="translate(150, 1085)">
+    <circle r="7" fill="#34d399"><animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <text class="jbb" x="20" y="7" font-size="14" fill="#34d399" letter-spacing="1.5">OPEN TO WORK</text>
   </g>
-
-  <!-- Handle -->
-  <text class="jb" x="344" y="566" font-size="9.5" fill="#8d93ab" text-anchor="end">@dharmanathsk04</text>
-
-  <!-- Holographic foil sweep -->
-  <g class="foil"><rect x="-64" y="150" width="120" height="424" fill="url(#foilG)" transform="skewX(-14)"/></g>
 </g>
 </svg>

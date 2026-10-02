@@ -36,6 +36,16 @@
 
 ---
 
+## 🎬 Hero Banner
+
+<div align="center">
+
+<img src="hero.svg" width="100%" alt="Dharmanath Kadam — Hero Banner"/>
+
+</div>
+
+---
+
 ## 🎴 Developer ID Card
 
 <div align="center">

@@ -57,7 +57,90 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Developer coding GIF"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 440" width="290" height="399" role="img" aria-label="Dharmanath Kadam Developer ID Card">
+  <defs>
+    <linearGradient id="idbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f1e2e"/>
+      <stop offset="0.5" stop-color="#0b1e1a"/>
+      <stop offset="1" stop-color="#1a1030"/>
+    </linearGradient>
+    <linearGradient id="idedge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <linearGradient id="idavatar" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b82f6"/>
+      <stop offset="0.55" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="idshine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="5" y="7" width="310" height="430" rx="22" fill="#000000" opacity="0.55"/>
+  <rect x="0" y="0" width="310" height="430" rx="22" fill="url(#idbg)"/>
+  <rect x="1.2" y="1.2" width="307.6" height="427.6" rx="21" fill="none" stroke="url(#idedge)" stroke-width="2"/>
+  <rect x="0" y="0" width="310" height="430" rx="22" fill="url(#idshine)"/>
+
+  <rect x="130" y="14" width="50" height="12" rx="6" fill="#000000" opacity="0.65"/>
+  <rect x="130" y="14" width="50" height="12" rx="6" fill="none" stroke="#22d3ee" stroke-width="1" opacity="0.55"/>
+
+  <text x="155" y="56" text-anchor="middle" font-family="monospace" font-size="10" fill="#22d3ee" letter-spacing="3">DEVELOPER ID</text>
+
+  <circle cx="155" cy="152" r="60" fill="none" stroke="url(#idedge)" stroke-width="2"/>
+  <circle cx="155" cy="152" r="53" fill="url(#idavatar)"/>
+  <text x="155" y="170" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="40" fill="#ffffff" letter-spacing="1">DK</text>
+
+  <text x="155" y="243" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="21" fill="#ffffff" letter-spacing="0.5">DHARMANATH</text>
+  <text x="155" y="270" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="21" fill="#ffffff" letter-spacing="0.5">KADAM</text>
+
+  <rect x="42" y="288" width="226" height="27" rx="13.5" fill="#3b82f6" opacity="0.18"/>
+  <rect x="42" y="288" width="226" height="27" rx="13.5" fill="none" stroke="#3b82f6" stroke-width="1" opacity="0.7"/>
+  <text x="155" y="306" text-anchor="middle" font-family="monospace" font-size="10" fill="#22d3ee" letter-spacing="2">JAVA FULL STACK DEV</text>
+
+  <line x1="28" y1="336" x2="282" y2="336" stroke="#22d3ee" opacity="0.25" stroke-width="1"/>
+
+  <text x="32" y="358" font-family="monospace" font-size="9" fill="#8d93ab" letter-spacing="1.5">ID</text>
+  <text x="96" y="358" font-family="monospace" font-size="10" fill="#ffffff" font-weight="700">DK-2025-JFS</text>
+
+  <text x="32" y="380" font-family="monospace" font-size="9" fill="#8d93ab" letter-spacing="1.5">STACK</text>
+  <text x="96" y="380" font-family="monospace" font-size="10" fill="#ffffff" font-weight="700">JAVA · SPRING · REACT</text>
+
+  <text x="32" y="402" font-family="monospace" font-size="9" fill="#8d93ab" letter-spacing="1.5">LOC</text>
+  <text x="96" y="402" font-family="monospace" font-size="10" fill="#ffffff" font-weight="700">PUNE · INDIA</text>
+
+  <rect x="32" y="412" width="246" height="14" rx="3" fill="#ffffff" opacity="0.08"/>
+  <g fill="#22d3ee" opacity="0.85">
+    <rect x="38" y="414" width="1.5" height="10"/><rect x="42" y="414" width="2.5" height="10"/>
+    <rect x="47" y="414" width="1" height="10"/><rect x="51" y="414" width="3" height="10"/>
+    <rect x="56" y="414" width="1.5" height="10"/><rect x="61" y="414" width="2" height="10"/>
+    <rect x="66" y="414" width="1" height="10"/><rect x="70" y="414" width="3" height="10"/>
+    <rect x="76" y="414" width="1.5" height="10"/><rect x="81" y="414" width="2" height="10"/>
+    <rect x="86" y="414" width="1" height="10"/><rect x="90" y="414" width="3" height="10"/>
+    <rect x="96" y="414" width="1.5" height="10"/><rect x="101" y="414" width="2.5" height="10"/>
+    <rect x="106" y="414" width="1" height="10"/><rect x="110" y="414" width="3" height="10"/>
+    <rect x="116" y="414" width="1.5" height="10"/><rect x="121" y="414" width="2" height="10"/>
+    <rect x="126" y="414" width="1" height="10"/><rect x="130" y="414" width="3" height="10"/>
+    <rect x="136" y="414" width="1.5" height="10"/><rect x="141" y="414" width="2" height="10"/>
+    <rect x="146" y="414" width="1" height="10"/><rect x="150" y="414" width="3" height="10"/>
+    <rect x="156" y="414" width="1.5" height="10"/><rect x="161" y="414" width="2.5" height="10"/>
+    <rect x="166" y="414" width="1" height="10"/><rect x="170" y="414" width="3" height="10"/>
+    <rect x="176" y="414" width="1.5" height="10"/><rect x="181" y="414" width="2" height="10"/>
+    <rect x="186" y="414" width="1" height="10"/><rect x="190" y="414" width="3" height="10"/>
+    <rect x="196" y="414" width="1.5" height="10"/><rect x="201" y="414" width="2" height="10"/>
+    <rect x="206" y="414" width="1" height="10"/><rect x="210" y="414" width="3" height="10"/>
+    <rect x="216" y="414" width="1.5" height="10"/><rect x="221" y="414" width="2.5" height="10"/>
+    <rect x="226" y="414" width="1" height="10"/><rect x="230" y="414" width="3" height="10"/>
+    <rect x="236" y="414" width="1.5" height="10"/><rect x="241" y="414" width="2" height="10"/>
+    <rect x="246" y="414" width="1" height="10"/><rect x="250" y="414" width="3" height="10"/>
+    <rect x="256" y="414" width="1.5" height="10"/><rect x="261" y="414" width="2" height="10"/>
+    <rect x="266" y="414" width="1" height="10"/><rect x="270" y="414" width="3" height="10"/>
+  </g>
+</svg>
 
 </td>
 </tr>
@@ -136,7 +219,7 @@ Full Stack / Backend / AI-ML roles
 ## 💼 Experience
 
 ### 🔹 Java Full Stack Development Intern — **DASP Private Limited**
-> **Duration:** _(add dates)_ · **Location:** _(add city)_ · **Mode:** On-site
+> **Duration:** 15 July – 15 September · **Location:** Pune, India · **Mode:** Hybrid (On-site & Online)
 
 - Built RESTful APIs with **Spring Boot + Spring Data JPA + Hibernate**
 - Designed and integrated **MySQL** schemas with normalized relationships
@@ -144,14 +227,14 @@ Full Stack / Backend / AI-ML roles
 - **Stack:** `Java` · `Spring Boot` · `JPA` · `Hibernate` · `REST` · `MySQL` · `React`
 
 ### 🔹 Java Full Stack Trainee — **The Kiran Academy**
-> **Duration:** _(add dates)_ · **Mode:** Training
+> **Duration:** Sep 2025 – Mar 2026 (6 Months) · **Location:** Pune, India · **Mode:** Online
 
 - Completed intensive training: **Core Java → Advanced Java → Spring Boot MVC → React**
 - Implemented **Servlet/JSP** apps, JDBC persistence, and layered MVC architectures
 - **Stack:** `Core Java` · `JDBC` · `SQL` · `Hibernate` · `Spring Boot MVC` · `React` · `Servlet/JSP` · `Postman`
 
 ### 🔹 Full Stack Development Intern — **Acmegrade**
-> **Duration:** _(add dates)_ · **Mode:** Remote
+> **Duration:** Feb 2025 – Jun 2025 · **Location:** Karnataka, India · **Mode:** Online
 
 - Worked across frontend, backend, and database layers on live tasks
 - Collaborated with mentors on code reviews and feature iterations

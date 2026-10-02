@@ -278,29 +278,17 @@ Billing application handling products, customers, invoices, and reports with mod
 
 <div align="center">
 
-**⚡ Languages**
+<img src="stack.svg" width="100%" alt="Dharmanath Kadam — Tech Stack"/>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Languages"/>
+</div>
 
-**🌐 Backend & Frameworks**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,flask,maven" alt="Backend"/>
+<div align="center">
 
-**🎨 Frontend**
+**⚡ Quick View**
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" alt="Frontend"/>
-
-**🗄️ Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Databases"/>
-
-**🤖 AI & Data Science**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,jupyter" alt="AI/DS"/>
-
-**🛠️ Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,figma" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,python,js,html,css,mysql,mongodb,docker,git" alt="Core Stack"/>
 
 </div>
 

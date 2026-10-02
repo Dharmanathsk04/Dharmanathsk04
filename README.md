@@ -5,11 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=52&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&height=90&lines=DHARMANATH+KADAM" alt="Dharmanath Kadam"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=1000&height=45&lines=Java+Full+Stack+Developer+%7C+AI+%26+Data+Science+Enthusiast;Spring+Boot+%7C+React+%7C+Python+%7C+Machine+Learning" alt="Role"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=800&color=FBBF24&center=true&vCenter=true&width=1000&height=45&lines=Java+%7C+Spring+Boot+%7C+Hibernate+%7C+React+%7C+MySQL;Building+Full+Stack+%26+AI-Powered+Applications" alt="Tagline"/>
+<img src="hero.svg" width="100%" alt="Dharmanath Kadam — Hero Banner"/>
 
 <br/>
 
@@ -33,16 +29,6 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:3b82f6,100:0b1e1a&height=3" width="100%"/>
-
----
-
-## 🎬 Hero Banner
-
-<div align="center">
-
-<img src="hero.svg" width="100%" alt="Dharmanath Kadam — Hero Banner"/>
-
-</div>
 
 ---
 

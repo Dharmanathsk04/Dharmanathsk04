@@ -13,17 +13,16 @@
     @keyframes drift{from{transform:translate(0,0)}to{transform:translate(40px,-30px)}}
     @keyframes drift2{from{transform:translate(0,0)}to{transform:translate(-50px,26px)}}
     @keyframes draw{from{stroke-dashoffset:60}to{stroke-dashoffset:0}}
-    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
     @keyframes scan{0%{transform:translateY(-100%)}100%{transform:translateY(420px)}}
-    @keyframes eyeBlink{0%,85%,100%{transform:scaleY(1)}90%{transform:scaleY(0.08)}}
-    @keyframes steam{0%{opacity:.6;transform:translateY(0)}100%{opacity:0;transform:translateY(-14px)}}
+    @keyframes eyeBlink{0%,88%,100%{transform:scaleY(1)}92%{transform:scaleY(0.05)}}
+    @keyframes steam{0%{opacity:.5;transform:translateY(0)}100%{opacity:0;transform:translateY(-12px)}}
+    @keyframes wave{0%,100%{transform:rotate(0deg)}50%{transform:rotate(-8deg)}}
     .fu{animation:fadeUp .7s cubic-bezier(.2,.8,.2,1) both}
     .fi{animation:fadeIn .7s ease both}
     .role{animation:role 12s cubic-bezier(.2,.8,.2,1) infinite}
     .cursor{animation:blink 1s steps(1) infinite}
     .blob{animation:drift 14s ease-in-out infinite alternate}
     .blob2{animation:drift2 16s ease-in-out infinite alternate}
-    .float{animation:float 3.5s ease-in-out infinite}
     .corner{stroke-dasharray:60;animation:draw .8s ease both}
     .scanline{animation:scan 4s linear infinite}
     .eye{transform-box:fill-box;transform-origin:center;animation:eyeBlink 4.5s infinite}
@@ -43,16 +42,25 @@
     <stop offset="0" stop-color="#22d3ee" stop-opacity=".5"/><stop offset=".5" stop-color="#262a42"/><stop offset="1" stop-color="#f472b6" stop-opacity=".5"/>
   </linearGradient>
   <linearGradient id="skinG" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#f6cfa6"/><stop offset="1" stop-color="#e0ab7c"/>
+    <stop offset="0" stop-color="#fbd9b6"/><stop offset="1" stop-color="#e8b68a"/>
+  </linearGradient>
+  <linearGradient id="skinShadow" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#e8b68a"/><stop offset="1" stop-color="#d19e70"/>
   </linearGradient>
   <linearGradient id="hairG" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#3a2416"/><stop offset=".5" stop-color="#2a1810"/><stop offset="1" stop-color="#1a0e07"/>
+    <stop offset="0" stop-color="#3d2818"/><stop offset=".6" stop-color="#2a1a0f"/><stop offset="1" stop-color="#1a0e07"/>
+  </linearGradient>
+  <linearGradient id="hairHi" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#5a3d24"/><stop offset="1" stop-color="#3d2818"/>
   </linearGradient>
   <linearGradient id="hoodieG" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#1e40af"/>
+    <stop offset="0" stop-color="#4a8dff"/><stop offset="1" stop-color="#1e40af"/>
   </linearGradient>
-  <linearGradient id="hoodieG2" x1="0" y1="0" x2="0" y2="1">
+  <linearGradient id="hoodieShadow" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0" stop-color="#2563eb"/><stop offset="1" stop-color="#1e3a8a"/>
+  </linearGradient>
+  <linearGradient id="hoodieHi" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#ffffff" stop-opacity=".1"/><stop offset=".5" stop-color="#ffffff" stop-opacity="0"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
   </linearGradient>
   <linearGradient id="screenG" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0" stop-color="#0b1e1a"/><stop offset="1" stop-color="#06100e"/>
@@ -62,6 +70,9 @@
   </radialGradient>
   <radialGradient id="glowP" cx=".5" cy=".5" r=".5">
     <stop offset="0" stop-color="#a78bfa" stop-opacity=".3"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="faceLight" cx=".5" cy=".4" r=".6">
+    <stop offset="0" stop-color="#ffffff" stop-opacity=".15"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
   </radialGradient>
   <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
     <circle cx="13" cy="13" r=".9" fill="#ffffff" fill-opacity=".06"/>
@@ -75,165 +86,44 @@
 </defs>
 
 <g clip-path="url(#card)">
-  <!-- Background -->
   <rect width="1280" height="540" fill="url(#cardG)"/>
   <rect width="1280" height="540" fill="url(#dots)"/>
 
-  <!-- Ambient blobs -->
   <g filter="url(#blur60)" opacity=".55">
     <circle class="blob" cx="170" cy="120" r="150" fill="#22d3ee" fill-opacity=".22"/>
     <circle class="blob2" cx="470" cy="470" r="170" fill="#a78bfa" fill-opacity=".22"/>
     <circle class="blob" cx="1150" cy="80" r="130" fill="#f472b6" fill-opacity=".14"/>
   </g>
 
-  <!-- ═══ RIGHT: BOY DEV SCENE ═══ -->
+  <!-- ═══ RIGHT SIDE SCENE ═══ -->
   <g class="fu" style="animation-delay:.4s">
 
-    <!-- Glow behind scene -->
-    <ellipse cx="1020" cy="380" rx="280" ry="160" fill="url(#glowG)"/>
-    <ellipse cx="1060" cy="180" rx="160" ry="120" fill="url(#glowP)"/>
+    <!-- Ambient glows -->
+    <ellipse cx="1000" cy="360" rx="260" ry="150" fill="url(#glowG)"/>
+    <ellipse cx="1060" cy="160" rx="160" ry="120" fill="url(#glowP)"/>
 
     <!-- Wall clock -->
-    <g transform="translate(1220, 110)" opacity=".7">
-      <circle r="16" fill="#0f1420" stroke="#262a42" stroke-width="1.8"/>
-      <circle r="13" fill="none" stroke="#22d3ee" stroke-opacity=".3" stroke-width=".7"/>
-      <circle r="1.8" fill="#22d3ee"/>
-      <line x1="0" y1="0" x2="0" y2="-9" stroke="#eceef6" stroke-width="1.4" stroke-linecap="round"/>
-      <line x1="0" y1="0" x2="6" y2="3" stroke="#eceef6" stroke-width="1.4" stroke-linecap="round"/>
+    <g transform="translate(1220, 100)" opacity=".75">
+      <circle r="15" fill="#0f1420" stroke="#262a42" stroke-width="1.8"/>
+      <circle r="12" fill="none" stroke="#22d3ee" stroke-opacity=".35" stroke-width=".7"/>
+      <circle r="1.5" fill="#22d3ee"/>
+      <line x1="0" y1="0" x2="0" y2="-8" stroke="#eceef6" stroke-width="1.4" stroke-linecap="round"/>
+      <line x1="0" y1="0" x2="5" y2="3" stroke="#eceef6" stroke-width="1.4" stroke-linecap="round"/>
     </g>
 
-    <!-- Chair back -->
-    <path d="M865 460 Q850 260 935 230 Q1020 260 1005 460 Z" fill="#151a26" stroke="#262a42" stroke-width="1.5"/>
-
-    <!-- ═══ BOY CHARACTER (redesigned) ═══ -->
-    <g transform="translate(935, 430)">
-
-      <!-- Legs (under desk) -->
-      <rect x="-42" y="20" width="26" height="60" rx="6" fill="#1e293b"/>
-      <rect x="16" y="20" width="26" height="60" rx="6" fill="#1e293b"/>
-      <!-- Shoes -->
-      <ellipse cx="-29" cy="85" rx="18" ry="6" fill="#0f172a"/>
-      <ellipse cx="29" cy="85" rx="18" ry="6" fill="#0f172a"/>
-
-      <!-- Body / Hoodie (natural torso shape) -->
-      <path d="M-85 40 
-               Q-88 -30 -60 -85 
-               Q-35 -120 0 -122 
-               Q35 -120 60 -85 
-               Q88 -30 85 40 
-               Q80 65 0 65 
-               Q-80 65 -85 40 Z" 
-            fill="url(#hoodieG)"/>
-      <!-- Hoodie shoulder shading -->
-      <path d="M-85 40 Q-88 -30 -60 -85 Q-35 -110 0 -110 L0 65 Q-80 65 -85 40 Z" fill="url(#hoodieG2)" opacity=".35"/>
-      <!-- Hoodie pocket -->
-      <path d="M-50 5 Q-55 40 -40 55 L40 55 Q55 40 50 5 Z" fill="#1e40af" opacity=".5"/>
-      <!-- Hoodie collar / V-neck -->
-      <path d="M-48 -78 Q-25 -100 0 -102 Q25 -100 48 -78 Q25 -88 0 -90 Q-25 -88 -48 -78 Z" fill="#1e3a8a" opacity=".8"/>
-      <!-- Hood strings -->
-      <circle cx="-20" cy="-78" r="3" fill="#f0f4ff"/>
-      <line x1="-20" y1="-75" x2="-22" y2="-45" stroke="#f0f4ff" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="20" cy="-78" r="3" fill="#f0f4ff"/>
-      <line x1="20" y1="-75" x2="22" y2="-45" stroke="#f0f4ff" stroke-width="2" stroke-linecap="round"/>
-
-      <!-- Neck -->
-      <rect x="-16" y="-130" width="32" height="28" rx="8" fill="#d9a273"/>
-
-      <!-- Head -->
-      <g transform="translate(0, -185)">
-        <!-- Hair back -->
-        <path d="M-46 -8 Q-48 -60 -22 -80 Q0 -90 22 -80 Q48 -60 46 -8 Q42 -20 34 -22 L34 6 Q22 -2 0 -4 Q-22 -2 -34 6 L-34 -22 Q-42 -20 -46 -8 Z" fill="url(#hairG)"/>
-        <!-- Face -->
-        <ellipse cx="0" cy="0" rx="42" ry="48" fill="url(#skinG)"/>
-        <!-- Hair front (styled) -->
-        <path d="M-48 -24 Q-44 -62 -22 -78 Q0 -88 22 -78 Q44 -62 48 -24 Q34 -40 18 -42 Q4 -44 -10 -42 Q-32 -40 -48 -24 Z" fill="url(#hairG)"/>
-        <!-- Hair fringe swoop -->
-        <path d="M-30 -68 Q-8 -80 20 -72 Q12 -55 0 -48 Q-15 -55 -30 -68 Z" fill="url(#hairG)"/>
-
-        <!-- Ears -->
-        <ellipse cx="-42" cy="0" rx="6.5" ry="10" fill="#e0ab7c"/>
-        <ellipse cx="42" cy="0" rx="6.5" ry="10" fill="#e0ab7c"/>
-
-        <!-- Eyebrows -->
-        <path d="M-28 -16 Q-20 -19 -12 -16" stroke="#2a1810" stroke-width="2.8" stroke-linecap="round" fill="none"/>
-        <path d="M12 -16 Q20 -19 28 -16" stroke="#2a1810" stroke-width="2.8" stroke-linecap="round" fill="none"/>
-
-        <!-- Eyes with blink -->
-        <g class="eye">
-          <!-- Left eye -->
-          <ellipse cx="-19" cy="-3" rx="6" ry="5.5" fill="#0a0603"/>
-          <ellipse cx="-19" cy="-3" rx="6" ry="5.5" fill="#1a3b8c" opacity=".3"/>
-          <circle cx="-17" cy="-4.5" r="1.8" fill="#ffffff" opacity=".95"/>
-          <circle cx="-21" cy="-1.5" r=".8" fill="#ffffff" opacity=".5"/>
-          <!-- Right eye -->
-          <ellipse cx="19" cy="-3" rx="6" ry="5.5" fill="#0a0603"/>
-          <ellipse cx="19" cy="-3" rx="6" ry="5.5" fill="#1a3b8c" opacity=".3"/>
-          <circle cx="21" cy="-4.5" r="1.8" fill="#ffffff" opacity=".95"/>
-          <circle cx="17" cy="-1.5" r=".8" fill="#ffffff" opacity=".5"/>
-        </g>
-
-        <!-- Nose -->
-        <path d="M-3 10 Q0 15 3 10" stroke="#b8845a" stroke-width="1.8" stroke-linecap="round" fill="none"/>
-
-        <!-- Friendly smile -->
-        <path d="M-13 24 Q0 33 13 24" stroke="#8b5a3a" stroke-width="2.4" stroke-linecap="round" fill="none"/>
-
-        <!-- Blush -->
-        <ellipse cx="-28" cy="15" rx="7" ry="4" fill="#f472b6" opacity=".25"/>
-        <ellipse cx="28" cy="15" rx="7" ry="4" fill="#f472b6" opacity=".25"/>
-      </g>
-
-      <!-- ═══ LEFT ARM (bent, resting on desk) ═══ -->
-      <g>
-        <!-- Upper arm -->
-        <path d="M-70 -50 Q-105 -20 -100 30 L-95 55" 
-              stroke="url(#hoodieG)" stroke-width="30" stroke-linecap="round" fill="none"/>
-        <!-- Forearm / hand -->
-        <ellipse cx="-88" cy="62" rx="16" ry="11" fill="#e0ab7c"/>
-        <!-- Fingers hint -->
-        <path d="M-100 62 Q-100 68 -95 68" stroke="#b8845a" stroke-width="1.2" fill="none" opacity=".6"/>
-        <path d="M-94 64 Q-94 70 -88 70" stroke="#b8845a" stroke-width="1.2" fill="none" opacity=".6"/>
-      </g>
-
-      <!-- ═══ RIGHT ARM (bent, resting on desk) ═══ -->
-      <g>
-        <!-- Upper arm -->
-        <path d="M70 -50 Q105 -20 100 30 L95 55" 
-              stroke="url(#hoodieG)" stroke-width="30" stroke-linecap="round" fill="none"/>
-        <!-- Forearm / hand -->
-        <ellipse cx="88" cy="62" rx="16" ry="11" fill="#e0ab7c"/>
-        <path d="M100 62 Q100 68 95 68" stroke="#b8845a" stroke-width="1.2" fill="none" opacity=".6"/>
-        <path d="M94 64 Q94 70 88 70" stroke="#b8845a" stroke-width="1.2" fill="none" opacity=".6"/>
-      </g>
-
-      <!-- Laptop on desk -->
-      <g transform="translate(0, 62)">
-        <path d="M-95 30 L-85 -55 L85 -55 L95 30 Z" fill="#1a1f2e" stroke="#262a42" stroke-width="1.5"/>
-        <rect x="-77" y="-47" width="154" height="62" rx="4" fill="#0a0e14"/>
-        <text x="-65" y="-30" font-family="ui-monospace,Menlo,monospace" font-size="10" fill="#22d3ee">&lt;code/&gt;</text>
-        <text x="-65" y="-14" font-family="ui-monospace,Menlo,monospace" font-size="10" fill="#a78bfa">build()</text>
-        <text x="-65" y="2" font-family="ui-monospace,Menlo,monospace" font-size="10" fill="#fbbf24">deploy()</text>
-        <rect x="-85" y="28" width="170" height="6" rx="3" fill="#2a3142"/>
-      </g>
-    </g>
-
-    <!-- ═══ DESK (in front of legs) ═══ -->
-    <rect x="780" y="445" width="460" height="95" fill="#1a1f2e"/>
-    <rect x="780" y="445" width="460" height="3" fill="#22d3ee" opacity=".5"/>
-
-    <!-- Monitor (behind boy) -->
-    <g transform="translate(1060, 130)">
+    <!-- ═══ MONITOR (right side, behind boy) ═══ -->
+    <g transform="translate(1080, 130)">
       <rect x="-100" y="0" width="200" height="150" rx="12" fill="#0a0e14" stroke="#262a42" stroke-width="2"/>
       <rect x="-90" y="10" width="180" height="130" rx="6" fill="url(#screenG)"/>
 
       <g clip-path="url(#screenClip)" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="9">
-        <text x="830" y="30" fill="#22d3ee">public class Dev {</text>
-        <text x="840" y="48" fill="#fbbf24">void build() {</text>
-        <text x="850" y="66" fill="#a78bfa">Spring.run();</text>
-        <text x="850" y="84" fill="#34d399">React.render();</text>
-        <text x="840" y="102" fill="#fbbf24">}</text>
-        <text x="830" y="120" fill="#22d3ee">}</text>
-        <rect x="850" y="128" width="6" height="10" fill="#22d3ee" class="cursor"/>
+        <text x="850" y="30" fill="#22d3ee">public class Dev {</text>
+        <text x="860" y="48" fill="#fbbf24">void build() {</text>
+        <text x="870" y="66" fill="#a78bfa">Spring.run();</text>
+        <text x="870" y="84" fill="#34d399">React.render();</text>
+        <text x="860" y="102" fill="#fbbf24">}</text>
+        <text x="850" y="120" fill="#22d3ee">}</text>
+        <rect x="870" y="128" width="6" height="10" fill="#22d3ee" class="cursor"/>
       </g>
 
       <g clip-path="url(#screenClip)">
@@ -244,25 +134,182 @@
       <rect x="1060" y="298" width="100" height="6" rx="3" fill="#1a1f2e"/>
     </g>
 
+    <!-- ═══ DESK ═══ -->
+    <rect x="770" y="440" width="480" height="100" fill="#1a1f2e"/>
+    <rect x="770" y="440" width="480" height="3" fill="#22d3ee" opacity=".5"/>
+
+    <!-- ═══ CHAIR (behind boy) ═══ -->
+    <path d="M850 460 Q840 300 900 260 Q960 300 950 460 Z" fill="#151a26" stroke="#262a42" stroke-width="1.5"/>
+
+    <!-- ═══ BOY DEVELOPER (redrawn, clean) ═══ -->
+    <g transform="translate(900, 440)" class="fu" style="animation-delay:.6s">
+
+      <!-- Legs (behind desk) -->
+      <rect x="-45" y="-15" width="26" height="55" rx="8" fill="#1e293b"/>
+      <rect x="19" y="-15" width="26" height="55" rx="8" fill="#1e293b"/>
+      <ellipse cx="-32" cy="42" rx="18" ry="5" fill="#0f172a"/>
+      <ellipse cx="32" cy="42" rx="18" ry="5" fill="#0f172a"/>
+
+      <!-- ═══ BODY / HOODIE ═══ -->
+      <!-- Main hoodie body — rounded shoulders -->
+      <path d="M-88 20 
+               Q-92 -50 -62 -95 
+               Q-35 -125 0 -127 
+               Q35 -125 62 -95 
+               Q92 -50 88 20 
+               Q85 42 0 42 
+               Q-85 42 -88 20 Z" 
+            fill="url(#hoodieG)"/>
+      <!-- Shoulder shadow (right side) -->
+      <path d="M0 -127 Q35 -125 62 -95 Q92 -50 88 20 Q85 42 0 42 Z" fill="url(#hoodieShadow)" opacity=".4"/>
+      <!-- Left highlight -->
+      <path d="M-88 20 Q-92 -50 -62 -95 Q-35 -125 0 -127 L0 42 Q-85 42 -88 20 Z" fill="url(#hoodieHi)"/>
+      <!-- Hoodie pocket (bottom front) -->
+      <path d="M-48 0 Q-52 28 -42 40 L42 40 Q52 28 48 0 Z" fill="#1e40af" opacity=".55"/>
+      <!-- Pocket stitch -->
+      <path d="M-48 0 L48 0" stroke="#0f1e5c" stroke-width="1.2" opacity=".4"/>
+      <!-- Collar V-neck -->
+      <path d="M-42 -105 Q-22 -122 0 -124 Q22 -122 42 -105 Q22 -112 0 -114 Q-22 -112 -42 -105 Z" fill="#1e3a8a"/>
+      <!-- Collar highlight -->
+      <path d="M-42 -105 Q-22 -122 0 -124" stroke="#3b82f6" stroke-width="1.5" fill="none" opacity=".5"/>
+      <!-- Drawstrings -->
+      <circle cx="-22" cy="-108" r="3" fill="#f0f4ff"/>
+      <line x1="-22" y1="-105" x2="-24" y2="-75" stroke="#f0f4ff" stroke-width="2.2" stroke-linecap="round"/>
+      <circle cx="22" cy="-108" r="3" fill="#f0f4ff"/>
+      <line x1="22" y1="-105" x2="24" y2="-75" stroke="#f0f4ff" stroke-width="2.2" stroke-linecap="round"/>
+
+      <!-- ═══ NECK ═══ -->
+      <rect x="-17" y="-152" width="34" height="32" rx="10" fill="#d19e70"/>
+
+      <!-- ═══ HEAD ═══ -->
+      <g transform="translate(0, -215)">
+        
+        <!-- Hair back layer -->
+        <path d="M-48 -6 Q-50 -62 -24 -82 Q0 -92 24 -82 Q50 -62 48 -6 
+                 Q44 -20 36 -22 L36 8 Q22 -2 0 -4 Q-22 -2 -36 8 L-36 -22 Q-44 -20 -48 -6 Z" 
+              fill="url(#hairG)"/>
+        
+        <!-- Face -->
+        <ellipse cx="0" cy="0" rx="44" ry="50" fill="url(#skinG)"/>
+        <!-- Face highlight -->
+        <ellipse cx="0" cy="0" rx="44" ry="50" fill="url(#faceLight)"/>
+        
+        <!-- Hair front layer (top of head) -->
+        <path d="M-50 -24 Q-46 -64 -24 -80 Q0 -90 24 -80 Q46 -64 50 -24 
+                 Q38 -42 22 -44 Q8 -46 -8 -44 Q-30 -42 -50 -24 Z" 
+              fill="url(#hairG)"/>
+        <!-- Hair fringe swoop (highlight side) -->
+        <path d="M-32 -70 Q-8 -82 22 -72 Q10 -55 -2 -46 Q-20 -56 -32 -70 Z" fill="url(#hairHi)"/>
+        <!-- Hair shine -->
+        <path d="M-14 -76 Q0 -80 14 -76" stroke="#6b4a2c" stroke-width="2" fill="none" opacity=".6" stroke-linecap="round"/>
+
+        <!-- Ears -->
+        <ellipse cx="-43" cy="2" rx="7" ry="10" fill="url(#skinShadow)"/>
+        <ellipse cx="43" cy="2" rx="7" ry="10" fill="url(#skinShadow)"/>
+        <path d="M-42 2 Q-40 4 -38 2" stroke="#c98a5e" stroke-width="1" fill="none" opacity=".6"/>
+        <path d="M42 2 Q40 4 38 2" stroke="#c98a5e" stroke-width="1" fill="none" opacity=".6"/>
+
+        <!-- Eyebrows (thick, friendly) -->
+        <path d="M-30 -18 Q-20 -22 -10 -18" stroke="#3d2818" stroke-width="3" stroke-linecap="round" fill="none"/>
+        <path d="M10 -18 Q20 -22 30 -18" stroke="#3d2818" stroke-width="3" stroke-linecap="round" fill="none"/>
+
+        <!-- Eyes (expressive cartoon) -->
+        <g class="eye">
+          <!-- Left eye -->
+          <ellipse cx="-19" cy="-2" rx="7" ry="7" fill="#ffffff"/>
+          <circle cx="-19" cy="-2" r="5.5" fill="#0a0603"/>
+          <circle cx="-19" cy="-2" r="4.5" fill="#1e3a8a"/>
+          <circle cx="-19" cy="-2" r="3" fill="#0a0603"/>
+          <circle cx="-17" cy="-4.5" r="2" fill="#ffffff" opacity=".95"/>
+          <circle cx="-21" cy="0" r="1" fill="#ffffff" opacity=".6"/>
+          <!-- Right eye -->
+          <ellipse cx="19" cy="-2" rx="7" ry="7" fill="#ffffff"/>
+          <circle cx="19" cy="-2" r="5.5" fill="#0a0603"/>
+          <circle cx="19" cy="-2" r="4.5" fill="#1e3a8a"/>
+          <circle cx="19" cy="-2" r="3" fill="#0a0603"/>
+          <circle cx="21" cy="-4.5" r="2" fill="#ffffff" opacity=".95"/>
+          <circle cx="17" cy="0" r="1" fill="#ffffff" opacity=".6"/>
+        </g>
+
+        <!-- Nose (small, cute) -->
+        <path d="M-3 12 Q0 16 3 12" stroke="#b8845a" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+        <!-- Friendly smile -->
+        <path d="M-14 26 Q0 36 14 26" stroke="#8b5a3a" stroke-width="2.6" stroke-linecap="round" fill="none"/>
+        <!-- Smile highlight -->
+        <path d="M-10 30 Q0 36 10 30" stroke="#ffffff" stroke-width=".8" fill="none" opacity=".4"/>
+
+        <!-- Rosy cheeks -->
+        <ellipse cx="-30" cy="16" rx="8" ry="5" fill="#f472b6" opacity=".32"/>
+        <ellipse cx="30" cy="16" rx="8" ry="5" fill="#f472b6" opacity=".32"/>
+      </g>
+
+      <!-- ═══ LEFT ARM (resting on desk) ═══ -->
+      <g>
+        <!-- Upper arm -->
+        <path d="M-75 -60 Q-105 -30 -100 15" 
+              stroke="url(#hoodieG)" stroke-width="32" stroke-linecap="round" fill="none"/>
+        <!-- Forearm curve to hand -->
+        <path d="M-100 15 Q-95 35 -85 45" 
+              stroke="url(#hoodieG)" stroke-width="28" stroke-linecap="round" fill="none"/>
+        <!-- Hand -->
+        <ellipse cx="-78" cy="50" rx="16" ry="12" fill="url(#skinG)"/>
+        <!-- Fingers -->
+        <path d="M-90 45 Q-92 52 -86 56" stroke="#c98a5e" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+        <path d="M-82 44 Q-82 52 -78 56" stroke="#c98a5e" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+        <path d="M-72 45 Q-70 52 -66 54" stroke="#c98a5e" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+      </g>
+
+      <!-- ═══ RIGHT ARM (resting on desk) ═══ -->
+      <g>
+        <path d="M75 -60 Q105 -30 100 15" 
+              stroke="url(#hoodieShadow)" stroke-width="32" stroke-linecap="round" fill="none"/>
+        <path d="M100 15 Q95 35 85 45" 
+              stroke="url(#hoodieShadow)" stroke-width="28" stroke-linecap="round" fill="none"/>
+        <ellipse cx="78" cy="50" rx="16" ry="12" fill="url(#skinShadow)"/>
+        <path d="M90 45 Q92 52 86 56" stroke="#c98a5e" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+        <path d="M82 44 Q82 52 78 56" stroke="#c98a5e" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+        <path d="M72 45 Q70 52 66 54" stroke="#c98a5e" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+      </g>
+
+      <!-- ═══ LAPTOP on desk ═══ -->
+      <g transform="translate(0, 50)">
+        <!-- Laptop base -->
+        <path d="M-100 40 L-90 -55 L90 -55 L100 40 Z" fill="#1a1f2e" stroke="#262a42" stroke-width="1.5"/>
+        <!-- Screen -->
+        <rect x="-80" y="-47" width="160" height="65" rx="4" fill="#0a0e14"/>
+        <!-- Code on laptop screen -->
+        <text x="-68" y="-30" font-family="ui-monospace,Menlo,monospace" font-size="10" fill="#22d3ee">&lt;code/&gt;</text>
+        <text x="-68" y="-14" font-family="ui-monospace,Menlo,monospace" font-size="10" fill="#a78bfa">build()</text>
+        <text x="-68" y="2" font-family="ui-monospace,Menlo,monospace" font-size="10" fill="#fbbf24">deploy()</text>
+        <!-- Keyboard hint -->
+        <rect x="-90" y="36" width="180" height="6" rx="3" fill="#2a3142"/>
+      </g>
+
+    </g>
+
+    <!-- ═══ DESK ITEMS ═══ -->
     <!-- Coffee mug with steam -->
-    <g transform="translate(800, 425)">
-      <ellipse cx="0" cy="18" rx="12" ry="3" fill="#000" opacity=".4"/>
-      <rect x="-11" y="0" width="22" height="18" rx="3" fill="#2a3142"/>
-      <ellipse cx="0" cy="0" rx="11" ry="3" fill="#3a4152"/>
-      <ellipse cx="0" cy="0" rx="7" ry="2" fill="#5a2f1e"/>
-      <path d="M11 5 Q18 9 11 13" fill="none" stroke="#2a3142" stroke-width="2.4"/>
-      <path d="M-3 -8 Q-5 -15 -2 -20" stroke="#8d93ab" stroke-width="1.2" fill="none" opacity=".5">
+    <g transform="translate(800, 415)">
+      <ellipse cx="0" cy="22" rx="13" ry="3.5" fill="#000" opacity=".4"/>
+      <rect x="-12" y="0" width="24" height="20" rx="4" fill="#2a3142"/>
+      <rect x="-12" y="0" width="24" height="4" rx="2" fill="#3a4152"/>
+      <ellipse cx="0" cy="2" rx="10" ry="2.5" fill="#5a2f1e"/>
+      <!-- Handle -->
+      <path d="M12 6 Q20 10 12 16" fill="none" stroke="#2a3142" stroke-width="2.6"/>
+      <!-- Steam -->
+      <path d="M-4 -8 Q-6 -16 -3 -22" stroke="#8d93ab" stroke-width="1.4" fill="none" opacity=".55">
         <animate attributeName="opacity" values=".1;.6;.1" dur="3s" repeatCount="indefinite"/>
       </path>
-      <path d="M3 -8 Q5 -16 2 -22" stroke="#8d93ab" stroke-width="1.2" fill="none" opacity=".5">
+      <path d="M4 -8 Q6 -17 3 -24" stroke="#8d93ab" stroke-width="1.4" fill="none" opacity=".55">
         <animate attributeName="opacity" values=".5;.1;.5" dur="3.5s" repeatCount="indefinite"/>
       </path>
     </g>
 
     <!-- Plant -->
-    <g transform="translate(1210, 400)">
-      <path d="M-11 30 L11 30 L8 48 L-8 48 Z" fill="#4a2e1e"/>
-      <path d="M-11 30 L11 30 L10 33 L-10 33 Z" fill="#5a3a2a"/>
+    <g transform="translate(1220, 390)">
+      <path d="M-12 30 L12 30 L9 50 L-9 50 Z" fill="#4a2e1e"/>
+      <path d="M-12 30 L12 30 L11 33 L-11 33 Z" fill="#5a3a2a"/>
       <path d="M0 30 Q-12 12 -7 -2 Q2 8 0 22" fill="#22c55e" opacity=".9"/>
       <path d="M0 30 Q12 10 5 -4 Q-2 10 0 22" fill="#34d399" opacity=".9"/>
       <path d="M0 30 Q-18 18 -14 4 Q-4 14 -2 24" fill="#22c55e" opacity=".75"/>
@@ -270,29 +317,29 @@
     </g>
 
     <!-- Floating tech chips -->
-    <g class="float" style="animation-delay:0s">
+    <g>
       <rect x="770" y="90" width="90" height="30" rx="10" fill="#f89820" fill-opacity=".14" stroke="#f89820" stroke-opacity=".55"/>
       <circle cx="786" cy="105" r="4" fill="#f89820"/>
       <text class="jb" x="800" y="110" font-size="12" fill="#eceef6">Java</text>
     </g>
-    <g class="float" style="animation-delay:.5s">
+    <g>
       <rect x="1140" y="70" width="120" height="30" rx="10" fill="#6DB33F" fill-opacity=".14" stroke="#6DB33F" stroke-opacity=".55"/>
       <circle cx="1156" cy="85" r="4" fill="#6DB33F"/>
       <text class="jb" x="1170" y="90" font-size="12" fill="#eceef6">Spring Boot</text>
     </g>
-    <g class="float" style="animation-delay:1s">
+    <g>
       <rect x="1140" y="340" width="100" height="30" rx="10" fill="#61DAFB" fill-opacity=".14" stroke="#61DAFB" stroke-opacity=".55"/>
       <circle cx="1156" cy="355" r="4" fill="#61DAFB"/>
       <text class="jb" x="1170" y="360" font-size="12" fill="#eceef6">React</text>
     </g>
-    <g class="float" style="animation-delay:1.5s">
+    <g>
       <rect x="770" y="230" width="100" height="30" rx="10" fill="#4479A1" fill-opacity=".14" stroke="#4479A1" stroke-opacity=".55"/>
       <circle cx="786" cy="245" r="4" fill="#4479A1"/>
       <text class="jb" x="800" y="250" font-size="12" fill="#eceef6">MySQL</text>
     </g>
   </g>
 
-  <!-- Viewfinder HUD -->
+  <!-- ═══ VIEWFINDER HUD ═══ -->
   <path class="corner" d="M760 74V40H794" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.3s"/>
   <path class="corner" d="M1236 74V40H1202" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.38s"/>
   <path class="corner" d="M760 466V500H794" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.46s"/>

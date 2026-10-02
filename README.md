@@ -275,6 +275,7 @@
     <g transform="translate(72,494)">
       <path d="M0-8a6 6 0 0 1 6 6c0 4.5-6 10-6 10s-6-5.5-6-10a6 6 0 0 1 6-6z" fill="none" stroke="#22d3ee" stroke-width="1.8"/>
       <circle cy="-2" r="2" fill="#22d3ee"/>
+        
     </g>
     <text class="jb" x="88" y="499" font-size="14" fill="#8d93ab">Pune, India</text>
   </g>

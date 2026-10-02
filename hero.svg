@@ -1,6 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 540" width="1280" height="540" role="img" aria-label="Dharmanath Kadam — Java Full Stack Developer">
-<title>Dharmanath Kadam — Java Full Stack Developer</title>
-<desc>Animated hero: Dharmanath Kadam's name, cycling roles, bio, and an illustrated developer working at a workstation.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img" aria-label="Dharmanath Kadam — Tech Stack Cinematic">
+<title>Dharmanath Kadam — Tech Stack</title>
 <defs>
   <style>
     .sg{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-weight:700}
@@ -9,39 +8,33 @@
     .jbb{font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace;font-weight:700}
     @keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
     @keyframes fadeIn{from{opacity:0}to{opacity:1}}
-    @keyframes role{0%{opacity:0;transform:translateY(16px)}4%{opacity:1;transform:translateY(0)}22%{opacity:1;transform:translateY(0)}25.5%{opacity:0;transform:translateY(-16px)}100%{opacity:0;transform:translateY(-16px)}}
-    @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
     @keyframes drift{from{transform:translate(0,0)}to{transform:translate(40px,-30px)}}
     @keyframes drift2{from{transform:translate(0,0)}to{transform:translate(-50px,26px)}}
-    @keyframes draw{from{stroke-dashoffset:60}to{stroke-dashoffset:0}}
-    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
-    @keyframes type{from{width:0}to{width:100%}}
-    @keyframes scan{0%{transform:translateY(-100%)}100%{transform:translateY(420px)}}
+    @keyframes scan{0%{transform:translateY(-100%)}100%{transform:translateY(560px)}}
+    @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+    @keyframes rotate{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
     .fu{animation:fadeUp .7s cubic-bezier(.2,.8,.2,1) both}
     .fi{animation:fadeIn .7s ease both}
-    .role{animation:role 12s cubic-bezier(.2,.8,.2,1) infinite}
-    .cursor{animation:blink 1s steps(1) infinite}
+    .float{animation:float 3.5s ease-in-out infinite}
     .blob{animation:drift 14s ease-in-out infinite alternate}
     .blob2{animation:drift2 16s ease-in-out infinite alternate}
-    .float{animation:float 3.5s ease-in-out infinite}
-    .corner{stroke-dasharray:60;animation:draw .8s ease both}
     .scanline{animation:scan 3.5s linear infinite}
+    .cursor{animation:blink 1s steps(1) infinite}
     @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}
   </style>
-  <linearGradient id="nameG" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#22d3ee"/>
-    <stop offset=".5" stop-color="#a78bfa"/>
-    <stop offset="1" stop-color="#f472b6"/>
-    <animateTransform attributeName="gradientTransform" type="translate" values="-.35 0;.35 0;-.35 0" dur="7s" repeatCount="indefinite"/>
-  </linearGradient>
-  <linearGradient id="nameG2" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#22d3ee"/><stop offset=".55" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
-  </linearGradient>
-  <linearGradient id="cardG" x1="0" y1="0" x2="0" y2="1">
+  <linearGradient id="cardbg" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0" stop-color="#171a2c"/><stop offset="1" stop-color="#121423"/>
   </linearGradient>
-  <linearGradient id="edgeG" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#22d3ee" stop-opacity=".5"/><stop offset=".5" stop-color="#262a42"/><stop offset="1" stop-color="#f472b6" stop-opacity=".5"/>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22d3ee" stop-opacity=".6"/><stop offset=".5" stop-color="#262a42"/><stop offset="1" stop-color="#f472b6" stop-opacity=".6"/>
+  </linearGradient>
+  <linearGradient id="titleG" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="-.35 0;.35 0;-.35 0" dur="7s" repeatCount="indefinite"/>
+  </linearGradient>
+  <linearGradient id="screenG" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0b1e1a"/><stop offset="1" stop-color="#06100e"/>
   </linearGradient>
   <linearGradient id="skinG" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0" stop-color="#f4c9a0"/><stop offset="1" stop-color="#d9a273"/>
@@ -51,9 +44,6 @@
   </linearGradient>
   <linearGradient id="shirtG" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#1e40af"/>
-  </linearGradient>
-  <linearGradient id="screenG" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#0b1e1a"/><stop offset="1" stop-color="#06100e"/>
   </linearGradient>
   <radialGradient id="glowG" cx=".5" cy=".5" r=".5">
     <stop offset="0" stop-color="#22d3ee" stop-opacity=".35"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
@@ -66,233 +56,241 @@
   </pattern>
   <filter id="blur60" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
   <filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  <clipPath id="card"><rect width="1280" height="540" rx="26"/></clipPath>
-  <clipPath id="hiClip"><rect x="60" y="130" width="330" height="46"><animate attributeName="width" values="0;0;330" keyTimes="0;.4167;1" dur="1.2s" begin="0s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.3 0 .2 1"/></rect></clipPath>
-  <clipPath id="nameClip"><rect x="50" y="170" width="600" height="100"><animate attributeName="y" values="262;262;170" keyTimes="0;.5263;1" dur="1.9s" begin="0s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1"/></rect></clipPath>
-  <clipPath id="screenClip"><rect x="800" y="180" width="320" height="200" rx="10"/></clipPath>
+  <clipPath id="card"><rect width="1280" height="720" rx="26"/></clipPath>
+  <clipPath id="screenClip"><rect x="120" y="200" width="360" height="230" rx="10"/></clipPath>
 </defs>
 
 <g clip-path="url(#card)">
   <!-- Background -->
-  <rect width="1280" height="540" fill="url(#cardG)"/>
-  <rect width="1280" height="540" fill="url(#dots)"/>
+  <rect width="1280" height="720" fill="url(#cardbg)"/>
+  <rect width="1280" height="720" fill="url(#dots)"/>
 
   <!-- Ambient blobs -->
   <g filter="url(#blur60)" opacity=".55">
-    <circle class="blob" cx="170" cy="120" r="150" fill="#22d3ee" fill-opacity=".22"/>
-    <circle class="blob2" cx="470" cy="470" r="170" fill="#a78bfa" fill-opacity=".22"/>
-    <circle class="blob" cx="1150" cy="80" r="130" fill="#f472b6" fill-opacity=".14"/>
+    <circle class="blob" cx="180" cy="140" r="170" fill="#22d3ee" fill-opacity=".22"/>
+    <circle class="blob2" cx="1100" cy="600" r="180" fill="#a78bfa" fill-opacity=".22"/>
+    <circle class="blob" cx="1180" cy="120" r="140" fill="#f472b6" fill-opacity=".14"/>
   </g>
 
-  <!-- ═══ RIGHT: ILLUSTRATED BOY DEVELOPER ═══ -->
-  <g class="fu" style="animation-delay:.4s">
+  <!-- ═══ HEADER ═══ -->
+  <g class="fu" style="animation-delay:.1s">
+    <rect x="60" y="56" width="240" height="32" rx="16" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".5"/>
+    <circle cx="80" cy="72" r="4.5" fill="#22d3ee"/>
+    <circle cx="80" cy="72" r="4" fill="none" stroke="#22d3ee" stroke-width="1.5">
+      <animate attributeName="r" values="4;11" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".9;0" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text class="jbb" x="94" y="77" font-size="12" fill="#22d3ee" letter-spacing="1.8">// TECH STACK</text>
+  </g>
 
-    <!-- Glow behind character -->
-    <ellipse cx="1020" cy="420" rx="340" ry="180" fill="url(#glowG)"/>
-    <ellipse cx="1060" cy="160" rx="180" ry="120" fill="url(#glowP)"/>
+  <text class="sg fu" x="60" y="140" font-size="52" fill="url(#titleG)" filter="url(#glow)" style="animation-delay:.2s">Tools I build with</text>
+  <text class="sgm fu" x="60" y="178" font-size="19" fill="#8d93ab" style="animation-delay:.3s">Dharmanath Kadam · Java Full Stack Developer · AI &amp; Data Science</text>
+
+  <!-- ═══ LEFT: ILLUSTRATED DEVELOPER AT DESK ═══ -->
+  <g class="fu" style="animation-delay:.4s">
+    <ellipse cx="320" cy="540" rx="320" ry="160" fill="url(#glowG)"/>
+    <ellipse cx="360" cy="240" rx="200" ry="140" fill="url(#glowP)"/>
 
     <!-- Monitor -->
     <g>
-      <rect x="790" y="170" width="340" height="220" rx="14" fill="#0a0e14" stroke="#262a42" stroke-width="2"/>
-      <rect x="800" y="180" width="320" height="200" rx="10" fill="url(#screenG)"/>
+      <rect x="105" y="185" width="390" height="260" rx="16" fill="#0a0e14" stroke="#262a42" stroke-width="2"/>
+      <rect x="120" y="200" width="360" height="230" rx="10" fill="url(#screenG)"/>
 
-      <!-- Code lines on screen -->
-      <g clip-path="url(#screenClip)" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="11">
-        <text x="815" y="202" fill="#22d3ee">public class Dharmanath {</text>
-        <text x="825" y="220" fill="#fbbf24">public static void main() {</text>
-        <text x="835" y="238" fill="#a78bfa">SpringApplication.run(...)</text>
-        <text x="835" y="256" fill="#34d399">System.out.println(</text>
-        <text x="845" y="274" fill="#f472b6">"Hello, World!");</text>
-        <text x="825" y="292" fill="#fbbf24">}</text>
-        <text x="815" y="310" fill="#22d3ee">}</text>
-        <text x="835" y="328" fill="#8d93ab">// Building cool stuff</text>
-        <text x="835" y="346" fill="#8d93ab">// with Java &amp; React</text>
-        <rect x="835" y="360" width="8" height="14" fill="#22d3ee" class="cursor"/>
+      <!-- Code on screen -->
+      <g clip-path="url(#screenClip)" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12">
+        <text x="135" y="224" fill="#22d3ee">public class TechStack {</text>
+        <text x="145" y="244" fill="#fbbf24">public static void main() {</text>
+        <text x="155" y="264" fill="#a78bfa">SpringApplication.run();</text>
+        <text x="155" y="284" fill="#34d399">System.out.println(</text>
+        <text x="165" y="304" fill="#f472b6">"Java &amp; React dev");</text>
+        <text x="145" y="324" fill="#fbbf24">}</text>
+        <text x="135" y="344" fill="#22d3ee">}</text>
+        <text x="155" y="364" fill="#8d93ab">// Building the future</text>
+        <text x="155" y="384" fill="#8d93ab">// one commit at a time</text>
+        <rect x="155" y="396" width="9" height="16" fill="#22d3ee" class="cursor"/>
       </g>
 
       <!-- Scanline -->
       <g clip-path="url(#screenClip)">
-        <rect class="scanline" x="800" y="180" width="320" height="30" fill="#22d3ee" opacity=".08"/>
+        <rect class="scanline" x="120" y="200" width="360" height="30" fill="#22d3ee" opacity=".08"/>
       </g>
 
-      <!-- Monitor stand -->
-      <rect x="940" y="390" width="40" height="20" fill="#1a1f2e"/>
-      <rect x="910" y="408" width="100" height="8" rx="4" fill="#1a1f2e"/>
+      <!-- Stand -->
+      <rect x="280" y="445" width="40" height="22" fill="#1a1f2e"/>
+      <rect x="250" y="465" width="100" height="8" rx="4" fill="#1a1f2e"/>
     </g>
 
-    <!-- Floating tech chips around character -->
-    <g class="float" style="animation-delay:0s">
-      <rect x="840" y="90" width="90" height="32" rx="10" fill="#f89820" fill-opacity=".12" stroke="#f89820" stroke-opacity=".5"/>
-      <circle cx="858" cy="106" r="4" fill="#f89820"/>
-      <text class="jb" x="872" y="111" font-size="13" fill="#eceef6">Java</text>
-    </g>
-    <g class="float" style="animation-delay:.5s">
-      <rect x="1080" y="60" width="130" height="32" rx="10" fill="#6DB33F" fill-opacity=".12" stroke="#6DB33F" stroke-opacity=".5"/>
-      <circle cx="1098" cy="76" r="4" fill="#6DB33F"/>
-      <text class="jb" x="1112" y="81" font-size="13" fill="#eceef6">Spring Boot</text>
-    </g>
-    <g class="float" style="animation-delay:1s">
-      <rect x="1150" y="360" width="105" height="32" rx="10" fill="#61DAFB" fill-opacity=".12" stroke="#61DAFB" stroke-opacity=".5"/>
-      <circle cx="1168" cy="376" r="4" fill="#61DAFB"/>
-      <text class="jb" x="1182" y="381" font-size="13" fill="#eceef6">React</text>
-    </g>
-    <g class="float" style="animation-delay:1.5s">
-      <rect x="770" y="330" width="115" height="32" rx="10" fill="#4479A1" fill-opacity=".12" stroke="#4479A1" stroke-opacity=".5"/>
-      <circle cx="788" cy="346" r="4" fill="#4479A1"/>
-      <text class="jb" x="802" y="351" font-size="13" fill="#eceef6">MySQL</text>
-    </g>
-
-    <!-- Boy Developer Character -->
-    <g transform="translate(1010, 430)">
-
-      <!-- Chair back -->
+    <!-- Boy character -->
+    <g transform="translate(300, 560)">
+      <!-- Chair -->
       <rect x="-110" y="-140" width="220" height="180" rx="30" fill="#1a1f2e" stroke="#262a42" stroke-width="1.5"/>
-
-      <!-- Body / hoodie -->
+      <!-- Body -->
       <path d="M-95 40 Q-95 -50 -55 -95 Q-20 -130 0 -130 Q20 -130 55 -95 Q95 -50 95 40 Z" fill="url(#shirtG)"/>
-      <!-- Hoodie hood -->
       <path d="M-70 -80 Q-50 -120 0 -125 Q50 -120 70 -80 Q40 -100 0 -105 Q-40 -100 -70 -80 Z" fill="#1e40af" opacity=".7"/>
-
       <!-- Neck -->
       <rect x="-18" y="-150" width="36" height="30" rx="10" fill="#d9a273"/>
-
       <!-- Head -->
       <g transform="translate(0, -210)">
-        <!-- Hair back -->
         <path d="M-60 -10 Q-62 -70 -30 -95 Q0 -110 30 -95 Q62 -70 60 -10 Q55 -20 45 -22 L45 5 Q30 -5 0 -8 Q-30 -5 -45 5 L-45 -22 Q-55 -20 -60 -10 Z" fill="url(#hairG)"/>
-
-        <!-- Face -->
         <ellipse cx="0" cy="0" rx="52" ry="60" fill="url(#skinG)"/>
-
-        <!-- Hair front -->
         <path d="M-62 -25 Q-58 -70 -30 -92 Q0 -108 30 -92 Q58 -70 62 -25 Q40 -45 20 -40 Q0 -38 -20 -42 Q-40 -45 -62 -25 Z" fill="url(#hairG)"/>
-        <!-- Hair fringe -->
         <path d="M-30 -70 Q-10 -82 20 -75 Q10 -60 0 -55 Q-15 -60 -30 -70 Z" fill="url(#hairG)"/>
-
-        <!-- Ears -->
         <ellipse cx="-52" cy="0" rx="8" ry="12" fill="#d9a273"/>
         <ellipse cx="52" cy="0" rx="8" ry="12" fill="#d9a273"/>
-
-        <!-- Eyebrows -->
         <path d="M-32 -18 Q-22 -22 -14 -18" stroke="#1a0f08" stroke-width="3" stroke-linecap="round" fill="none"/>
         <path d="M14 -18 Q22 -22 32 -18" stroke="#1a0f08" stroke-width="3" stroke-linecap="round" fill="none"/>
-
-        <!-- Eyes -->
-        <g>
-          <ellipse cx="-22" cy="-4" rx="6" ry="5" fill="#1a0f08">
-            <animate attributeName="ry" values="5;5;1;5;5" keyTimes="0;0.85;0.9;0.95;1" dur="4.5s" repeatCount="indefinite"/>
-          </ellipse>
-          <ellipse cx="22" cy="-4" rx="6" ry="5" fill="#1a0f08">
-            <animate attributeName="ry" values="5;5;1;5;5" keyTimes="0;0.85;0.9;0.95;1" dur="4.5s" repeatCount="indefinite"/>
-          </ellipse>
-          <!-- Eye highlights -->
-          <circle cx="-20" cy="-6" r="1.8" fill="#ffffff" opacity=".9"/>
-          <circle cx="24" cy="-6" r="1.8" fill="#ffffff" opacity=".9"/>
-        </g>
-
-        <!-- Nose -->
+        <ellipse cx="-22" cy="-4" rx="6" ry="5" fill="#1a0f08">
+          <animate attributeName="ry" values="5;5;1;5;5" keyTimes="0;0.85;0.9;0.95;1" dur="4.5s" repeatCount="indefinite"/>
+        </ellipse>
+        <ellipse cx="22" cy="-4" rx="6" ry="5" fill="#1a0f08">
+          <animate attributeName="ry" values="5;5;1;5;5" keyTimes="0;0.85;0.9;0.95;1" dur="4.5s" repeatCount="indefinite"/>
+        </ellipse>
+        <circle cx="-20" cy="-6" r="1.8" fill="#ffffff" opacity=".9"/>
+        <circle cx="24" cy="-6" r="1.8" fill="#ffffff" opacity=".9"/>
         <path d="M-3 10 Q0 16 3 10" stroke="#b8845a" stroke-width="2" stroke-linecap="round" fill="none"/>
-
-        <!-- Mouth (friendly smile) -->
         <path d="M-15 26 Q0 38 15 26" stroke="#8b5a3a" stroke-width="2.5" stroke-linecap="round" fill="none"/>
-
-        <!-- Cheeks blush -->
         <ellipse cx="-35" cy="15" rx="8" ry="5" fill="#f472b6" opacity=".25"/>
         <ellipse cx="35" cy="15" rx="8" ry="5" fill="#f472b6" opacity=".25"/>
       </g>
-
-      <!-- Arms typing -->
-      <g>
-        <!-- Left arm -->
-        <path d="M-80 -60 Q-130 -20 -115 30 Q-110 45 -95 45" fill="none" stroke="url(#shirtG)" stroke-width="26" stroke-linecap="round"/>
-        <ellipse cx="-93" cy="48" rx="14" ry="10" fill="#f4c9a0"/>
-        <!-- Right arm -->
-        <path d="M80 -60 Q130 -20 115 30 Q110 45 95 45" fill="none" stroke="url(#shirtG)" stroke-width="26" stroke-linecap="round"/>
-        <ellipse cx="93" cy="48" rx="14" ry="10" fill="#f4c9a0"/>
-      </g>
-
+      <!-- Arms -->
+      <path d="M-80 -60 Q-130 -20 -115 30 Q-110 45 -95 45" fill="none" stroke="url(#shirtG)" stroke-width="26" stroke-linecap="round"/>
+      <ellipse cx="-93" cy="48" rx="14" ry="10" fill="#f4c9a0"/>
+      <path d="M80 -60 Q130 -20 115 30 Q110 45 95 45" fill="none" stroke="url(#shirtG)" stroke-width="26" stroke-linecap="round"/>
+      <ellipse cx="93" cy="48" rx="14" ry="10" fill="#f4c9a0"/>
       <!-- Laptop -->
       <g transform="translate(0, 60)">
         <path d="M-90 20 L-80 -50 L80 -50 L90 20 Z" fill="#1a1f2e" stroke="#262a42" stroke-width="1.5"/>
         <rect x="-72" y="-42" width="144" height="55" rx="4" fill="#0a0e14"/>
-        <text x="-60" y="-25" font-family="ui-monospace,Menlo,monospace" font-size="9" fill="#22d3ee">&lt;code/&gt;</text>
-        <text x="-60" y="-12" font-family="ui-monospace,Menlo,monospace" font-size="9" fill="#a78bfa">build()</text>
-        <text x="-60" y="2" font-family="ui-monospace,Menlo,monospace" font-size="9" fill="#fbbf24">deploy()</text>
+        <text x="-60" y="-25" font-family="ui-monospace,Menlo,monospace" font-size="10" fill="#22d3ee">&lt;code/&gt;</text>
+        <text x="-60" y="-10" font-family="ui-monospace,Menlo,monospace" font-size="10" fill="#a78bfa">build()</text>
+        <text x="-60" y="5" font-family="ui-monospace,Menlo,monospace" font-size="10" fill="#fbbf24">deploy()</text>
         <rect x="-80" y="18" width="160" height="6" rx="3" fill="#2a3142"/>
       </g>
     </g>
   </g>
 
-  <!-- Viewfinder HUD -->
-  <path class="corner" d="M760 74V40H794" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.3s"/>
-  <path class="corner" d="M1236 74V40H1202" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.38s"/>
-  <path class="corner" d="M760 466V500H794" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.46s"/>
-  <path class="corner" d="M1236 466V500H1202" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.54s"/>
+  <!-- ═══ RIGHT: ORGANIZED TECH CHIPS ═══ -->
 
-  <g class="fi" style="animation-delay:.6s">
-    <circle cx="782" cy="483" r="5" fill="#34d399">
-      <animate attributeName="opacity" values="1;.15;1" dur="1.2s" repeatCount="indefinite"/>
+  <!-- Category: LANGUAGES -->
+  <g class="fu" style="animation-delay:.55s">
+    <rect x="640" y="70" width="6" height="26" rx="3" fill="#22d3ee"/>
+    <text class="jbb" x="662" y="90" font-size="16" fill="#22d3ee" letter-spacing="2.5">LANGUAGES</text>
+  </g>
+  <g class="fu" style="animation-delay:.65s">
+    <rect x="640" y="110" width="120" height="52" rx="14" fill="#f89820" fill-opacity=".12" stroke="#f89820" stroke-opacity=".55" stroke-width="1.5"/>
+    <circle cx="664" cy="136" r="6" fill="#f89820"/>
+    <text class="jb" x="682" y="142" font-size="17" fill="#eceef6">Java</text>
+  </g>
+  <g class="fu" style="animation-delay:.72s">
+    <rect x="776" y="110" width="140" height="52" rx="14" fill="#3776AB" fill-opacity=".12" stroke="#3776AB" stroke-opacity=".55" stroke-width="1.5"/>
+    <circle cx="800" cy="136" r="6" fill="#3776AB"/>
+    <text class="jb" x="818" y="142" font-size="17" fill="#eceef6">Python</text>
+  </g>
+  <g class="fu" style="animation-delay:.79s">
+    <rect x="932" y="110" width="170" height="52" rx="14" fill="#F7DF1E" fill-opacity=".12" stroke="#F7DF1E" stroke-opacity=".55" stroke-width="1.5"/>
+    <circle cx="956" cy="136" r="6" fill="#F7DF1E"/>
+    <text class="jb" x="974" y="142" font-size="17" fill="#eceef6">JavaScript</text>
+  </g>
+  <g class="fu" style="animation-delay:.86s">
+    <rect x="1118" y="110" width="110" height="52" rx="14" fill="#E34F26" fill-opacity=".12" stroke="#E34F26" stroke-opacity=".55" stroke-width="1.5"/>
+    <circle cx="1142" cy="136" r="6" fill="#E34F26"/>
+    <text class="jb" x="1160" y="142" font-size="17" fill="#eceef6">HTML5</text>
+  </g>
+
+  <!-- Category: BACKEND -->
+  <g class="fu" style="animation-delay:.93s">
+    <rect x="640" y="195" width="6" height="26" rx="3" fill="#a78bfa"/>
+    <text class="jbb" x="662" y="215" font-size="16" fill="#a78bfa" letter-spacing="2.5">BACKEND &amp; FRAMEWORKS</text>
+  </g>
+  <g class="fu" style="animation-delay:1.03s">
+    <rect x="640" y="235" width="190" height="52" rx="14" fill="#6DB33F" fill-opacity=".12" stroke="#6DB33F" stroke-opacity=".55" stroke-width="1.5"/>
+    <circle cx="664" cy="261" r="6" fill="#6DB33F"/>
+    <text class="jb" x="682" y="267" font-size="17" fill="#eceef6">Spring Boot</text>
+  </g>
+  <g class="fu" style="animation-delay:1.10s">
+    <rect x="846" y="235" width="150" height="52" rx="14" fill="#BCAE79" fill-opacity=".12" stroke="#BCAE79" stroke-opacity=".55" stroke-width="1.5"/>
+    <circle cx="870" cy="261" r="6" fill="#BCAE79"/>
+    <text class="jb" x="888" y="267" font-size="17" fill="#eceef6">Hibernate</text>
+  </g>
+  <g class="fu" style="animation-delay:1.17s">
+    <rect x="1012" y="235" width="130" height="52" rx="14" fill="#339933" fill-opacity=".12" stroke="#339933" stroke-opacity=".55" stroke-width="1.5"/>
+    <circle cx="1036" cy="261" r="6" fill="#339933"/>
+    <text class="jb" x="1054" y="267" font-size="17" fill="#eceef6">Node.js</text>
+  </g>
+
+  <!-- Category: FRONTEND -->
+  <g class="fu" style="animation-delay:1.24s">
+    <rect x="640" y="320" width="6" height="26" rx="3" fill="#fbbf24"/>
+    <text class="jbb" x="662" y="340" font-size="16" fill="#fbbf24" letter-spacing="2.5">FRONTEND</text>
+  </g>
+  <g class="fu" style="animation-delay:1.34s">
+    <rect x="640" y="360" width="130" height="52" rx="14" fill="#61DAFB" fill-opacity=".12" stroke="#61DAFB" stroke-opacity=".55" stroke-width="1.5"/>
+    <circle cx="664" cy="386" r="6" fill="#61DAFB"/>
+    <text class="jb" x="682" y="392" font-size="17" fill="#eceef6">React</text>
+  </g>
+  <g class="fu" style="animation-delay:1.41s">
+    <rect x="786" y="360" width="170" height="52" rx="14" fill="#7952B3" fill-opacity=".12" stroke="#7952B3" stroke-opacity=".55" stroke-width="1.5"/>
+    <circle cx="810" cy="386" r="6" fill="#7952B3"/>
+    <text class="jb" x="828" y="392" font-size="17" fill="#eceef6">Bootstrap</text>
+  </g>
+  <g class="fu" style="animation-delay:1.48s">
+    <rect x="972" y="360" width="160" height="52" rx="14" fill="#06B6D4" fill-opacity=".12" stroke="#06B6D4" stroke-opacity=".55" stroke-width="1.5"/>
+    <circle cx="996" cy="386" r="6" fill="#06B6D4"/>
+    <text class="jb" x="1014" y="392" font-size="17" fill="#eceef6">Tailwind</text>
+  </g>
+
+  <!-- Category: DATABASES -->
+  <g class="fu" style="animation-delay:1.55s">
+    <rect x="640" y="445" width="6" height="26" rx="3" fill="#60a5fa"/>
+    <text class="jbb" x="662" y="465" font-size="16" fill="#60a5fa" letter-spacing="2.5">DATABASES</text>
+  </g>
+  <g class="fu" style="animation-delay:1.65s">
+    <rect x="640" y="485" width="130" height="52" rx="14" fill="#4479A1" fill-opacity=".12" stroke="#4479A1" stroke-opacity=".55" stroke-width="1.5"/>
+    <circle cx="664" cy="511" r="6" fill="#4479A1"/>
+    <text class="jb" x="682" y="517" font-size="17" fill="#eceef6">MySQL</text>
+  </g>
+  <g class="fu" style="animation-delay:1.72s">
+    <rect x="786" y="485" width="190" height="52" rx="14" fill="#4169E1" fill-opacity=".12" stroke="#4169E1" stroke-opacity=".55" stroke-width="1.5"/>
+    <circle cx="810" cy="511" r="6" fill="#4169E1"/>
+    <text class="jb" x="828" y="517" font-size="17" fill="#eceef6">PostgreSQL</text>
+  </g>
+  <g class="fu" style="animation-delay:1.79s">
+    <rect x="992" y="485" width="160" height="52" rx="14" fill="#47A248" fill-opacity=".12" stroke="#47A248" stroke-opacity=".55" stroke-width="1.5"/>
+    <circle cx="1016" cy="511" r="6" fill="#47A248"/>
+    <text class="jb" x="1034" y="517" font-size="17" fill="#eceef6">MongoDB</text>
+  </g>
+
+  <!-- Category: AI & DATA -->
+  <g class="fu" style="animation-delay:1.86s">
+    <rect x="640" y="570" width="6" height="26" rx="3" fill="#f472b6"/>
+    <text class="jbb" x="662" y="590" font-size="16" fill="#f472b6" letter-spacing="2.5">AI &amp; DATA SCIENCE</text>
+  </g>
+  <g class="fu" style="animation-delay:1.96s">
+    <rect x="640" y="610" width="180" height="52" rx="14" fill="#FF6F00" fill-opacity=".12" stroke="#FF6F00" stroke-opacity=".55" stroke-width="1.5"/>
+    <circle cx="664" cy="636" r="6" fill="#FF6F00"/>
+    <text class="jb" x="682" y="642" font-size="17" fill="#eceef6">TensorFlow</text>
+  </g>
+  <g class="fu" style="animation-delay:2.03s">
+    <rect x="836" y="610" width="150" height="52" rx="14" fill="#EE4C2C" fill-opacity=".12" stroke="#EE4C2C" stroke-opacity=".55" stroke-width="1.5"/>
+    <circle cx="860" cy="636" r="6" fill="#EE4C2C"/>
+    <text class="jb" x="878" y="642" font-size="17" fill="#eceef6">PyTorch</text>
+  </g>
+  <g class="fu" style="animation-delay:2.10s">
+    <rect x="1002" y="610" width="150" height="52" rx="14" fill="#E70488" fill-opacity=".12" stroke="#E70488" stroke-opacity=".55" stroke-width="1.5"/>
+    <circle cx="1026" cy="636" r="6" fill="#E70488"/>
+    <text class="jb" x="1044" y="642" font-size="17" fill="#eceef6">Pandas</text>
+  </g>
+
+  <!-- Footer -->
+  <g class="fi" style="animation-delay:2.4s">
+    <line x1="60" y1="690" x2="1220" y2="690" stroke="#262a42" stroke-width="1"/>
+    <text class="jbb" x="60" y="712" font-size="13" fill="#8d93ab" letter-spacing="2">// BUILT WITH PASSION · DHARMANATH KADAM</text>
+    <circle cx="1160" cy="707" r="5" fill="#34d399">
+      <animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/>
     </circle>
-    <text class="jbb" x="794" y="488" font-size="13" fill="#eceef6" letter-spacing="2">LIVE</text>
-    <text class="jb" x="1222" y="488" font-size="12" fill="#8d93ab" text-anchor="end" letter-spacing="1.5">DHARMANATH.DEV · 24FPS</text>
-  </g>
-
-  <!-- ═══ LEFT: INFO ═══ -->
-  <g class="fu" style="animation-delay:.2s">
-    <rect x="64" y="64" width="240" height="32" rx="16" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".45"/>
-    <circle cx="84" cy="80" r="4.5" fill="#34d399"/>
-    <circle cx="84" cy="80" r="4" fill="none" stroke="#34d399" stroke-width="1.5">
-      <animate attributeName="r" values="4;11" dur="1.6s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values=".9;0" dur="1.6s" repeatCount="indefinite"/>
-    </circle>
-    <text class="jbb" x="98" y="85" font-size="12" fill="#34d399" letter-spacing="1.6">OPEN TO WORK</text>
-  </g>
-
-  <text clip-path="url(#hiClip)" class="sgm" x="64" y="164" font-size="30" fill="#eceef6">Hi there, I'm</text>
-
-  <g clip-path="url(#nameClip)">
-    <text class="sg" x="60" y="250" font-size="72" letter-spacing="-1.5" fill="url(#nameG)" filter="url(#glow)">DHARMANATH</text>
-  </g>
-  <text class="sg fu" x="60" y="320" font-size="72" letter-spacing="-1.5" fill="url(#nameG)" filter="url(#glow)" style="animation-delay:1.8s">KADAM</text>
-
-  <rect x="64" y="342" width="120" height="3" rx="1.5" fill="url(#nameG2)">
-    <animate attributeName="width" values="0;0;120" keyTimes="0;.68;1" dur="2.5s" begin="0s" fill="freeze"/>
-  </rect>
-
-  <!-- Cycling roles -->
-  <text class="jbb fi" x="64" y="392" font-size="21" fill="#22d3ee" style="animation-delay:1.8s">&gt;</text>
-  <text class="role jb" x="92" y="392" font-size="21" fill="#eceef6" opacity="1" style="animation-delay:1.9s">Java Full Stack Developer</text>
-  <text class="role jb" x="92" y="392" font-size="21" fill="#eceef6" opacity="0" style="animation-delay:4.9s">Spring Boot &amp; React Builder</text>
-  <text class="role jb" x="92" y="392" font-size="21" fill="#eceef6" opacity="0" style="animation-delay:7.9s">AI &amp; Data Science Enthusiast</text>
-  <text class="role jb" x="92" y="392" font-size="21" fill="#eceef6" opacity="0" style="animation-delay:10.9s">Problem Solver · 150+ DSA</text>
-
-  <!-- Bio -->
-  <text class="sgm fu" x="64" y="438" font-size="16" fill="#8d93ab" style="animation-delay:2.5s">Building clean, scalable full-stack apps with Java, Spring Boot &amp; React —</text>
-  <text class="sgm fu" x="64" y="460" font-size="16" fill="#8d93ab" style="animation-delay:2.62s">and AI-powered tools that solve real-world problems.</text>
-
-  <!-- Info pills -->
-  <g class="fu" style="animation-delay:3.0s">
-    <g transform="translate(72,494)">
-      <path d="M0-8a6 6 0 0 1 6 6c0 4.5-6 10-6 10s-6-5.5-6-10a6 6 0 0 1 6-6z" fill="none" stroke="#22d3ee" stroke-width="1.8"/>
-      <circle cy="-2" r="2" fill="#22d3ee"/>
-    </g>
-    <text class="jb" x="88" y="499" font-size="14" fill="#8d93ab">Pune, India</text>
-  </g>
-  <g class="fu" style="animation-delay:3.15s">
-    <g transform="translate(220,494)">
-      <rect x="-7" y="-5" width="14" height="11" rx="2" fill="none" stroke="#a78bfa" stroke-width="1.8"/>
-      <path d="M-3-5v-2.5h6V-5" fill="none" stroke="#a78bfa" stroke-width="1.8"/>
-    </g>
-    <text class="jb" x="236" y="499" font-size="14" fill="#8d93ab">B.Tech CSE · Data Science</text>
-  </g>
-  <g class="fu" style="animation-delay:3.3s">
-    <g transform="translate(430,494)">
-      <path d="M0-8l2.4 5 5.4.6-4 3.7 1.1 5.4L0 4 -4.9 6.7-3.8 1.3-7.8-2.4l5.4-.6z" fill="none" stroke="#f472b6" stroke-width="1.7" stroke-linejoin="round"/>
-    </g>
-    <text class="jb" x="446" y="499" font-size="14" fill="#8d93ab">1st Rank · 84.20%</text>
+    <text class="jbb" x="1172" y="712" font-size="13" fill="#34d399" letter-spacing="2">ALWAYS LEARNING</text>
   </g>
 </g>
 
-<!-- Outer border -->
-<rect x=".75" y=".75" width="1278.5" height="538.5" rx="25.5" fill="none" stroke="url(#edgeG)" stroke-width="1.5"/>
+<rect x=".75" y=".75" width="1278.5" height="718.5" rx="25.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
 </svg>

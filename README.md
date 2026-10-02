@@ -336,7 +336,6 @@ Billing application handling products, customers, invoices, and reports with mod
 
 ---
 
-
 <a id="developer-id-card"></a>
 ## 🎴 Developer ID Card
 

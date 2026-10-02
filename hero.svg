@@ -1,376 +1,348 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 540" width="1280" height="540" role="img" aria-label="Dharmanath Kadam — Java Full Stack Developer">
-<title>Dharmanath Kadam — Java Full Stack Developer</title>
-<defs>
-  <style>
-    .sg{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-weight:700}
-    .sgm{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-weight:500}
-    .jb{font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace}
-    .jbb{font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace;font-weight:700}
-    @keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
-    @keyframes fadeIn{from{opacity:0}to{opacity:1}}
-    @keyframes role{0%{opacity:0;transform:translateY(16px)}4%{opacity:1;transform:translateY(0)}22%{opacity:1;transform:translateY(0)}25.5%{opacity:0;transform:translateY(-16px)}100%{opacity:0;transform:translateY(-16px)}}
-    @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
-    @keyframes drift{from{transform:translate(0,0)}to{transform:translate(40px,-30px)}}
-    @keyframes drift2{from{transform:translate(0,0)}to{transform:translate(-50px,26px)}}
-    @keyframes draw{from{stroke-dashoffset:60}to{stroke-dashoffset:0}}
-    @keyframes scan{0%{transform:translateY(-100%)}100%{transform:translateY(420px)}}
-    @keyframes eyeBlink{0%,88%,100%{transform:scaleY(1)}92%{transform:scaleY(0.05)}}
-    .fu{animation:fadeUp .7s cubic-bezier(.2,.8,.2,1) both}
-    .fi{animation:fadeIn .7s ease both}
-    .role{animation:role 12s cubic-bezier(.2,.8,.2,1) infinite}
-    .cursor{animation:blink 1s steps(1) infinite}
-    .blob{animation:drift 14s ease-in-out infinite alternate}
-    .blob2{animation:drift2 16s ease-in-out infinite alternate}
-    .corner{stroke-dasharray:60;animation:draw .8s ease both}
-    .scanline{animation:scan 4s linear infinite}
-    .eye{transform-box:fill-box;transform-origin:center;animation:eyeBlink 4.5s infinite}
-    @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}
-  </style>
-  <linearGradient id="nameG" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
-    <animateTransform attributeName="gradientTransform" type="translate" values="-.35 0;.35 0;-.35 0" dur="7s" repeatCount="indefinite"/>
-  </linearGradient>
-  <linearGradient id="nameG2" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#22d3ee"/><stop offset=".55" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
-  </linearGradient>
-  <linearGradient id="cardG" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#171a2c"/><stop offset="1" stop-color="#121423"/>
-  </linearGradient>
-  <linearGradient id="edgeG" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#22d3ee" stop-opacity=".5"/><stop offset=".5" stop-color="#262a42"/><stop offset="1" stop-color="#f472b6" stop-opacity=".5"/>
-  </linearGradient>
-  <linearGradient id="skinG" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#e8b88a"/><stop offset="1" stop-color="#c99565"/>
-  </linearGradient>
-  <linearGradient id="skinShadow" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#c99565"/><stop offset="1" stop-color="#a87a4c"/>
-  </linearGradient>
-  <linearGradient id="hairG" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#2a1a0f"/><stop offset="1" stop-color="#0f0805"/>
-  </linearGradient>
-  <linearGradient id="hairHi" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#4a3020"/><stop offset="1" stop-color="#2a1a0f"/>
-  </linearGradient>
-  <linearGradient id="hoodieG" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#4a8dff"/><stop offset="1" stop-color="#1e40af"/>
-  </linearGradient>
-  <linearGradient id="hoodieShadow" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#2563eb"/><stop offset="1" stop-color="#1e3a8a"/>
-  </linearGradient>
-  <linearGradient id="screenG" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#0b1e1a"/><stop offset="1" stop-color="#06100e"/>
-  </linearGradient>
-  <radialGradient id="glowG" cx=".5" cy=".5" r=".5">
-    <stop offset="0" stop-color="#22d3ee" stop-opacity=".35"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
-  </radialGradient>
-  <radialGradient id="glowP" cx=".5" cy=".5" r=".5">
-    <stop offset="0" stop-color="#a78bfa" stop-opacity=".3"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
-  </radialGradient>
-  <radialGradient id="faceLight" cx=".5" cy=".4" r=".6">
-    <stop offset="0" stop-color="#ffffff" stop-opacity=".12"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
-  </radialGradient>
-  <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
-    <circle cx="13" cy="13" r=".9" fill="#ffffff" fill-opacity=".06"/>
-  </pattern>
-  <filter id="blur60" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
-  <filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  <clipPath id="card"><rect width="1280" height="540" rx="26"/></clipPath>
-  <clipPath id="hiClip"><rect x="60" y="130" width="330" height="46"><animate attributeName="width" values="0;0;330" keyTimes="0;.4167;1" dur="1.2s" begin="0s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.3 0 .2 1"/></rect></clipPath>
-  <clipPath id="nameClip"><rect x="50" y="170" width="600" height="100"><animate attributeName="y" values="262;262;170" keyTimes="0;.5263;1" dur="1.9s" begin="0s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1"/></rect></clipPath>
-  <clipPath id="screenClip"><rect x="990" y="140" width="180" height="130" rx="6"/></clipPath>
-</defs>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--              DHARMANATH KADAM · CINEMATIC ULTIMATE EDITION              -->
+<!--              Java Full Stack Developer · AI · Data Science              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<g clip-path="url(#card)">
-  <rect width="1280" height="540" fill="url(#cardG)"/>
-  <rect width="1280" height="540" fill="url(#dots)"/>
+<div align="center">
 
-  <g filter="url(#blur60)" opacity=".55">
-    <circle class="blob" cx="170" cy="120" r="150" fill="#22d3ee" fill-opacity=".22"/>
-    <circle class="blob2" cx="470" cy="470" r="170" fill="#a78bfa" fill-opacity=".22"/>
-    <circle class="blob" cx="1150" cy="80" r="130" fill="#f472b6" fill-opacity=".14"/>
-  </g>
+<img src="hero.svg" width="100%" alt="Dharmanath Kadam — Hero Banner"/>
 
-  <!-- ═══ RIGHT SCENE ═══ -->
-  <g class="fu" style="animation-delay:.4s">
+<br/>
 
-    <ellipse cx="1000" cy="360" rx="260" ry="150" fill="url(#glowG)"/>
-    <ellipse cx="1060" cy="160" rx="160" ry="120" fill="url(#glowP)"/>
+<img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=VISITORS&color=3b82f6&style=for-the-badge" alt="Visitors"/>
+<img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=for-the-badge&color=0284c7&labelColor=0b1e1a" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/dharmanathsk04?label=STARS&style=for-the-badge&color=fbbf24&labelColor=0b1e1a" alt="Stars"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-3b82f6?style=for-the-badge&labelColor=0b1e1a" alt="Status"/>
 
-    <!-- Wall clock -->
-    <g transform="translate(1220, 100)" opacity=".75">
-      <circle r="15" fill="#0f1420" stroke="#262a42" stroke-width="1.8"/>
-      <circle r="12" fill="none" stroke="#22d3ee" stroke-opacity=".35" stroke-width=".7"/>
-      <circle r="1.5" fill="#22d3ee"/>
-      <line x1="0" y1="0" x2="0" y2="-8" stroke="#eceef6" stroke-width="1.4" stroke-linecap="round"/>
-      <line x1="0" y1="0" x2="5" y2="3" stroke="#eceef6" stroke-width="1.4" stroke-linecap="round"/>
-    </g>
+<br/><br/>
 
-    <!-- Monitor -->
-    <g transform="translate(1080, 130)">
-      <rect x="-100" y="0" width="200" height="150" rx="12" fill="#0a0e14" stroke="#262a42" stroke-width="2"/>
-      <rect x="-90" y="10" width="180" height="130" rx="6" fill="url(#screenG)"/>
-      <g clip-path="url(#screenClip)" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="10">
-        <text x="1000" y="165" fill="#22d3ee">public class Dev {</text>
-        <text x="1010" y="183" fill="#fbbf24">void build() {</text>
-        <text x="1020" y="201" fill="#a78bfa">Spring.run();</text>
-        <text x="1020" y="219" fill="#34d399">React.render();</text>
-        <text x="1010" y="237" fill="#fbbf24">}</text>
-        <text x="1000" y="255" fill="#22d3ee">}</text>
-        <rect x="1020" y="262" width="6" height="10" fill="#22d3ee" class="cursor"/>
-      </g>
-      <g clip-path="url(#screenClip)">
-        <rect class="scanline" x="990" y="140" width="180" height="25" fill="#22d3ee" opacity=".1"/>
-      </g>
-      <rect x="1090" y="280" width="40" height="20" fill="#1a1f2e"/>
-      <rect x="1060" y="298" width="100" height="6" rx="3" fill="#1a1f2e"/>
-    </g>
+<a href="https://drive.google.com/file/d/1ID75LUVdrC4dDKWRzlFk5IVtnv4UoyMp/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20RESUME-View%20Now-3b82f6?style=for-the-badge&labelColor=0b1e1a&logo=googledrive&logoColor=white" alt="Resume"/>
+</a>
+<a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1e1a" alt="LinkedIn"/>
+</a>
+<a href="mailto:dharmanathkadam@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1e1a" alt="Email"/>
+</a>
 
-    <!-- Chair back -->
-    <path d="M855 460 Q845 290 900 250 Q955 290 945 460 Z" fill="#151a26" stroke="#262a42" stroke-width="1.5"/>
+</div>
 
-    <!-- Desk -->
-    <rect x="770" y="440" width="480" height="100" fill="#1a1f2e"/>
-    <rect x="770" y="440" width="480" height="3" fill="#22d3ee" opacity=".5"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:3b82f6,100:0b1e1a&height=3" width="100%"/>
 
-    <!-- ═══ BOY (MASCULINE) ═══ -->
-    <g transform="translate(900, 440)">
+---
 
-      <!-- Legs -->
-      <rect x="-45" y="-15" width="26" height="55" rx="6" fill="#1e293b"/>
-      <rect x="19" y="-15" width="26" height="55" rx="6" fill="#1e293b"/>
-      <ellipse cx="-32" cy="42" rx="18" ry="5" fill="#0f172a"/>
-      <ellipse cx="32" cy="42" rx="18" ry="5" fill="#0f172a"/>
+## 📑 Table of Contents
 
-      <!-- Body / Hoodie (WIDER shoulders = masculine) -->
-      <path d="M-98 20 
-               Q-105 -55 -72 -100 
-               Q-40 -130 0 -132 
-               Q40 -130 72 -100 
-               Q105 -55 98 20 
-               Q92 45 0 45 
-               Q-92 45 -98 20 Z" 
-            fill="url(#hoodieG)"/>
-      <!-- Right shoulder shadow -->
-      <path d="M0 -132 Q40 -130 72 -100 Q105 -55 98 20 Q92 45 0 45 Z" fill="url(#hoodieShadow)" opacity=".35"/>
-      <!-- Hoodie pocket -->
-      <path d="M-52 0 Q-56 28 -45 42 L45 42 Q56 28 52 0 Z" fill="#1e40af" opacity=".55"/>
-      <path d="M-52 0 L52 0" stroke="#0f1e5c" stroke-width="1.2" opacity=".4"/>
-      <!-- Hoodie collar V-neck -->
-      <path d="M-46 -110 Q-24 -128 0 -130 Q24 -128 46 -110 Q24 -118 0 -120 Q-24 -118 -46 -110 Z" fill="#1e3a8a"/>
-      <path d="M-46 -110 Q-24 -128 0 -130" stroke="#3b82f6" stroke-width="1.5" fill="none" opacity=".5"/>
-      <!-- Drawstrings -->
-      <circle cx="-24" cy="-113" r="3" fill="#f0f4ff"/>
-      <line x1="-24" y1="-110" x2="-26" y2="-80" stroke="#f0f4ff" stroke-width="2.2" stroke-linecap="round"/>
-      <circle cx="24" cy="-113" r="3" fill="#f0f4ff"/>
-      <line x1="24" y1="-110" x2="26" y2="-80" stroke="#f0f4ff" stroke-width="2.2" stroke-linecap="round"/>
+| # | Section |
+|:---:|:---|
+| 1 | [👨‍💻 About Me](#about-me) |
+| 2 | [🎯 Core Strengths](#core-strengths) |
+| 3 | [💼 Experience](#experience) |
+| 4 | [🚀 Featured Projects](#featured-projects) |
+| 5 | [🏆 Achievements](#achievements) |
+| 6 | [🛠️ Tech Stack](#tech-stack) |
+| 7 | [📊 GitHub Activity](#github-activity) |
+| 8 | [🌱 Currently Learning](#currently-learning) |
+| 9 | [🤝 Connect With Me](#connect-with-me) |
+| 10 | [🎴 Developer ID Card](#developer-id-card) |
 
-      <!-- Neck (WIDER = masculine) -->
-      <rect x="-22" y="-158" width="44" height="34" rx="10" fill="#a87a4c"/>
+---
 
-      <!-- ═══ HEAD (MASCULINE FEATURES) ═══ -->
-      <g transform="translate(0, -225)">
+<a id="about-me"></a>
+## 👨‍💻 About Me
 
-        <!-- Hair back layer — SHORT SIDES -->
-        <path d="M-46 -4 
-                 Q-48 -55 -22 -76 
-                 Q0 -86 22 -76 
-                 Q48 -55 46 -4 
-                 Q44 -18 40 -24 
-                 L40 8 
-                 Q22 -2 0 -4 
-                 Q-22 -2 -40 8 
-                 L-40 -24 
-                 Q-44 -18 -46 -4 Z" 
-              fill="url(#hairG)"/>
+I'm a **B.Tech Computer Science & Engineering (Data Science)** student driven by a passion for building software that matters. I work at the intersection of **Java Full Stack Development**, **Artificial Intelligence**, and **Data Science** — designing backend systems, crafting responsive frontends, and turning ideas into working products.
 
-        <!-- Face — SQUARE JAW -->
-        <path d="M-44 -18 
-                 Q-46 -55 -20 -74 
-                 Q0 -80 20 -74 
-                 Q46 -55 44 -18 
-                 Q44 10 32 30 
-                 Q16 48 0 48 
-                 Q-16 48 -32 30 
-                 Q-44 10 -44 -18 Z" 
-              fill="url(#skinG)"/>
-        <!-- Face highlight -->
-        <path d="M-44 -18 Q-46 -55 -20 -74 Q0 -80 20 -74 Q46 -55 44 -18 Q44 10 32 30 Q16 48 0 48 Q-16 48 -32 30 Q-44 10 -44 -18 Z" fill="url(#faceLight)"/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-        <!-- Short hair top layer — NEAT SIDE PART -->
-        <path d="M-48 -26 
-                 Q-46 -62 -22 -78 
-                 Q0 -86 22 -78 
-                 Q46 -62 48 -26 
-                 Q42 -40 30 -46 
-                 L34 -30 
-                 Q20 -42 4 -40 
-                 L-6 -24 
-                 Q-24 -42 -42 -30 
-                 L-46 -42 
-                 Q-48 -34 -48 -26 Z" 
-              fill="url(#hairG)"/>
-        <!-- Hair shine -->
-        <path d="M-20 -72 Q-4 -80 16 -74" stroke="#4a3020" stroke-width="2.5" fill="none" opacity=".7" stroke-linecap="round"/>
-        <!-- Sideburn stubble hint -->
-        <path d="M-42 -8 L-40 8" stroke="#2a1a0f" stroke-width="1.2" opacity=".4"/>
-        <path d="M42 -8 L40 8" stroke="#2a1a0f" stroke-width="1.2" opacity=".4"/>
+**🎓 Education**
+B.Tech CSE — Data Science
 
-        <!-- Ears -->
-        <ellipse cx="-45" cy="2" rx="6" ry="10" fill="url(#skinShadow)"/>
-        <ellipse cx="45" cy="2" rx="6" ry="10" fill="url(#skinShadow)"/>
+</td>
+<td width="50%" valign="top">
 
-        <!-- Thick eyebrows -->
-        <path d="M-32 -20 Q-21 -24 -10 -20" stroke="#1a0e07" stroke-width="4" stroke-linecap="round" fill="none"/>
-        <path d="M10 -20 Q21 -24 32 -20" stroke="#1a0e07" stroke-width="4" stroke-linecap="round" fill="none"/>
+**💻 Role**
+Java Full Stack Developer — Spring Boot · React
 
-        <!-- Eyes — NO LONG LASHES -->
-        <g class="eye">
-          <ellipse cx="-20" cy="-4" rx="7" ry="6" fill="#ffffff"/>
-          <circle cx="-20" cy="-4" r="5.5" fill="#0a0603"/>
-          <circle cx="-20" cy="-4" r="3.5" fill="#0a0603"/>
-          <circle cx="-18.5" cy="-6" r="1.8" fill="#ffffff" opacity=".9"/>
-          <ellipse cx="20" cy="-4" rx="7" ry="6" fill="#ffffff"/>
-          <circle cx="20" cy="-4" r="5.5" fill="#0a0603"/>
-          <circle cx="20" cy="-4" r="3.5" fill="#0a0603"/>
-          <circle cx="21.5" cy="-6" r="1.8" fill="#ffffff" opacity=".9"/>
-        </g>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-        <!-- Straight nose -->
-        <path d="M-2 10 L-3 18 Q0 21 3 18 L2 10" stroke="#a87a4c" stroke-width="1.6" stroke-linecap="round" fill="none" opacity=".8"/>
+**🤖 Focus**
+AI · Machine Learning · Generative AI
 
-        <!-- Confident smile (not too big) -->
-        <path d="M-14 28 Q0 37 14 28" stroke="#8b5a3a" stroke-width="2.6" stroke-linecap="round" fill="none"/>
-      </g>
+</td>
+<td width="50%" valign="top">
 
-      <!-- Left arm -->
-      <path d="M-85 -65 Q-115 -35 -108 15 Q-105 35 -92 45" stroke="url(#hoodieG)" stroke-width="36" stroke-linecap="round" fill="none"/>
-      <ellipse cx="-85" cy="50" rx="18" ry="13" fill="url(#skinG)"/>
+**📊 Data**
+Python · Pandas · Power BI
 
-      <!-- Right arm -->
-      <path d="M85 -65 Q115 -35 108 15 Q105 35 92 45" stroke="url(#hoodieShadow)" stroke-width="36" stroke-linecap="round" fill="none"/>
-      <ellipse cx="85" cy="50" rx="18" ry="13" fill="url(#skinShadow)"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-      <!-- Laptop -->
-      <g transform="translate(0, 50)">
-        <path d="M-100 40 L-90 -55 L90 -55 L100 40 Z" fill="#1a1f2e" stroke="#262a42" stroke-width="1.5"/>
-        <rect x="-80" y="-47" width="160" height="65" rx="4" fill="#0a0e14"/>
-        <text x="-68" y="-30" font-family="ui-monospace,Menlo,monospace" font-size="10" fill="#22d3ee">&lt;code/&gt;</text>
-        <text x="-68" y="-14" font-family="ui-monospace,Menlo,monospace" font-size="10" fill="#a78bfa">build()</text>
-        <text x="-68" y="2" font-family="ui-monospace,Menlo,monospace" font-size="10" fill="#fbbf24">deploy()</text>
-        <rect x="-90" y="36" width="180" height="6" rx="3" fill="#2a3142"/>
-      </g>
-    </g>
+**🚀 Mission**
+Build clean, scalable, real-world software
 
-    <!-- Coffee -->
-    <g transform="translate(800, 415)">
-      <ellipse cx="0" cy="22" rx="13" ry="3.5" fill="#000" opacity=".4"/>
-      <rect x="-12" y="0" width="24" height="20" rx="4" fill="#2a3142"/>
-      <ellipse cx="0" cy="2" rx="10" ry="2.5" fill="#5a2f1e"/>
-      <path d="M12 6 Q20 10 12 16" fill="none" stroke="#2a3142" stroke-width="2.6"/>
-      <path d="M-4 -8 Q-6 -16 -3 -22" stroke="#8d93ab" stroke-width="1.4" fill="none" opacity=".55">
-        <animate attributeName="opacity" values=".1;.6;.1" dur="3s" repeatCount="indefinite"/>
-      </path>
-    </g>
+</td>
+<td width="50%" valign="top">
 
-    <!-- Plant -->
-    <g transform="translate(1220, 390)">
-      <path d="M-12 30 L12 30 L9 50 L-9 50 Z" fill="#4a2e1e"/>
-      <path d="M-12 30 L12 30 L11 33 L-11 33 Z" fill="#5a3a2a"/>
-      <path d="M0 30 Q-12 12 -7 -2 Q2 8 0 22" fill="#22c55e" opacity=".9"/>
-      <path d="M0 30 Q12 10 5 -4 Q-2 10 0 22" fill="#34d399" opacity=".9"/>
-      <path d="M0 30 Q-18 18 -14 4 Q-4 14 -2 24" fill="#22c55e" opacity=".75"/>
-      <path d="M0 30 Q18 16 12 2 Q2 12 0 24" fill="#34d399" opacity=".75"/>
-    </g>
+**🤝 Open To**
+Full Stack / Backend / AI-ML roles
 
-    <!-- Tech chips -->
-    <g>
-      <rect x="770" y="90" width="90" height="30" rx="10" fill="#f89820" fill-opacity=".14" stroke="#f89820" stroke-opacity=".55"/>
-      <circle cx="786" cy="105" r="4" fill="#f89820"/>
-      <text class="jb" x="800" y="110" font-size="12" fill="#eceef6">Java</text>
-    </g>
-    <g>
-      <rect x="1140" y="70" width="120" height="30" rx="10" fill="#6DB33F" fill-opacity=".14" stroke="#6DB33F" stroke-opacity=".55"/>
-      <circle cx="1156" cy="85" r="4" fill="#6DB33F"/>
-      <text class="jb" x="1170" y="90" font-size="12" fill="#eceef6">Spring Boot</text>
-    </g>
-    <g>
-      <rect x="1140" y="340" width="100" height="30" rx="10" fill="#61DAFB" fill-opacity=".14" stroke="#61DAFB" stroke-opacity=".55"/>
-      <circle cx="1156" cy="355" r="4" fill="#61DAFB"/>
-      <text class="jb" x="1170" y="360" font-size="12" fill="#eceef6">React</text>
-    </g>
-    <g>
-      <rect x="770" y="230" width="100" height="30" rx="10" fill="#4479A1" fill-opacity=".14" stroke="#4479A1" stroke-opacity=".55"/>
-      <circle cx="786" cy="245" r="4" fill="#4479A1"/>
-      <text class="jb" x="800" y="250" font-size="12" fill="#eceef6">MySQL</text>
-    </g>
-  </g>
+</td>
+</tr>
+</table>
 
-  <!-- Viewfinder HUD -->
-  <path class="corner" d="M760 74V40H794" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.3s"/>
-  <path class="corner" d="M1236 74V40H1202" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.38s"/>
-  <path class="corner" d="M760 466V500H794" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.46s"/>
-  <path class="corner" d="M1236 466V500H1202" fill="none" stroke="#eceef6" stroke-opacity=".7" stroke-width="2.2" stroke-linecap="round" style="animation-delay:0.54s"/>
+---
 
-  <g class="fi" style="animation-delay:.6s">
-    <circle cx="782" cy="483" r="5" fill="#34d399">
-      <animate attributeName="opacity" values="1;.15;1" dur="1.2s" repeatCount="indefinite"/>
-    </circle>
-    <text class="jbb" x="794" y="488" font-size="13" fill="#eceef6" letter-spacing="2">LIVE</text>
-    <text class="jb" x="1222" y="488" font-size="12" fill="#8d93ab" text-anchor="end" letter-spacing="1.5">DHARMANATH.DEV · 24FPS</text>
-  </g>
+<a id="core-strengths"></a>
+## 🎯 Core Strengths
 
-  <!-- Left: Info -->
-  <g class="fu" style="animation-delay:.2s">
-    <rect x="64" y="64" width="240" height="32" rx="16" fill="#34d399" fill-opacity=".1" stroke="#34d399" stroke-opacity=".45"/>
-    <circle cx="84" cy="80" r="4.5" fill="#34d399"/>
-    <circle cx="84" cy="80" r="4" fill="none" stroke="#34d399" stroke-width="1.5">
-      <animate attributeName="r" values="4;11" dur="1.6s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values=".9;0" dur="1.6s" repeatCount="indefinite"/>
-    </circle>
-    <text class="jbb" x="98" y="85" font-size="12" fill="#34d399" letter-spacing="1.6">OPEN TO WORK</text>
-  </g>
+| Strength | What I Bring |
+|:---|:---|
+| 🧠 **Data Structures & Algorithms** | 150+ problems solved; strong in arrays, trees, DP, graphs |
+| 🏗️ **Object-Oriented Design** | SOLID principles, clean architecture, design patterns in Java |
+| 🔗 **REST API Design** | Secure, versioned, well-documented APIs with Spring Boot |
+| 🗄️ **Database Modelling** | Normalized schemas, JPA/Hibernate, query optimization |
+| 🎨 **Responsive UI** | Component-driven React, Tailwind, mobile-first layouts |
+| 🤖 **ML Fundamentals** | Regression, classification, model evaluation, feature engineering |
+| 🐛 **Debugging & Testing** | Postman, JUnit, structured logging |
 
-  <text clip-path="url(#hiClip)" class="sgm" x="64" y="164" font-size="30" fill="#eceef6">Hi there, I'm</text>
+---
 
-  <g clip-path="url(#nameClip)">
-    <text class="sg" x="60" y="250" font-size="68" letter-spacing="-1.5" fill="url(#nameG)" filter="url(#glow)">DHARMANATH</text>
-  </g>
-  <text class="sg fu" x="60" y="316" font-size="68" letter-spacing="-1.5" fill="url(#nameG)" filter="url(#glow)" style="animation-delay:1.8s">KADAM</text>
+<a id="experience"></a>
+## 💼 Experience
 
-  <rect x="64" y="338" width="120" height="3" rx="1.5" fill="url(#nameG2)">
-    <animate attributeName="width" values="0;0;120" keyTimes="0;.68;1" dur="2.5s" begin="0s" fill="freeze"/>
-  </rect>
+### 🔹 Java Full Stack Development Intern — **DASP Private Limited**
+> **Duration:** 15 July – 15 September · **Location:** Pune, India · **Mode:** Hybrid (On-site & Online)
 
-  <text class="jbb fi" x="64" y="384" font-size="20" fill="#22d3ee" style="animation-delay:1.8s">&gt;</text>
-  <text class="role jb" x="90" y="384" font-size="20" fill="#eceef6" opacity="1" style="animation-delay:1.9s">Java Full Stack Developer</text>
-  <text class="role jb" x="90" y="384" font-size="20" fill="#eceef6" opacity="0" style="animation-delay:4.9s">Spring Boot &amp; React Builder</text>
-  <text class="role jb" x="90" y="384" font-size="20" fill="#eceef6" opacity="0" style="animation-delay:7.9s">AI &amp; Data Science Enthusiast</text>
-  <text class="role jb" x="90" y="384" font-size="20" fill="#eceef6" opacity="0" style="animation-delay:10.9s">Problem Solver · 150+ DSA</text>
+- Built RESTful APIs with **Spring Boot + Spring Data JPA + Hibernate**
+- Designed and integrated **MySQL** schemas with normalized relationships
+- Developed responsive **React** dashboards consuming backend APIs
+- **Stack:** `Java` · `Spring Boot` · `JPA` · `Hibernate` · `REST` · `MySQL` · `React`
 
-  <text class="sgm fu" x="64" y="428" font-size="16" fill="#8d93ab" style="animation-delay:2.5s">Building clean, scalable full-stack apps with Java, Spring Boot &amp; React —</text>
-  <text class="sgm fu" x="64" y="450" font-size="16" fill="#8d93ab" style="animation-delay:2.62s">and AI-powered tools that solve real-world problems.</text>
+### 🔹 Java Full Stack Trainee — **The Kiran Academy**
+> **Duration:** Sep 2025 – Mar 2026 (6 Months) · **Location:** Pune, India · **Mode:** Online
 
-  <g class="fu" style="animation-delay:3.0s">
-    <g transform="translate(72,488)">
-      <path d="M0-8a6 6 0 0 1 6 6c0 4.5-6 10-6 10s-6-5.5-6-10a6 6 0 0 1 6-6z" fill="none" stroke="#22d3ee" stroke-width="1.8"/>
-      <circle cy="-2" r="2" fill="#22d3ee"/>
-    </g>
-    <text class="jb" x="88" y="493" font-size="14" fill="#8d93ab">Pune, India</text>
-  </g>
-  <g class="fu" style="animation-delay:3.15s">
-    <g transform="translate(220,488)">
-      <rect x="-7" y="-5" width="14" height="11" rx="2" fill="none" stroke="#a78bfa" stroke-width="1.8"/>
-      <path d="M-3-5v-2.5h6V-5" fill="none" stroke="#a78bfa" stroke-width="1.8"/>
-    </g>
-    <text class="jb" x="236" y="493" font-size="14" fill="#8d93ab">B.Tech CSE · Data Science</text>
-  </g>
-  <g class="fu" style="animation-delay:3.3s">
-    <g transform="translate(430,488)">
-      <path d="M0-8l2.4 5 5.4.6-4 3.7 1.1 5.4L0 4 -4.9 6.7-3.8 1.3-7.8-2.4l5.4-.6z" fill="none" stroke="#f472b6" stroke-width="1.7" stroke-linejoin="round"/>
-    </g>
-    <text class="jb" x="446" y="493" font-size="14" fill="#8d93ab">1st Rank · 84.20%</text>
-  </g>
-</g>
+- Completed intensive training: **Core Java → Advanced Java → Spring Boot MVC → React**
+- Implemented **Servlet/JSP** apps, JDBC persistence, and layered MVC architectures
+- **Stack:** `Core Java` · `JDBC` · `SQL` · `Hibernate` · `Spring Boot MVC` · `React` · `Servlet/JSP` · `Postman`
 
-<rect x=".75" y=".75" width="1278.5" height="538.5" rx="25.5" fill="none" stroke="url(#edgeG)" stroke-width="1.5"/>
-</svg>
+### 🔹 Full Stack Development Intern — **AcmeGrade**
+> **Duration:** Feb 2025 – Jun 2025 · **Location:** Karnataka, India · **Mode:** Online
+
+- Worked across frontend, backend, and database layers on live tasks
+- Collaborated with mentors on code reviews and feature iterations
+- **Stack:** `HTML` · `CSS` · `JavaScript` · `Node.js` · `MongoDB`
+
+---
+
+<a id="featured-projects"></a>
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 CareVision
+
+**AI-Based Healthcare Platform** · `2024`
+
+Healthcare platform combining ML prediction models, interactive dashboards, and AI-powered features.
+
+`Python` · `Flask` · `MySQL` · `scikit-learn` · `Gemini API` · `Chart.js`
+
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Code-3b82f6?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white" alt="View Code"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🐾 PawStay AI
+
+**AI-Powered Pet Care Platform** · `2024`
+
+Smart pet home-stay platform connecting owners with trusted caregivers via intelligent matching.
+
+`Flutter` · `AI` · `Full Stack` · `Microservices`
+
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Code-0284c7?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white" alt="View Code"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 ShopMate
+
+**Java Spring Boot E-Commerce** · `2024`
+
+Full-stack e-commerce app with secure authentication, product catalog, cart, and order workflow.
+
+`Java` · `Spring Boot` · `REST APIs` · `MySQL` · `React`
+
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Code-3b82f6?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white" alt="View Code"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Clever Bill
+
+**Production Billing App** · `2025` *(In Progress)*
+
+Contributing to mobile development of a production-grade enterprise billing application.
+
+`Mobile` · `Billing` · `Enterprise`
+
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/In%20Progress-fbbf24?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white" alt="In Progress"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 MiniLibrary
+
+**Full Stack Library Management** · `2024`
+
+Library system with book issuance, returns, member tracking, and React admin dashboard.
+
+`Java` · `Spring Boot` · `JPA` · `MySQL` · `React`
+
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Code-0284c7?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white" alt="View Code"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 MiniBill
+
+**Full Stack Billing Management** · `2024`
+
+Billing application handling products, customers, invoices, and reports with modern architecture.
+
+`Spring Boot` · `React` · `REST APIs` · `MySQL`
+
+<a href="https://github.com/dharmanathsk04?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Code-3b82f6?style=for-the-badge&labelColor=0b1e1a&logo=github&logoColor=white" alt="View Code"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<a id="achievements"></a>
+## 🏆 Achievements
+
+| Achievement | Details |
+|:---|:---|
+| 🥇 **Academic Excellence** | **1st Rank** in 2nd Year B.Tech — **84.20%** |
+| 🎓 **Merit Scholarship** | Sou. Shantadevi D. Patil Merit Scholarship Award **2025–26** |
+| 📜 **Certification** | NPTEL — Python for Data Science — **71%** |
+| 💻 **Industry Experience** | Completed 3 Full Stack Development internships & training programs |
+| 🧠 **DSA Practice** | 150+ problems solved on LeetCode |
+
+---
+
+<a id="tech-stack"></a>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="stack.svg" width="100%" alt="Dharmanath Kadam — Tech Stack"/>
+
+</div>
+
+---
+
+<a id="github-activity"></a>
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmanathsk04&bg_color=0b1e1a&color=3b82f6&line=0284c7&point=fbbf24&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=dharmanathsk04&show_icons=true&bg_color=0b1e1a&title_color=3b82f6&icon_color=22D3EE&text_color=ffffff&border_color=3b82f6&hide_border=true" width="60%" alt="GitHub Stats"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.demolab.com/?user=dharmanathsk04&theme=dark&background=0b1e1a&border=3b82f6&stroke=22D3EE&ring=fbbf24&fire=fbbf24&currStreakLabel=3b82f6" width="70%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmanathsk04&layout=compact&langs_count=8&bg_color=0b1e1a&title_color=3b82f6&text_color=ffffff&border_color=3b82f6&hide_border=true" width="60%" alt="Top Languages"/>
+
+</div>
+
+---
+
+<a id="currently-learning"></a>
+## 🌱 Currently Learning
+
+> Advanced topics I'm actively levelling up on — beyond my current stack.
+
+| Area | What's Next |
+|:---|:---|
+| ⚙️ **Backend Depth** | Microservices · Spring Cloud · Kafka · Docker · Kubernetes |
+| 🎨 **Frontend Depth** | TypeScript · Next.js · Redux Toolkit · Framer Motion |
+| 🤖 **AI / ML** | Deep Learning · LLMs · RAG · LangChain · Vector Databases |
+| ☁️ **Cloud & DevOps** | AWS (EC2, S3, RDS) · CI/CD with GitHub Actions · Nginx |
+| 🧠 **System Design** | Scalability · Caching · Load balancing · Distributed systems |
+
+---
+
+<a id="connect-with-me"></a>
+## 🤝 Connect With Me
+
+<div align="center">
+
+**💬 Open to opportunities, collaborations, and tech conversations.**
+
+<a href="https://www.linkedin.com/in/dharmanathsk1/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1e1a" alt="LinkedIn"/>
+</a>
+<a href="mailto:dharmanathkadam@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1e1a" alt="Gmail"/>
+</a>
+<a href="https://github.com/dharmanathsk04" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1e1a" alt="GitHub"/>
+</a>
+<a href="https://leetcode.com/u/rwTX1Jh5qx/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0b1e1a" alt="LeetCode"/>
+</a>
+<a href="https://www.kaggle.com/dharmanathkadam" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0b1e1a" alt="Kaggle"/>
+</a>
+
+</div>
+
+---
+
+<a id="developer-id-card"></a>
+## 🎴 Developer ID Card
+
+<div align="center">
+
+<img src="developer-id.svg" width="100%" alt="Dharmanath Kadam — Developer ID Card"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,30:0c4a6e,70:0f2922,100:0b1e1a&height=160&section=footer" width="100%"/>

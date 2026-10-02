@@ -38,6 +38,146 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:3b82f6,100:0b1e1a&height=3" width="100%"/>
 
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                           DEVELOPER DASHBOARD                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <br/>
+  <h3 style="color: #22D3EE; font-family: monospace; letter-spacing: 2px;">// DEVELOPER DASHBOARD</h3>
+  <h1>Profile at a glance</h1>
+  
+  <table width="100%" border="0">
+    <tr>
+      <td align="center" width="25%" style="background-color: #0b1e1a; border-radius: 10px; padding: 15px; border: 1px solid #1e293b;">
+        <span style="color: #3b82f6; font-size: 20px;">📁</span><br/>
+        <b style="font-size: 24px; color: white;">8+</b><br/>
+        <span style="color: #94a3b8; font-size: 12px;">PUBLIC REPOS</span>
+      </td>
+      <td width="2%"></td>
+      <td align="center" width="25%" style="background-color: #0b1e1a; border-radius: 10px; padding: 15px; border: 1px solid #1e293b;">
+        <span style="color: #fbbf24; font-size: 20px;">⭐</span><br/>
+        <b style="font-size: 24px; color: white;">54</b><br/>
+        <span style="color: #94a3b8; font-size: 12px;">TOTAL STARS</span>
+      </td>
+      <td width="2%"></td>
+      <td align="center" width="25%" style="background-color: #0b1e1a; border-radius: 10px; padding: 15px; border: 1px solid #1e293b;">
+        <span style="color: #d946ef; font-size: 20px;">🍴</span><br/>
+        <b style="font-size: 24px; color: white;">23</b><br/>
+        <span style="color: #94a3b8; font-size: 12px;">FORKS</span>
+      </td>
+      <td width="2%"></td>
+      <td align="center" width="25%" style="background-color: #0b1e1a; border-radius: 10px; padding: 15px; border: 1px solid #1e293b;">
+        <span style="color: #22D3EE; font-size: 20px;">👥</span><br/>
+        <b style="font-size: 24px; color: white;">25</b><br/>
+        <span style="color: #94a3b8; font-size: 12px;">FOLLOWERS</span>
+      </td>
+    </tr>
+  </table>
+  
+  <br/><br/>
+
+  <!-- ID CARD & STAR PROJECTS ROW -->
+  <table width="100%" border="0">
+    <tr>
+      <!-- LEFT: ID CARD -->
+      <td width="40%" valign="top" style="background-color: #0b1e1a; border-radius: 15px; padding: 20px; border: 1px solid #3b82f6; box-shadow: 0 0 15px rgba(59, 130, 246, 0.3);">
+        <div align="left" style="font-family: monospace; color: #22D3EE; font-size: 12px; letter-spacing: 1px;">// DEVELOPER ID</div>
+        <div align="right" style="font-family: monospace; color: #94a3b8; font-size: 10px;">v2.0</div>
+        <br/>
+        <div align="center">
+          <!-- Replace the image below with your actual photo URL -->
+          <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Dharmanath" width="120" height="120" style="border-radius: 50%; border: 3px solid #3b82f6;" alt="Avatar"/>
+        </div>
+        <br/>
+        <div align="center">
+          <h2 style="margin: 0; color: white; font-family: 'Fira Code', monospace;">Dharmanath Kadam</h2>
+          <p style="color: #3b82f6; font-size: 14px; font-weight: bold; margin: 5px 0;">JAVA FULL STACK DEVELOPER</p>
+        </div>
+        <br/>
+        <table width="100%" style="font-family: monospace; font-size: 12px; color: #94a3b8;">
+          <tr>
+            <td>📍 BASE</td>
+            <td align="right">India</td>
+          </tr>
+          <tr>
+            <td>💼 STATUS</td>
+            <td align="right" style="color: #4ade80;">OPEN TO COLLAB</td>
+          </tr>
+          <tr>
+            <td>🎓 EDU</td>
+            <td align="right">B.Tech CSE (DS)</td>
+          </tr>
+        </table>
+        <br/>
+        <div align="center">
+          <!-- Barcode simulation -->
+          <img src="https://barcode.tec-it.com/barcode.ashx?data=DHARMANATH-KADAM&code=Code128&translate-esc=on" alt="Barcode" height="30"/>
+        </div>
+      </td>
+      
+      <td width="5%"></td>
+
+      <!-- RIGHT: STAR PROJECTS & COMMUNITY -->
+      <td width="55%" valign="top">
+        <!-- MOST STARRED PROJECTS -->
+        <div align="left" style="background-color: #0b1e1a; border-radius: 10px; padding: 15px; border: 1px solid #1e293b; margin-bottom: 10px;">
+          <div style="font-family: monospace; color: #22D3EE; font-size: 12px; letter-spacing: 1px; margin-bottom: 10px;">MOST-STARRED PROJECTS</div>
+          
+          <table width="100%" style="font-family: monospace; font-size: 13px; color: #cbd5e1;">
+            <tr>
+              <td width="30%">CareVision</td>
+              <td width="55%"><div style="background-color: #1e293b; border-radius: 10px; height: 8px; width: 100%;"><div style="background: linear-gradient(90deg, #3b82f6, #22D3EE); width: 85%; height: 8px; border-radius: 10px;"></div></div></td>
+              <td width="15%" align="right" style="color: #fbbf24;">25 ⭐</td>
+            </tr>
+            <tr><td colspan="3" height="10"></td></tr>
+            <tr>
+              <td width="30%">PawStay AI</td>
+              <td width="55%"><div style="background-color: #1e293b; border-radius: 10px; height: 8px; width: 100%;"><div style="background: linear-gradient(90deg, #d946ef, #ec4899); width: 60%; height: 8px; border-radius: 10px;"></div></div></td>
+              <td width="15%" align="right" style="color: #fbbf24;">18 ⭐</td>
+            </tr>
+            <tr><td colspan="3" height="10"></td></tr>
+            <tr>
+              <td width="30%">ShopMate</td>
+              <td width="55%"><div style="background-color: #1e293b; border-radius: 10px; height: 8px; width: 100%;"><div style="background: linear-gradient(90deg, #3b82f6, #8b5cf6); width: 40%; height: 8px; border-radius: 10px;"></div></div></td>
+              <td width="15%" align="right" style="color: #fbbf24;">9 ⭐</td>
+            </tr>
+            <tr><td colspan="3" height="10"></td></tr>
+            <tr>
+              <td width="30%">MiniLibrary</td>
+              <td width="55%"><div style="background-color: #1e293b; border-radius: 10px; height: 8px; width: 100%;"><div style="background: linear-gradient(90deg, #22D3EE, #4ade80); width: 25%; height: 8px; border-radius: 10px;"></div></div></td>
+              <td width="15%" align="right" style="color: #fbbf24;">5 ⭐</td>
+            </tr>
+          </table>
+        </div>
+
+        <!-- COMMUNITY & BUILDING -->
+        <table width="100%" border="0">
+          <tr>
+            <td width="48%" valign="top" style="background-color: #0b1e1a; border-radius: 10px; padding: 15px; border: 1px solid #1e293b;">
+              <div style="font-family: monospace; color: #d946ef; font-size: 12px; letter-spacing: 1px; margin-bottom: 5px;">COMMUNITY</div>
+              <b style="font-size: 20px; color: white;">4.7K</b> <span style="color: #94a3b8; font-size: 12px;">Views / 30 Days</span>
+            </td>
+            <td width="4%"></td>
+            <td width="48%" valign="top" style="background-color: #0b1e1a; border-radius: 10px; padding: 15px; border: 1px solid #1e293b;">
+              <div style="font-family: monospace; color: #fbbf24; font-size: 12px; letter-spacing: 1px; margin-bottom: 5px;">BUILDING</div>
+              <ul style="color: #cbd5e1; font-size: 12px; margin: 0; padding-left: 15px;">
+                <li>Cinematic Web Experiences</li>
+                <li>AI Pair-Programming</li>
+                <li>Java Microservices</li>
+              </ul>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:3b82f6,100:0b1e1a&height=3" width="100%"/>
+
 ---
 
 ## 📑 Table of Contents
@@ -235,31 +375,63 @@ Billing application handling products, customers, invoices, and reports with mod
 ## 🛠️ Tech Stack
 
 <div align="center">
+  <br/>
+  <h3 style="color: #22D3EE; font-family: monospace; letter-spacing: 2px;">// TECH STACK</h3>
+  <h1>Tools I build with</h1>
+  <br/>
 
-**⚡ Languages**
+  <!-- FRONTEND -->
+  <div align="left" style="font-family: monospace; color: #22D3EE; font-size: 12px; letter-spacing: 1px; margin-bottom: 5px;">— FRONTEND</div>
+  <div align="left" style="margin-bottom: 15px;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0b1e1a" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0b1e1a" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0b1e1a" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0b1e1a" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0b1e1a" alt="React"/>
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0b1e1a" alt="Bootstrap"/>
+  </div>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Languages"/>
+  <!-- BACKEND & FRAMEWORKS -->
+  <div align="left" style="font-family: monospace; color: #d946ef; font-size: 12px; letter-spacing: 1px; margin-bottom: 5px;">— BACKEND & FRAMEWORKS</div>
+  <div align="left" style="margin-bottom: 15px;">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0b1e1a" alt="Java"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=0b1e1a" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=0b1e1a" alt="Hibernate"/>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0b1e1a" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=0b1e1a" alt="Express.js"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0b1e1a" alt="Flask"/>
+  </div>
 
-**🌐 Backend & Frameworks**
+  <!-- DATA & ENTERPRISE -->
+  <div align="left" style="font-family: monospace; color: #fbbf24; font-size: 12px; letter-spacing: 1px; margin-bottom: 5px;">— DATA & ENTERPRISE</div>
+  <div align="left" style="margin-bottom: 15px;">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0b1e1a" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0b1e1a" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0b1e1a" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0b1e1a" alt="SQL"/>
+  </div>
 
-<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,flask,maven" alt="Backend"/>
+  <!-- AI & DATA SCIENCE -->
+  <div align="left" style="font-family: monospace; color: #3b82f6; font-size: 12px; letter-spacing: 1px; margin-bottom: 5px;">— AI & DATA SCIENCE</div>
+  <div align="left" style="margin-bottom: 15px;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0b1e1a" alt="Python"/>
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0b1e1a" alt="scikit-learn"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0b1e1a" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0b1e1a" alt="Jupyter"/>
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0b1e1a" alt="Power BI"/>
+  </div>
 
-**🎨 Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" alt="Frontend"/>
-
-**🗄️ Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Databases"/>
-
-**🤖 AI & Data Science**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,jupyter" alt="AI/DS"/>
-
-**🛠️ Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,figma" alt="Tools"/>
-
+  <!-- TOOLS & WORKFLOW -->
+  <div align="left" style="font-family: monospace; color: #4ade80; font-size: 12px; letter-spacing: 1px; margin-bottom: 5px;">— TOOLS & WORKFLOW</div>
+  <div align="left" style="margin-bottom: 15px;">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0b1e1a" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1e1a" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0b1e1a" alt="Postman"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0b1e1a" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0b1e1a" alt="Figma"/>
+    <img src="https://img.shields.io/badge/AI_Prompting-8B5CF6?style=for-the-badge&logo=openai&logoColor=white&labelColor=0b1e1a" alt="AI Prompting"/>
+  </div>
+  <br/>
 </div>
 
 ---

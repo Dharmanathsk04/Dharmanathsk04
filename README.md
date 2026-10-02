@@ -30,10 +30,6 @@
   <img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1e1a" alt="Email"/>
 </a>
 
-<br/><br/>
-
-📍 **India** · 🕐 **IST (UTC+5:30)** · 💼 **Open to Remote & On-site**
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e1a,50:3b82f6,100:0b1e1a&height=3" width="100%"/>
@@ -360,10 +356,6 @@ Billing application handling products, customers, invoices, and reports with mod
 <a href="https://www.kaggle.com/dharmanathkadam" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0b1e1a" alt="Kaggle"/>
 </a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2400&pause=700&color=3B82F6&center=true&vCenter=true&width=900&height=55&lines=⚡+BUILD+%E2%80%A2+LEARN+%E2%80%A2+CREATE+%E2%80%A2+IMPROVE+⚡" alt="Mantra"/>
 
 </div>
 

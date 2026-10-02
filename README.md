@@ -13,7 +13,6 @@
 
 <br/>
 
-
 <img src="https://komarev.com/ghpvc/?username=dharmanathsk04&label=VISITORS&color=3b82f6&style=for-the-badge" alt="Visitors"/>
 <img src="https://img.shields.io/github/followers/dharmanathsk04?label=FOLLOWERS&style=for-the-badge&color=0284c7&labelColor=0b1e1a" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/dharmanathsk04?label=STARS&style=for-the-badge&color=fbbf24&labelColor=0b1e1a" alt="Stars"/>
@@ -37,11 +36,17 @@
 
 ---
 
-## 📑 Table of Contents
+## 🎴 Developer ID Card
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<div align="center">
+
+<img src="developer-id.svg" width="100%" alt="Dharmanath Kadam — Developer ID Card"/>
+
+</div>
+
+---
+
+## 📑 Table of Contents
 
 | # | Section |
 |:---:|:---|
@@ -54,15 +59,6 @@
 | 7 | [📊 GitHub Activity](#github-activity) |
 | 8 | [🌱 Currently Learning](#currently-learning) |
 | 9 | [🤝 Connect With Me](#connect-with-me) |
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="developer-id.svg" width="290" alt="Dharmanath Kadam — Developer ID Card"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
